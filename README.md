@@ -357,6 +357,17 @@ manera eficiente y satisfacer sus necesidades laborales.
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al desarrollar una plataforma donde los empleadores puedan publicar ofertas de empleo temporal y los empleados puedan explorar y contactar directamente a los empleadores, aumentaremos la eficiencia en la búsqueda y contratación de empleos temporales. Sabremos que hemos tenido éxito cuando veamos un aumento en el número de empleos publicados, la tasa de respuesta de los empleados a las ofertas y la tasa de éxito en la contratación.
+
+- Creemos que al enfocarnos en jóvenes de 18 a 30 años como público objetivo para empleados y personas de 18 a 50 años como empleadores, podremos atender las necesidades y preferencias de ambos grupos de manera efectiva. Sabremos que hemos tenido éxito mediante el seguimiento de la distribución de edades de los usuarios registrados y la retroalimentación recopilada por cada segmento objetivo para verificar que se cumplen las necesidades de cada grupo.
+
+- Creemos que al implementar un sistema de calificaciones y comentarios en donde se evalúen tanto a los empleadores como empleados, incrementaremos la confianza entre las partes y fomentaremos una mayor satisfacción en la plataforma. Sabremos que hemos tenido éxito mediante el seguimiento de la cantidad y calidad de las calificaciones y comentarios proporcionados, así como la frecuencia de las contrataciones recurrentes.
+
+- Creemos que al ofrecer una función de reclamos que permita a los usuarios reportar problemas o situaciones insatisfactorias, aumentaremos la sensación de seguridad y protección en la plataforma, lo que fomentará un ambiente más positivo y colaborativo. Sabremos que hemos tenido éxito cuando incremente la satisfacción general de nuestros usuarios respecto a la resolución de problemas mediante reclamos.
+
+- Creemos que al proporcionar oportunidades de empleo temporal para los jóvenes y promover el uso de la plataforma como fuente de ingresos, contribuiremos a la independencia financiera y al crecimiento económico personal, lo que se traducirá en una mayor participación y retención de usuarios. Sabremos que hemos tenido éxito mediante la recopilación de testimonios de casos de éxito de jóvenes usuarios que hayan logrado generar ingresos a través de la plataforma.
+
 #### 1.2.2.4. Lean UX Canvas
 # 1.3. Segmentos Objetivo
 
