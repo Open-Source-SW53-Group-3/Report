@@ -135,6 +135,130 @@
 ### 1.1.1. Description de la StartUp
 DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
 ### 1.1.2. Perfiles de integrantes del equipo
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446949110173706/Steve.jpg?width=511&height=681" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Steve Roger Castillo Robles y soy estudiante de la carrera de Ing. de Software y tengo conocimientos de JS, HTML y CSS. Ya en la universidad adquirí conocimientos de C++ que me dio la base para entender de manera más profunda todo este mundo de la programación e informática; además, cuento con conocimientos en Git y GitHub que me ayudan a gestionar mis proyectos además de poder revisarlos en cualquier momento. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/1145583761182965852/1145600038412750848/0540202124061.jpg?width=454&height=681" alt="Ray Del Carmen" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Ray Alessandro Del Carmen Zorrilla
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Tengo experiencia en el lenguaje C++, además de contar con habilidades interpersonales que facilitan el trabajo colaborativo. Mi enfoque creativo me capacita para proponer ideas innovadoras y abordar de manera efectiva los desafíos que puedan surgir durante el desarrollo de este proyecto.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947935764600/Def-foto.png" alt="Diego Defilippi" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Diego Defilippi Santillán
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Diego Defilippi y tengo una gran pasión por la programación y el diseño de software. Desde hace dos años, estoy aprendiendo las diversas ramas de esta fascinante ingeniería, como el backend, frontend y data science. De igual modo, estoy estudiando diferentes idiomas como el inglés y el portugués, así como distintas habilidades blandas. Finalmente, me considero una persona autodidacta, organizada y con muchos ánimos de aprender. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446948808163449/Jenn-Foto.jpg" alt="Jennifer Espinoza" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Jennifer Mary Espinoza Quispe
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Jennifer Espinoza, me encuentro en el 5to ciclo de la carrera de Ing. de Software. En lo personal, me agrada aprender cosas nuevas, como nuevos lenguajes de programación e idiomas. Actualmente manejo el lenguaje de C++, un poco de Python y JavaScript. Me considero una persona creativa, responsable y paciente, habilidades que ayudarán en el presente proyecto.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947642146888/Castro.jpg" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Diego Mauricio Castro Soto
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Diego Castro, tengo 22 años y me considero alguien autodidacta a quién le gusta siempre aprender nuevas cosas leyendo diversos recursos en la web, ya sea investigando en foros, leyendo libros o a través de videos. Desde ya hace un tiempo me encuentro adquiriendo nuevos conocimientos de diversos lenguajes de programación como C, C++ y C#. Adicional a esto me encuentro sumamente interesado en ahondar en las ramas del desarrollo de videojuegos, la seguridad informática y el desarrollo de aplicaciones web.
+        </td>
+    </tr>
+</table>
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 La búsqueda de trabajos confiables y adecuados, especialmente para
