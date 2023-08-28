@@ -133,6 +133,7 @@
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
+DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
