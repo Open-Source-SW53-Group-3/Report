@@ -400,6 +400,62 @@ De acuerdo con la investigación de Vásquez et al. (2006), realizada en el año
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestro segmento objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas demográficas:**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Lugar de residencia?
+4. ¿A qué te dedicas actualmente?
+
+**Preguntas sobre personalidad**
+
+1. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?
+
+**Preguntas Segmento 1: Chambeador** 
+
+1. ¿Has tenido la necesidad de buscar algún trabajo?
+    1. ¿Presentaste dificultades al encontrar trabajo? ¿Cuáles?
+2. ¿Tuviste algún problema con el empleador?
+3. ¿Qué actividades podrías desempeñar para un empleador?
+4. ¿Cómo estableces la tarifa por dichas actividades?
+5. ¿Cuál es tu opinión sobre la importancia de adquirir experiencia laboral a una edad temprana?
+6. ¿Alguna vez has considerado trabajar en empleos temporales o por proyecto? ¿Por qué sí o por qué no?
+7. ¿Qué obstáculos crees que podrías enfrentar al buscar trabajo a tu edad y cómo piensas superarlos?
+8. ¿Cómo equilibras tus estudios y otras actividades con la posibilidad de trabajar de manera temporal?
+9. ¿Qué aspectos valoras más al considerar un trabajo temporal? ¿La flexibilidad, el tipo de trabajo, el salario?
+10. ¿Qué te motivaría a aceptar un trabajo eventual y qué te haría rechazarlo?
+
+**Segmento 2: Empleador** 
+
+1. ¿ Qué consideras importante al momento de contratar a alguien?
+2. ¿ Consideras que la experiencia previa es importante?
+3. ¿Prefieren contratar a trabajadores especializados o están abiertos a considerar a aquellos sin experiencia previa?
+4. ¿Cuáles son las cualidades o habilidades clave que buscas al contratar a un trabajador para un empleo eventual o proyecto?
+5. ¿Qué factores influyen en tu decisión de contratar a alguien que carece de experiencia laboral pero muestra entusiasmo y potencial?
+6. ¿Has tenido experiencias previas con trabajadores jóvenes o sin experiencia? ¿Cuáles fueron los aspectos positivos y los desafíos?
+7. ¿Qué tan importante es la flexibilidad de horarios en los candidatos que consideras para empleos temporales?
+
+**Sobre una posible app: Segmento 01**
+
+1. ¿Te gustaría que una aplicación de búsqueda de empleo le ayudará a encontrar trabajos que se ajusten a sus habilidades y horarios?
+2. ¿Cuáles serían las características más importantes para usted en una aplicación de búsqueda de empleo eventual (por ejemplo, facilidad de uso, variedad de oportunidades, retroalimentación de otros empleadores)?
+
+**Sobre una posible app: Segmento 02** 
+
+1. ¿Cómo le gustaría que una aplicación de búsqueda de trabajadores temporales le ayudará a encontrar candidatos que se ajusten a las necesidades de su proyecto?
+2. ¿Cuáles serían las características más importantes para usted en una aplicación de búsqueda y contratación de trabajadores eventuales (por ejemplo, facilidad de uso, calidad de candidatos, retroalimentación de otros empleadores)?
+
+**Explicación de ChambeaPe**
+
+**ChambeaPe** es una aplicación que tiene como principal objetivo innovar en el ámbito laboral para abordar las limitaciones de los trabajos ocasionales o "cachuelos", como son comúnmente conocidos. Su enfoque central es proporcionar oportunidades de empleo temporal a una amplia variedad de usuarios, permitiéndoles asegurar su sustento económico y avanzar en términos financieros. Esta plataforma estará dotada de funcionalidades que posibilitarán a los solicitantes examinar su historial laboral previo y simplificarán la divulgación de requerimientos de personal especializado en tareas específicas. A través de esta iniciativa, nuestra aspiración es brindar respaldo a las numerosas personas que enfrentan cotidianamente los retos derivados del desempleo en nuestra nación.
+
+**Para mejorar la idea del negocio**
+
+1. ¿Qué te parece la idea de nuestro proyecto? ¿Te sería útil?
+2. ¿Tienes sugerencias sobre posibles mejoras o características adicionales que podríamos integrar en nuestra aplicación?
 ### 2.2.2. Registro de entrevistas
 
 <span style="font-size: 20px;">**Segmento 01**</span>
