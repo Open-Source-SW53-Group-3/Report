@@ -403,7 +403,19 @@ El problema afecta a adultos jóvenes y estudiantes universitarios de entre 18 y
     <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145991046635982898/Lean_UX_Canvas.png" alt="Canvas"  width="90%"/>
 </div>
 
-# 1.3. Segmentos Objetivo
+## 1.3. Segmentos Objetivo
+
+Para el desarrollo de nuestro proyecto, reconocimos la importancia de delimitar de manera vital nuestros segmentos objetivos, con el fin de obtener un enfoque nítido sobre nuestros usuarios potenciales.
+
+**Primer Segmento Objetivo:**
+
+En nuestro primer segmento objetivo, nos dirigimos a una audiencia de entre 18 y 30 años, que busca la oportunidad de asegurar su subsistencia mediante empleos eventuales. Además, desean tener la capacidad de exhibir sus habilidades y experiencia para trabajos específicos.
+
+**Segundo Segmento Objetivo:**
+
+Como segundo segmento objetivo, nos enfocamos en usuarios de 18 a 50 años. Esta audiencia está interesada en encontrar profesionales especializados para trabajos ocasionales y busca la opción de explorar y contratar personal con competencias específicas para tareas particulares.
+
+De acuerdo con la investigación de Vásquez et al. (2006), realizada en el año 2000, la tasa de desempleo en Perú se mantuvo baja, alcanzando un 5,4%. Sin embargo, los resultados de una encuesta revelaron que el 40% de los encuestados consideraba el desempleo como uno de los problemas más apremiantes del país. Esta aparente contradicción entre las estadísticas y la percepción de la población se explica por la dinámica intrínseca del mercado laboral: los puestos de trabajo se crean y desaparecen rápidamente, lo que lleva a las personas a buscar empleos temporales o "cachuelos" para mantenerse activas. En otras palabras, la tasa de desempleo es fluctuante y las personas buscan autogenerarse empleo o subemplearse para evitar la inactividad laboral.
 
 <br><br>
 
@@ -488,15 +500,20 @@ El problema afecta a adultos jóvenes y estudiantes universitarios de entre 18 y
 <br><br>
 
 # Bibliografía
-1. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
+
+1. Peceros Silvera, A., Riquelme Silva, T., & Vásquez Quispe, L. (2006). El mundo laboral: redescubriendo mis capacidades como trabajador: Ciclo Intermedio. 
+Recuperado de: http://hdl.handle.net/11162/61606 
+
+2. Redacción Perú21. (2023, 03 de febrero). *Número de peruanos que
 trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
 2023, de
 <https://peru21.pe/cheka/cursos-online-trabajadores-numero-de-peruanos-que-trabajan-y-estudian-crece-en-5-noticia/#google_vignette>
 
-2. Redacción RPP. (2022, 01 de septiembre). *Empleo: 8 de cada 10 jóvenes
+3. Redacción RPP. (2022, 01 de septiembre). *Empleo: 8 de cada 10 jóvenes
 tienen problemas para encontrar trabajo*. Rpp. Recuperado el 23 de
 agosto del 2023, de
 <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
+
 
 <br><br>
 
