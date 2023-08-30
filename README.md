@@ -355,6 +355,11 @@ manera eficiente y satisfacer sus necesidades laborales.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+    En la sociedad actual, los jóvenes enfrentan constantes problemas para encontrar un trabajo seguro, especialmente si carecen de experiencia o necesitan un trabajo ocasional para financiar sus estudios. Esta situación conduce al estancamiento económico, aumenta el desempleo juvenil y crea dependencia económica. La falta de oportunidades y experiencia laboral previa son los principales obstáculos.
+    Según una encuesta realizada en Perú, el 80% de los jóvenes tiene dificultades para encontrar trabajo por falta de experiencia. Para pagar sus estudios, muchos jóvenes eligen trabajos no relacionados. Para solucionar este problema se creó ChambeaPe, una aplicación que conecta a jóvenes que quieren trabajar temporalmente con empleadores. El objetivo es crear una comunidad en línea que facilite estas conexiones y aborde las preocupaciones laborales de ambos grupos.
+    El problema afecta a adultos jóvenes y estudiantes universitarios de entre 18 y 30 años. La falta de oportunidades y experiencia crea un círculo vicioso de desempleo juvenil. ChambeaPe tiene como objetivo romper este ciclo proporcionando una plataforma para que los jóvenes encuentren trabajo temporal y adquieran experiencia que contribuya a su independencia financiera y crecimiento personal.
+    
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
