@@ -355,9 +355,54 @@ manera eficiente y satisfacer sus necesidades laborales.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+- En la sociedad actual, los jóvenes enfrentan constantes problemas para encontrar un trabajo seguro, especialmente si carecen de experiencia o necesitan un trabajo ocasional para financiar sus estudios. Esta situación conduce al estancamiento económico, aumenta el desempleo juvenil y crea dependencia económica. La falta de oportunidades y experiencia laboral previa son los principales obstáculos.
+Según una encuesta realizada en Perú, el 80% de los jóvenes tiene dificultades para encontrar trabajo por falta de experiencia. Para pagar sus estudios, muchos jóvenes eligen trabajos no relacionados. Para solucionar este problema se creó ChambeaPe, una aplicación que conecta a jóvenes que quieren trabajar temporalmente con empleadores. El objetivo es crear una comunidad en línea que facilite estas conexiones y aborde las preocupaciones laborales de ambos grupos.
+El problema afecta a adultos jóvenes y estudiantes universitarios de entre 18 y 30 años. La falta de oportunidades y experiencia crea un círculo vicioso de desempleo juvenil. ChambeaPe tiene como objetivo romper este ciclo proporcionando una plataforma para que los jóvenes encuentren trabajo temporal y adquieran experiencia que contribuya a su independencia financiera y crecimiento personal.
+    
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business outcomes:**
+ - **Incremento de la plataforma:** Al conectar de manera eficiente a jóvenes con habilidades diversas con demandantes de servicios, DigitalDart puede aumentar la adopción de su plataforma, lo que resultará en un aumento en la cantidad de transacciones y usuarios activos.
+
+- **Generación de ingresos:** Al facilitar un mercado para trabajos ocasionales, DigitalDart tiene el potencial de generar ingresos a través de comisiones por transacciones, suscripciones premium u otras fuentes de monetización, contribuyendo a la sostenibilidad financiera del negocio.
+
+- **Expansión geográfica:** Al considerar la ubicación en su algoritmo de coincidencia, DigitalDart puede expandir su alcance geográfico y atraer a usuarios de diferentes regiones, lo que a su vez puede conducir a la expansión de la plataforma a nivel internacional.
+
+- **Fomento de la economía flexible:** Al proporcionar una plataforma que fomente trabajos ocasionales y flexibles, DigitalDart puede desempeñar un papel en la evolución de la economía laboral, impulsando la demanda de servicios laborales no tradicionales.
+
+- **Colaboración con empresas y emprendedores:** Al establecer conexiones entre jóvenes talentosos y empresas que buscan habilidades específicas, DigitalDart puede crear oportunidades de colaboración y proyectos únicos, lo que podría llevar a asociaciones a largo plazo.
+
+**Users:**
+- **Trabajador (18-30 años):** Jóvenes con diversas habilidades en busca de trabajos ocasionales para generar ingresos y libertad laboral. Utilizan la plataforma para conectarse con quienes necesitan sus habilidades.
+
+- **Empleador (18-50 años):** Personas o empresas que buscan contratar personas para proyectos específicos. Utilizan la plataforma para encontrar trabajadores flexibles con las habilidades requeridas.
+
+**Users outcomes:**
+- **Oportunidades laborales flexibles:** Los jóvenes entre 18 y 30 años pueden acceder a una variedad de trabajos ocasionales que se ajusten a sus habilidades y horarios, lo que les brinda flexibilidad y control sobre su trabajo.
+-  **Generación de ingresos adicionales:** Los usuarios de DigitalDart pueden ganar dinero extra al participar en trabajos ocasionales, lo que les permite aumentar sus ingresos y alcanzar sus metas financieras de manera más efectiva.
+- **Experiencia laboral diversa:** Los usuarios tienen la oportunidad de explorar diferentes tipos de trabajos y adquirir una amplia gama de experiencias laborales, lo que puede enriquecer sus habilidades y aumentar su empleabilidad a largo plazo.
+- **Empoderamiento y autonomía:** DigitalDart empodera a los jóvenes al permitirles ofrecer sus servicios directamente a través de la plataforma, lo que les brinda un sentido de autonomía y control sobre su carrera laboral.
+- **Conexiones y redes profesionales:** Los usuarios pueden establecer conexiones valiosas con demandantes de servicios y otros profesionales en su campo, lo que puede llevar a oportunidades futuras y crecimiento en su red profesional.
+  
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al desarrollar una plataforma donde los empleadores puedan publicar ofertas de empleo temporal y los empleados puedan explorar y contactar directamente a los empleadores, aumentaremos la eficiencia en la búsqueda y contratación de empleos temporales. Sabremos que hemos tenido éxito cuando veamos un aumento en el número de empleos publicados, la tasa de respuesta de los empleados a las ofertas y la tasa de éxito en la contratación.
+
+- Creemos que al enfocarnos en jóvenes de 18 a 30 años como público objetivo para empleados y personas de 18 a 50 años como empleadores, podremos atender las necesidades y preferencias de ambos grupos de manera efectiva. Sabremos que hemos tenido éxito mediante el seguimiento de la distribución de edades de los usuarios registrados y la retroalimentación recopilada por cada segmento objetivo para verificar que se cumplen las necesidades de cada grupo.
+
+- Creemos que al implementar un sistema de calificaciones y comentarios en donde se evalúen tanto a los empleadores como empleados, incrementaremos la confianza entre las partes y fomentaremos una mayor satisfacción en la plataforma. Sabremos que hemos tenido éxito mediante el seguimiento de la cantidad y calidad de las calificaciones y comentarios proporcionados, así como la frecuencia de las contrataciones recurrentes.
+
+- Creemos que al ofrecer una función de reclamos que permita a los usuarios reportar problemas o situaciones insatisfactorias, aumentaremos la sensación de seguridad y protección en la plataforma, lo que fomentará un ambiente más positivo y colaborativo. Sabremos que hemos tenido éxito cuando incremente la satisfacción general de nuestros usuarios respecto a la resolución de problemas mediante reclamos.
+
+- Creemos que al proporcionar oportunidades de empleo temporal para los jóvenes y promover el uso de la plataforma como fuente de ingresos, contribuiremos a la independencia financiera y al crecimiento económico personal, lo que se traducirá en una mayor participación y retención de usuarios. Sabremos que hemos tenido éxito mediante la recopilación de testimonios de casos de éxito de jóvenes usuarios que hayan logrado generar ingresos a través de la plataforma.
+
 #### 1.2.2.4. Lean UX Canvas
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145991046635982898/Lean_UX_Canvas.png" alt="Canvas"  width="90%"/>
+</div>
+
 # 1.3. Segmentos Objetivo
 
 <br><br>
