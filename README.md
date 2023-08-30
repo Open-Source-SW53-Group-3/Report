@@ -157,7 +157,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy Steve Roger Castillo Robles y soy estudiante de la carrera de Ing. de Software y tengo conocimientos de JS, HTML y CSS. Ya en la universidad adquirí conocimientos de C++ que me dio la base para entender de manera más profunda todo este mundo de la programación e informática; además, cuento con conocimientos en Git y GitHub que me ayudan a gestionar mis proyectos además de poder revisarlos en cualquier momento. 
+        Soy Steve Roger Castillo Robles, estudiante de la carrera de Ing. de Software, tengo conocimientos de JS, HTML y CSS. Ya en la universidad adquirí conocimientos de C++ que me dio la base para entender de manera más profunda todo este mundo de la programación e informática; además, cuento con conocimientos en Git y GitHub que me ayudan a gestionar mis proyectos además de poder revisarlos en cualquier momento. 
         </td>
     </tr>
     <tr align="center">
@@ -181,7 +181,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Tengo experiencia en el lenguaje C++, además de contar con habilidades interpersonales que facilitan el trabajo colaborativo. Mi enfoque creativo me capacita para proponer ideas innovadoras y abordar de manera efectiva los desafíos que puedan surgir durante el desarrollo de este proyecto.
+        Soy Ray Del Carmen, estudiante de la carrera de Ingeneria de Software, tengo experiencia en el lenguaje C++, además de contar con habilidades interpersonales que facilitan el trabajo colaborativo. Mi enfoque creativo me capacita para proponer ideas innovadoras y abordar de manera efectiva los desafíos que puedan surgir durante el desarrollo de este proyecto.
         </td>
     </tr>
     <tr align="center">
@@ -229,7 +229,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy Diego Castro, tengo 22 años y me considero alguien autodidacta a quién le gusta siempre aprender nuevas cosas leyendo diversos recursos en la web, ya sea investigando en foros, leyendo libros o a través de videos. Desde ya hace un tiempo me encuentro adquiriendo nuevos conocimientos de diversos lenguajes de programación como C, C++ y C#. Adicional a esto me encuentro sumamente interesado en ahondar en las ramas del desarrollo de videojuegos, la seguridad informática y el desarrollo de aplicaciones web.
+        Soy Diego Castro, me considero alguien autodidacta a quién le gusta siempre aprender nuevas cosas leyendo diversos recursos en la web, ya sea investigando en foros, leyendo libros o a través de videos. Desde ya hace un tiempo me encuentro adquiriendo nuevos conocimientos de diversos lenguajes de programación como C, C++ y C#. Adicional a esto me encuentro sumamente interesado en ahondar en las ramas del desarrollo de videojuegos, la seguridad informática y el desarrollo de aplicaciones web.
         </td>
     </tr>
 </table>
@@ -717,7 +717,20 @@ La entrevista con Isaac comienza porque momentos previos a la entrevista me comu
 Al momento de plantearle la propuesta de la app “ChambeaPe” nos dio a conocer su aprobación ya que a él le gusta la idea de que existan personas que postulen al trabajo que publica y así él poder examinar a dichos postulantes para que al final se pueda elegir a uno.
 
 El feedback que nos da para poder ejercer como startup conjuntamente con ChambeaPe es que la app no se parezca mucho a plataformas existentes como lo puede ser LinkedIn y nos centremos en ayudar a encontrar trabajo al que más lo necesite.
+
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Chambeador de 18 a 30 años**
+
+Las entrevistas con los participantes reflejan diversas perspectivas sobre el empleo, la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados reconocen su capacidad para proporcionar oportunidades flexibles a jóvenes sin experiencia laboral. Se resaltan características como la evaluación de empleados y empleadores, la usabilidad y una comunicación eficiente entre las partes. Además, consideran la aplicación como una vía para adquirir experiencia temprana y diversificar ingresos. También se sugiere fortalecer la seguridad, ampliar las opciones de trabajo y establecer contratos claros entre empleados temporales y empleadores.
+
+En conjunto, estas entrevistas subrayan la importancia de la flexibilidad, la experiencia temprana y la comunicación efectiva en la búsqueda y realización de empleos temporales, mientras destacan tanto las ventajas como las áreas de mejora potencial de la aplicación "ChambeaPe".
+
+**Segmento 2: Empleador de 18 a 50 años**
+
+En las entrevistas, se revelan diversas perspectivas sobre la contratación y la utilidad de la aplicación "ChambeaPe". 
+En general, los participantes valoran la experiencia laboral, pero también reconocen la relevancia del compromiso y la disposición para aprender. Varios consideran la aplicación como una manera de mejorar la búsqueda de trabajadores temporales fiables y brindar oportunidades a individuos sin experiencia. Destacan la facilidad de uso, la retroalimentación y la adaptabilidad como características clave. Además, se subraya la importancia de encontrar personas confiables y cualificadas para los puestos. Algunos entrevistados también expresan la necesidad de características de filtrado y personalización en la aplicación para optimizar el proceso de selección de candidatos adecuados. En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
