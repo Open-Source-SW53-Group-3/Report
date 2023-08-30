@@ -398,6 +398,11 @@ El problema afecta a adultos jóvenes y estudiantes universitarios de entre 18 y
 - Creemos que al proporcionar oportunidades de empleo temporal para los jóvenes y promover el uso de la plataforma como fuente de ingresos, contribuiremos a la independencia financiera y al crecimiento económico personal, lo que se traducirá en una mayor participación y retención de usuarios. Sabremos que hemos tenido éxito mediante la recopilación de testimonios de casos de éxito de jóvenes usuarios que hayan logrado generar ingresos a través de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145991046635982898/Lean_UX_Canvas.png" alt="Canvas"  width="90%"/>
+</div>
+
 # 1.3. Segmentos Objetivo
 
 <br><br>
