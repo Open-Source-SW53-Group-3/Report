@@ -547,6 +547,15 @@ Un portal de empleos popular en el Perú, ofrece opciones de búsqueda de empleo
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Usaremos estrategias y tácticas que aprovechen nuestras fortalezas y oportunidades y poder sacar ventaja de las debilidades y amenazas de nuestros competidores. Por lo mismo nuestras estrategias son las siguientes:
+
+- Nos aseguraremos de fortaleces nuestra interfaz incluyendo búsqueda intuitiva, perfiles detallados y retroalimentación transparente. Lo que nos permitirá sobresalir ante nuestra competencia con satisfacción al usuario y usabilidad.
+- Usaremos datos del usuario para ofrecer recomendaciones de trabajos relevantes para los futuros trabajadores. Además, facilitaremos la búsqueda de personal al empleador preseleccionando a personas que más se acerquen al perfil que buscan.
+- Garantizaremos transparencia al momento de realizar los pago, los cuales se retendrán hasta dar concluido el trabajo y se haya verificado el estatus del mismo por ambas partes.
+- Fomentaremos la retroalimentación mutua y usaremos esos datos con el fin de mejorar nuestra plataforma para así cumplir con las necesidades del usuario.
+- Invertiremos en campañas de marketing en línea dirigida a públicos específicos, aprovechando las redes sociales.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
