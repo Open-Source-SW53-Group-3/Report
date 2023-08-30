@@ -10,10 +10,9 @@
 ### Team Members:
 | Member | Code |
 |:----|:----:|
-|Castillo Robles, Steve| U202121679 |
-|Castro Soto, Diego Mauricio | U202124058|
-|Del Carmen Zorrilla, Ray Alessandro | u202124061 |
-|Defilippi Santillán, Diego | U202120448 |
+|Castillo Robles, Steve Roger| U202121679 |
+|Castro Soto, Diego Mauricio | U202216636|
+|Del Carmen Zorrilla, Ray Alessandro | U202124061 |
 |Espinoza Quispe, Jennifer Mary | U202120911 |
 
 ### <center>Ciclo 2023-02</center>
@@ -183,30 +182,6 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
         <b>Acerca de:</b>
         <br>
         Tengo experiencia en el lenguaje C++, además de contar con habilidades interpersonales que facilitan el trabajo colaborativo. Mi enfoque creativo me capacita para proponer ideas innovadoras y abordar de manera efectiva los desafíos que puedan surgir durante el desarrollo de este proyecto.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947935764600/Def-foto.png" alt="Diego Defilippi" style="margin-bottom: 5px;" width="600"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Diego Defilippi Santillán
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ing. de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy Diego Defilippi y tengo una gran pasión por la programación y el diseño de software. Desde hace dos años, estoy aprendiendo las diversas ramas de esta fascinante ingeniería, como el backend, frontend y data science. De igual modo, estoy estudiando diferentes idiomas como el inglés y el portugués, así como distintas habilidades blandas. Finalmente, me considero una persona autodidacta, organizada y con muchos ánimos de aprender. 
         </td>
     </tr>
     <tr align="center">
@@ -425,7 +400,323 @@ De acuerdo con la investigación de Vásquez et al. (2006), realizada en el año
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestro segmento objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas demográficas:**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Lugar de residencia?
+4. ¿A qué te dedicas actualmente?
+
+**Preguntas sobre personalidad**
+
+1. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?
+
+**Preguntas Segmento 1: Chambeador** 
+
+1. ¿Has tenido la necesidad de buscar algún trabajo?
+    1. ¿Presentaste dificultades al encontrar trabajo? ¿Cuáles?
+2. ¿Tuviste algún problema con el empleador?
+3. ¿Qué actividades podrías desempeñar para un empleador?
+4. ¿Cómo estableces la tarifa por dichas actividades?
+5. ¿Cuál es tu opinión sobre la importancia de adquirir experiencia laboral a una edad temprana?
+6. ¿Alguna vez has considerado trabajar en empleos temporales o por proyecto? ¿Por qué sí o por qué no?
+7. ¿Qué obstáculos crees que podrías enfrentar al buscar trabajo a tu edad y cómo piensas superarlos?
+8. ¿Cómo equilibras tus estudios y otras actividades con la posibilidad de trabajar de manera temporal?
+9. ¿Qué aspectos valoras más al considerar un trabajo temporal? ¿La flexibilidad, el tipo de trabajo, el salario?
+10. ¿Qué te motivaría a aceptar un trabajo eventual y qué te haría rechazarlo?
+
+**Segmento 2: Empleador** 
+
+1. ¿ Qué consideras importante al momento de contratar a alguien?
+2. ¿ Consideras que la experiencia previa es importante?
+3. ¿Prefieren contratar a trabajadores especializados o están abiertos a considerar a aquellos sin experiencia previa?
+4. ¿Cuáles son las cualidades o habilidades clave que buscas al contratar a un trabajador para un empleo eventual o proyecto?
+5. ¿Qué factores influyen en tu decisión de contratar a alguien que carece de experiencia laboral pero muestra entusiasmo y potencial?
+6. ¿Has tenido experiencias previas con trabajadores jóvenes o sin experiencia? ¿Cuáles fueron los aspectos positivos y los desafíos?
+7. ¿Qué tan importante es la flexibilidad de horarios en los candidatos que consideras para empleos temporales?
+
+**Sobre una posible app: Segmento 01**
+
+1. ¿Te gustaría que una aplicación de búsqueda de empleo le ayudará a encontrar trabajos que se ajusten a sus habilidades y horarios?
+2. ¿Cuáles serían las características más importantes para usted en una aplicación de búsqueda de empleo eventual (por ejemplo, facilidad de uso, variedad de oportunidades, retroalimentación de otros empleadores)?
+
+**Sobre una posible app: Segmento 02** 
+
+1. ¿Cómo le gustaría que una aplicación de búsqueda de trabajadores temporales le ayudará a encontrar candidatos que se ajusten a las necesidades de su proyecto?
+2. ¿Cuáles serían las características más importantes para usted en una aplicación de búsqueda y contratación de trabajadores eventuales (por ejemplo, facilidad de uso, calidad de candidatos, retroalimentación de otros empleadores)?
+
+**Explicación de ChambeaPe**
+
+**ChambeaPe** es una aplicación que tiene como principal objetivo innovar en el ámbito laboral para abordar las limitaciones de los trabajos ocasionales o "cachuelos", como son comúnmente conocidos. Su enfoque central es proporcionar oportunidades de empleo temporal a una amplia variedad de usuarios, permitiéndoles asegurar su sustento económico y avanzar en términos financieros. Esta plataforma estará dotada de funcionalidades que posibilitarán a los solicitantes examinar su historial laboral previo y simplificarán la divulgación de requerimientos de personal especializado en tareas específicas. A través de esta iniciativa, nuestra aspiración es brindar respaldo a las numerosas personas que enfrentan cotidianamente los retos derivados del desempleo en nuestra nación.
+
+**Para mejorar la idea del negocio**
+
+1. ¿Qué te parece la idea de nuestro proyecto? ¿Te sería útil?
+2. ¿Tienes sugerencias sobre posibles mejoras o características adicionales que podríamos integrar en nuestra aplicación?
 ### 2.2.2. Registro de entrevistas
+
+<span style="font-size: 20px;">**Segmento 01**</span>
+
+**Entrevista 01**
+
+Nombres: Leonardo Alfredo
+
+Apellidos: Chunga Navarro
+
+Edad: 23 años
+
+Distrito: Bellavista
+
+Evidencia de la reunión: 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326468977238097/1.jpg?width=1595&height=897" alt="Canvas"  width="90%"/>
+</div>
+
+Inicio: 00:04
+
+Fin: 05:03
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=jf0n4n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuMTJ9fQ%3D%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=jf0n4n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuMTJ9fQ%3D%3D)
+
+Resumen de la entrevista:
+
+Se entrevistó a Leonardo Chunga, un joven de 23 años, estudiante de ingeniería civil en la Universidad Privada del Norte. Respecto a su personalidad, se considera una persona extrovertida. Al preguntarle sobre su experiencia buscando trabajo, él menciona que tuvo la necesidad de hacerlo en ciertas ocasiones pues necesitaba el dinero para la universidad. Además, tuvo malas experiencias con sus superiores en una empresa en la que trabajó, lo que lo motivó a renunciar.
+
+Respecto a posibles empleos que él podría realizar menciona pasear perros, cuidar personas y dar clases particulares sobre las materias que domina. Comenta que las tarifas que establecería a las actividades mencionadas anteriormente dependerían del tipo de trabajo, cantidad de horas y horario.
+
+Acerca de trabajar en un empleo temporal, considera que es una excelente opción para él y para todos los jóvenes que estudian y trabajan, ya que brinda flexibilidad con los horarios, a diferencia de cuando existe un contrato de por medio que establece horarios fijos.
+
+Al mencionar sobre una posible aplicación, él desearía que los usuarios tuviesen la opción de publicar todos los trabajos que requieren para que de esta manera sea más sencilla la comunicación entre empleados y empleadores. Entre las características más importantes que considera debería tener esta app se encuentran la calificación de empleados y empleadores, la facilidad para encontrar empleos y un sistema de comunicación eficiente entre usuarios.
+
+Por último, menciona que la aplicación le parece una idea muy interesante que recomendaría, a la cual le daría uso y que ayudaría a los jóvenes a ganar experiencia laboral a temprana edad, pues indica que esto es clave para vencer miedos y temores y aprender a lidiar con la presión que sienten muchos jóvenes en su primer contacto con este mundo.
+
+**Entrevista 02**
+
+Nombres: Viviana
+
+Apellidos: Huamán Pinedo
+
+Edad: 23 años
+
+Distrito: San Miguel
+
+Evidencia de la reunión: 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326469300211752/2.png?width=1595&height=897" alt="Canvas"  width="90%"/>
+</div>
+
+Inicio: 05:04
+
+Fin: 09:25
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=FIJndf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjMwNC43NX19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=FIJndf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjMwNC43NX19)
+
+Resumen de la entrevista:
+
+Se entrevistó a Viviana Huamán, una joven de 23 años, estudiante de administración de negocios globales en la Universidad Ricardo Palma. Ella se considera introvertida al interactuar con nuevas personas y extrovertida con su familia y amigos cercanos.
+
+Respecto a su experiencia buscando trabajo, ella menciona que tuvo dificultades para encontrar uno, pues la competencia era alta y los requisitos solicitados por los empleadores eran muy exigentes. Además, indica que una vez fue contratada tuvo problemas con la empleadora, pues esta era muy estricta con los protocolos del negocio y no tenía paciencia con los nuevos empleados.
+En relación a los obstáculos con los que se podría enfrentar al trabajar a su edad, ella considera que el horario es uno de los principales problemas a los que se enfrentan los jóvenes pues muchas veces las clases en la universidad se realizan en las mañanas y en las noches, por lo que el tiempo libre para laborar es limitado.
+
+Acerca de la posibilidad de trabajar en un empleo temporal, Viviana asegura que ha considerado dicha opción y está sumamente interesada. Además, indica que una de las características principales que valora de este tipo de trabajos es la flexibilidad ya que con su trabajo part-time actual no tiene mucha libertad en tema de horarios.
+
+Por un lado, al mencionar sobre una posible aplicación, indica que desea que los empleadores no soliciten muchos requisitos a los jóvenes estudiantes y que brinden horarios flexibles. Por otro lado, entre las características más importantes con las que debería contar la app serían múltiples opciones de trabajos y un filtro de personas para evitar personas malintencionadas que puedan poner en peligro la integridad de los usuarios.
+
+Por último, comenta que la aplicación le parece una buena idea que le ayudaría a ella y a otros jóvenes que necesitan dinero y que una característica que recomendaría añadir sería la posibilidad de adjuntar imágenes y videos a las calificaciones de los usuarios.
+
+**Entrevista 03**
+
+Nombres: Jessica
+
+Apellidos: Alvarado
+
+Edad: 27 años
+
+Distrito: La Victoria
+
+Evidencia de la reunión: 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745029799976/jessica-alvarado.png?width=1105&height=552" alt="Canvas"  width="90%"/>
+</div> 
+
+Inicio: 09:26
+
+Fin: 14:24
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=nd0ybp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjU2Ni4wNH19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=nd0ybp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjU2Ni4wNH19)
+
+Resumen de la entrevista:
+
+Jessica es una pastelera que trabaja en una pastelería. Se describe a sí misma como extrovertida en ciertos círculos y reservada con personas a las que no conoce bien. Ha enfrentado dificultades al encontrar trabajo debido a su falta de experiencia y estudios, a menudo siendo rechazada por su edad y falta de experiencia.
+
+Ha tenido desafíos en trabajos anteriores, como la inflexibilidad de horarios y la falta de reconocimiento por ser madre. También ha sido explotada en algunos trabajos, lo que la llevó a tomar acciones legales para defender sus derechos laborales.
+
+Jessica valora la remuneración justa, la flexibilidad de horarios y la oportunidad de trabajar en proyectos pequeños. Ella tiene su propio emprendimiento en el área de la pastelería y valora la posibilidad de realizar proyectos adicionales para empresas conocidas.
+Respecto a la adquisición de experiencia laboral en una edad temprana, opina que es importante en algunos casos, pero no es un requisito indispensable. Cree que la disposición para aprender y la dedicación son más cruciales.
+
+Ha superado obstáculos adaptándose a diferentes trabajos y circunstancias. Jessica ve una aplicación como "ChambeaPe" como algo útil, ya que busca trabajos temporales y proyectos en diversas áreas, brindando una fuente de ingresos adicional y formalizando la relación entre empleadores y empleados temporales.
+La idea de " ChambeaPe " le parece interesante y beneficiosa, especialmente por la seguridad de los pagos y la variedad de oportunidades laborales que ofrece. Sugiere reforzar la seguridad, ampliar las opciones de áreas y rubros, y permitir la contratación por días para eventos y trabajos más cortos.
+
+**Entrevista 04**
+
+Nombres: Leonardo Paul
+
+Apellidos: López Huarcaya
+
+Edad: 19 años
+
+Distrito: San Miguel
+
+Evidencia de la reunión: 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321049072451674/image.png?width=1547&height=690" alt="Canvas"  width="90%"/>
+</div> 
+
+Inicio: 14:24
+
+Fin: 19:11
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=9hsgtL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjg2NC44N319](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=9hsgtL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjg2NC44N319)
+
+Resumen de la entrevista:
+
+Leonardo es una persona carismática pero seria a la vez, él nos comenta que al estar estudiando una carrera relacionada con la programación quisiera buscar empleos que le puedan dar pequeños ingresos y así él pueda ayudarse económicamente y a su vez que consigue experiencia con lo que le gusta hacer. También le preguntamos en qué servicios prestaría nos dijo que él quiere ofrecer servicios como pen tester junior o el otro servicio que brindaría es de dar clases particulares a personas que quieren empezar con todo esto de la programación.
+
+En la entrevista también hizo un enfoque a que sus clases como estudiante universitario muchas de las veces no le permitían buscar empleos puesto que estos no son muy flexibles con lo que respecta a horarios.
+
+Al momento de hacerle la propuesta de la creación de ChambeaPe dijo que la idea en concreta le gustaba, y nos explica que si puede buscar a personas que le brinden trabajos con flexibilidad de horarios y a su vez acepten a personas con poca experiencia, es una ayuda para las personas que están buscando empleo por primera vez y no tienen experiencia. Para finalizar las entrevistas le preguntamos cuales eran las sugerencias que nos planteaba y pues él se enfocó mucho en la parte de los contratos chambeador-empleador y en los filtros de búsqueda de los chambeadores.
+
+**Entrevista 05**
+
+Nombres: Agustin Alejandro
+
+Apellidos: Aguilar Lindo
+
+Edad: 21
+
+Distrito: Breña
+
+Evidencia de la reunión: 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146300396260823100/image.png?width=1107&height=603" alt="Canvas"  width="90%"/>
+</div> 
+
+Inicio: 19:11
+
+Fin: 24:01
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=ga0dBg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjExNTIuNDh9fQ%3D%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=ga0dBg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjExNTIuNDh9fQ%3D%3D)
+
+Resumen de la entrevista: 
+
+Agustín, estudiante de Ingeniería de Sistemas, se autodefine como introvertido con personas desconocidas, pero extrovertido entre amigos cercanos. Ha experimentado dificultades al buscar empleo debido a la falta de experiencia requerida en la mayoría de los casos. Sin embargo, logró encontrar una oportunidad que se ajustaba a sus habilidades al destacar características útiles para el empleador durante su postulación.
+
+Durante su entrevista, Agustín resaltó la importancia de la experiencia laboral y recomendó aprovechar trabajos ocasionales para ganarla, resaltando que esta experiencia puede abrir puertas a oportunidades futuras. Él valora la organización en caso de tener que combinar trabajo y estudio, y aprecia la flexibilidad de horarios que ofrecen los empleos temporales.
+
+Agustín expresó su interés en una posible aplicación que lo ayude a encontrar empleo para solventar gastos en su hogar y en la universidad. Subrayó la importancia de que la aplicación sea intuitiva, tenga alianzas con empresas, ofrezca una amplia variedad de oportunidades y presente una interfaz atractiva.
+
+Al presentarle la propuesta de la aplicación ChambeaPe, Agustín la aplaudió como una excelente idea, ya que muchos jóvenes buscan empleos flexibles. Sugirió que la aplicación podría contar con una opción premium que brinde ventajas adicionales, como notificaciones de trabajos basados en habilidades y experiencia para usuarios que buscan empleo temporal.
+
+<span style="font-size: 20px;">**Segmento 02**</span>
+
+**Entrevista 01**
+
+Nombres: Claudia
+
+Apellidos: Ríos Piña
+
+Edad: 22 años
+
+Distrito:
+
+Evidencia de la reunión: 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745335971850/claudia-rios.png?width=1105&height=521" alt="Canvas"  width="90%"/>
+</div> 
+
+Inicio: 24:02
+
+Fin: 28:52
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=om1glJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NDIuMjF9fQ%3D%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=om1glJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NDIuMjF9fQ%3D%3D)
+
+Resumen de la entrevista:
+
+Claudia Ríos, de 22 años, es estudiante de laboratorio clínico y tiene experiencia en repostería y panadería. Ella se considera una persona extrovertida en su círculo social, pero puede ser introvertida en situaciones nuevas. Valora las decisiones emocionales y busca personas comprometidas al contratar.
+
+Claudia tiene su propio emprendimiento llamado "Merenguito", que comenzó en 2021. Comenzó vendiendo postres como alfajores y mini brownies y se ha expandido a tortas y pasteles más personalizados.
+
+Ella considera que la experiencia es importante pero no indispensable porque también entiende que la única oportunidad de aprender es haciendo. No tendría ningún problema a personas sin experiencia como apoyo en su emprendimiento, básicamente para fechas festivas. Cree que el compromiso de una persona sin experiencia y sus ganas de salir adelante son fundamental para que los pueda tomar en cuenta para un empleo por proyecto.
+
+En cuanto a la aplicación ChambeaPe, ve su utilidad en encontrar personal confiable y brindar oportunidades a personas inexpertas. Valora la flexibilidad en los horarios y la adaptabilidad de los candidatos. Busca características como la facilidad de uso, retroalimentación y categorización de candidatos.
+
+Claudia tiene experiencia con otras aplicaciones de búsqueda de trabajadores temporales, habiendo utilizado "CompuTrabajo". Sin embargo, ha encontrado que algunos candidatos no son realmente especializados, lo que ha sido un desafío.
+
+En resumen, ve en ChambeaPe una oportunidad de mejorar la búsqueda de trabajadores temporales confiables y brindar oportunidades a personas sin experiencia. Valora la facilidad de uso, la retroalimentación y la verificación de certificados como características clave en la aplicación. Estaría dispuesta a invertir en una aplicación de calidad que le ayude en su emprendimiento y recomendaría la aplicación a otros colegas.
+
+**Entrevista 02**
+
+Nombres: Cinthia Victoria
+
+Apellidos: Salazar Vergara
+
+Edad: 19
+
+Distrito: Miraflores
+
+Evidencia de la reunión:
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146301981007286323/image.png?width=1875&height=896" alt="Canvas"  width="90%"/>
+</div>  
+
+Inicio: 28:53
+
+Fin: 33:51
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=X9990Z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE3MzMuMTl9fQ%3D%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=X9990Z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE3MzMuMTl9fQ%3D%3D)
+
+Resumen de la entrevista:
+
+Cinthia, estudiante de Ingeniería de Sistemas, se caracteriza por su extroversión, resultado de sus múltiples actividades y relaciones sociales universitarias. Para ella, la experiencia es fundamental al contratar a alguien, ya que asegura la calidad del trabajo. Enfatiza que la experiencia amplía las posibilidades de ser contratado, y destaca su importancia en cualquier empleo.
+
+Destaca la eficacia y el trabajo colaborativo como cualidades clave en un empleado, y valora la seguridad en la ejecución del trabajo. Como empleadora, prioriza estas características y sugiere evaluar los historiales de los trabajadores para garantizar su fiabilidad. Hasta ahora, ha contratado a individuos experimentados y conocidos, evitando problemas en las actividades laborales.
+
+Cinthia desea una aplicación para encontrar y publicar trabajos ocasionales que incluya información y el historial de trabajadores, años de experiencia y reseñas de otros empleadores. Destaca la importancia de una interfaz amigable y efectiva.
+
+Al conocer la propuesta de ChambeaPe, se mostró sorprendida y entusiasmada al ser la primera vez que escuchaba sobre una aplicación con esas características, centrada en trabajos ocasionales. Considera que esta iniciativa podría marcar una diferencia significativa al abrir nuevas oportunidades para personas que buscan empleos de este tipo y al permitir a los empleadores encontrar con agilidad trabajadores temporales confiables y experimentados. Además, hizo hincapié en la importancia de establecer un método de contacto directo entre los empleadores y los solicitantes de empleo, con el propósito de agilizar la comunicación y facilitar el proceso de selección.
+
+**Entrevista 03**
+
+Nombres: José Carlos Isaac
+
+Apellidos: Ampudia Flores 
+
+Edad: 19 
+
+Distrito: Monterrico
+
+Evidencia de la reunión:
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321191523586149/image.png?width=1562&height=550" alt="Canvas"  width="90%"/>
+</div>  
+
+Inicio: 33:51
+
+Fin:  38:45
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=hva51d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIwMzIuNzZ9fQ%3D%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/Ef0y2ARRFH9OqL0vuz6ed9wB8Na7-7Vy2X6EMJzA87-fyw?e=hva51d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIwMzIuNzZ9fQ%3D%3D)
+
+Resumen de la entrevista:
+
+La entrevista con Isaac comienza porque momentos previos a la entrevista me comunicó que tenía problemas al momento de contratar a personas para que realicen trabajos que él requería, mientras la entrevista se realizaba nos pudo hablar sobre el problema que es encontrar a personas de confianza, pusimos el ejemplo de que siempre busca a alguien para que pasee a sus perros. También nos menciona que las personas que busca para contratar tienen que estar cualificados para el trabajo y si se pudiera, deberían de tener referencias positivas. 
+
+Al momento de plantearle la propuesta de la app “ChambeaPe” nos dio a conocer su aprobación ya que a él le gusta la idea de que existan personas que postulen al trabajo que publica y así él poder examinar a dichos postulantes para que al final se pueda elegir a uno.
+
+El feedback que nos da para poder ejercer como startup conjuntamente con ChambeaPe es que la app no se parezca mucho a plataformas existentes como lo puede ser LinkedIn y nos centremos en ayudar a encontrar trabajo al que más lo necesite.
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
