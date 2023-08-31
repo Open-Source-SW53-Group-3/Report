@@ -900,6 +900,15 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694429860708392/TO-BE_Empleador.png?width=1920&height=812" alt="To-Be(Empleador)"  width="90%"/>
+</div>
+<br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694429625810964/TO-BE_Chambeador.png?width=1842&height=897" alt="To-Be(Chambeador)"  width="90%"/>
+</div>
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
