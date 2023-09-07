@@ -1187,6 +1187,290 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
 </table>
 <br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Destacar perfil de chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> contar con la opción de destacar mi perfil en
+            los resultados de búsqueda <b>para</b> aumentar mis posibilidades de ser seleccionado.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Perfil destacado correctamente</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Opciones" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> active la opción "Destacar mi perfil"  </br>
+            <b>Entonces</b> el perfil tendrá prioridad elevada en los resultados de búsqueda.<br>
+            <br>
+            <b>Scenario 02:</b> La opción de destacar perfil se encuentra desactivada</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Opciones" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> la opción "Destacar mi perfil" se encuentre desactivada  </br>
+            <b>Entonces</b> el perfil tendrá prioridad normal en los resultados de búsqueda.  
+            <br>     
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Filtrar perfiles de chambeadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> tener la opción de filtrar perfiles
+            <b>para</b> reducir el tiempo de selección.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Filtro por calificación</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija la calificación mínima  </br>
+            <b>Entonces</b> se mostrarán solo los perfiles con la calificación mínima seleccionada.<br>
+            <br>
+            <b>Scenario 02:</b> Filtro por antigüedad</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija la antigüedad mínima  </br>
+            <b>Entonces</b> se mostrarán solo los perfiles con la antigüedad mínima seleccionada.<br>       
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Notificar trabajos recomendados
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> recibir notificaciones sobre
+            trabajos relevantes a mi perfil mediante la suscripción premium
+            <b>para</b> postular más rápido.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Preferencias de trabajo suministradas </br>
+            <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
+            <b>Cuando</b> complete sus preferencias de trabajo </br>
+            <b> Y</b> cuente con una suscripción premium activa  <br>
+            <b>Entonces</b> se enviarán notificaciones periódicamente informándole sobre trabajos que le puedan interesar.<br>
+            <br>
+            <b>Scenario 02:</b> Preferencias de trabajo incompletas o no suministradas </br>
+            <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
+            <b>Cuando</b> sus preferencias de trabajo estén incompletas</br>
+            <b> Y</b> cuente con una suscripción premium activa  <br>
+            <b>Entonces</b> el sistema le notificará que las preferencias deben ser completadas para recibir notificaciones de trabajos sugeridos<br>        
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Publicar anuncios como chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> chambeador <b>quiero</b> publicar un anuncio de trabajo
+            <b>para</b> que me contacten más rápido.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Publicación de anuncio de trabajo correcta</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Publicar" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> llene los datos solicitados  </br>
+            <b>Entonces</b> se publicará un anuncio de trabajo para que los empleadores puedan contactarse.<br>
+            <br>
+            <b>Scenario 02:</b> Datos incompletos en la publicación</br>
+            <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Publicar" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+            <b>Cuando</b> los datos estén incompletos  </br>
+            <b>Entonces</b> se mostrará un mensaje de error indicando que faltan llenar datos en la publicación.<br>       
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Resaltar anuncios del empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador con membresía premium <b>quiero</b> que mis publicaciones tengan prioridad al ser publicadas
+            <b>para</b> atraer la atención de trabajadores cualificados y entusiastas. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Anuncio resaltado correctamente</br>
+            <b>Dado</b> que el usuario es un empleador con membresía premium </br>
+            <b> Cuando</b> publique un anuncio en la plataforma <br>
+            <b>Entonces</b> el anuncio obtendrá automáticamente prioridad<br>
+            <b>Y</b> se mostrará en una sección destacada   
+        </td>
+    </tr>
+    </tr>
+</table>
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
