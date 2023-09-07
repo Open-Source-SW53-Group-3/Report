@@ -910,6 +910,283 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 </div>
 
 ## 3.2. User Stories
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Steve Castillo
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Iniciar sesión
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b>  usuario, <b>quiero</b> iniciar sesión con mi correo y contraseña <b>para</b> un acceso seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Inicio de sesión exitoso</br>
+            <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> ingresa su respectivo correo y contraseña </br>
+            <b>Entonces</b> el sistema permitirá al usuario iniciar sesión correctamente en la plataforma.</br> </br>
+            <b>Scenario 02:</b> Inicio de sesión fallido </br>
+            <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma</br>
+            <b>Cuando</b> ingresa un correo o contraseña incorrecta</br>
+            <b>Entonces</b> el sistema no permitirá al usuario iniciar sesión </br>
+            <b>Y</b> se mostrará un mensaje de error indicando que las creedenciales son incorrectas.   
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Ray Del Carmen
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar con correo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> poder registrarme con mi correo a la plataforma <b>para</b> agilizar el proceso de registro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Registro exitoso</br>
+            <b>Dado</b> que el cliente quiere registrarse en la plataforma </br>
+            <b>Cuando</b> el cliente ingresa un correo electrónico válido y una contraseña segura </br>
+            <b>Entonces </b>el sistema procesara el registro </br>
+            <b>Y</b> creará una cuenta asociada con ese correo electrónico. </br> </br>
+            <b>Scenario 02:</b> Registro fallido </br>
+            <b>Dado</b> que el cliente quiere registrarse en la plataforma </br>
+            <b>Cuando</b> el cliente ingresa un correo electrónico que ya esta en uso </br>
+            <b>Entonces</b> el sistema no permitirá que el usuario complete el registro</br>
+            <b>Y</b> mostrará un mensaje de error indicando que ese correo ya ha sido registrado.  
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Acceso a la cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Castillo
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Manejar información del perfil
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario, <b>quiero</b> manejar la información de mi perfil <b>para</b> mantener mis datos personales actualizados.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Actualización de datos exitosa</br>
+            <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
+            <b>Y</b> desea actualizar la información de su perfil </br>
+            <b>Cuando</b> el usuario modifica sus datos personales y guarda los cambios </br>
+            <b>Entonces</b> el sistema actualizará los detalles del perfil del usuario </br> </br>
+            <b>Scenario 02:</b> Visualización de información </br> 
+            <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
+            <b>Y</b> desea visualizar la información de su perfil </br>
+            <b>Cuando</b> el usuario ingrese a la sección de perfil de la plataforma </br> 
+            <b>Entonces</b> el sistema mostrará todos los datos de la información personal del usuario.             
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Pasarela de Pago
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Mejorar a cuenta premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario, <b>quiero</b> mejorar mi cuenta a premium con diferentes métodos de pagos <b>para</b> obtener mejoras en mi cuenta.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+           <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Actualización a cuenta premium exitosa</br>
+            <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
+            <b>Y</b> desea ascender su estado a premium </br>
+            <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
+            <b>Y</b> seleccione su método de pago </br>
+            <b>Y</b> realize la respectiva transacción </br>
+            <b>Entonces</b> el sistema concederá al usuario el estado premium</br>
+            <b>Y</b> podrá acceder a las funciones adicionales que ofrece. </br> </br>
+            <b>Scenario 02:</b> Método de pago inválido </br>
+            <b>Dado</b> que el usuario se encuentra con una cuenta free </br>
+            <b>Y</b> desea ascender su estado a premium </br>
+            <b>Cuando</b> el usuario seleccione la opción de mejorar su cuenta a premium </br>
+            <b>Y</b> seleccione método de pago que no sea válido </br>
+            <b>Entonces</b> el sistema no permitirá al usuario que complete la transacción </br>
+            <b>Y</b> mostrará un mensaje de error indicando que el método de pago no es válido.          
+        </td>
+    </tr>
+    </tr>
+</table>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Pasarela de Pago
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Administrar tarjeta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> administrar los datos de mi tarjeta <b>para</b> permitirá realizar transacciones dentro de la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Agregar tarjeta</br>
+            <b>Dado</b> que el usuario desea guardar su tarjeta en la plataforma para futuras transacciones </br>
+            <b>Cuando</b> el usuario ingresa los detalles de su tarjeta</b> </br>
+            <b>Y</b> le da a la opción guardar </br>
+            <b>Entonces</b> el sistema agregará la tarjeta al perfil del usuario</br> 
+            <b>Y</b> mostrará un mensaje de confirmación indicando que se agregó la tarjeta correctamente. </br> </br>
+            <b>Scenario 02:</b> Eliminar tarjeta </br>
+            <b>Dado</b> que el usuario desea eliminar su tarjeta de la plataforma </br>
+            <b>Cuando</b> el usuario seleccione la opción de eliminar tarjeta </br>
+            <b>Entonces</b> el sistema eliminará la tarjeta seleccionada </br>
+            <b>Y</b> mostrará un mensaje de confirmacion indicando que la tarjeta ha sido eliminada correctamente.          
+        </td>
+    </tr>
+    </tr>
+</table>
+<br>
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
