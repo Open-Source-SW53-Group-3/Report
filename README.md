@@ -2689,7 +2689,62 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines
+
+**Branding:**
+- El ícono de nuestro proyecto captura el apretón de dos manos entrelazadas, un poderoso símbolo de la comunión entre individuos. Con esta representación, buscamos plasmar de manera elocuente la estrecha conexión que nuestros valiosos usuarios experimentarán al unirse a nuestra comunidad.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146508424524349480/ChambeaPeconFondo.png" alt="Branding"  width="50%"/>
+</div>
+</br>
+
+**Typography:**
+- La tipografía de nuestro logotipo adoptará el elegante estilo Roboto, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146508424276873276/Typography.png" alt="Typography"  width="50%"/>
+</div>
+</br>
+
+**Colors:**
+- La paleta de colores que creamos para el proyecto contiene como color primario el #bf0a26, que es un anaranjado intenso, con una tonalidad cálida y vibrante. Los colores complementarios son el #e8e7e2, que es un gris claro con un toque de beige; el #e6ebee, que es un azul claro con un toque de verde; el #f7ebeb, que es un rosa pálido con un toque de blanco; y el #f4e8ec, que es un lila suave con un toque de rosa. El background es el #fff, que es el blanco puro. </br></br>
+Esta paleta de colores es adecuada para un proyecto que quiera transmitir una sensación de profesionalismo, elegancia y serenidad. El color primario se usará para resaltar los títulos, los encabezados y los elementos importantes. Los colores complementarios se usarán para crear contraste, armonía y variedad en el texto, las imágenes y los gráficos. Y para finalizar, el background blanco se usará para dar claridad, limpieza y amplitud al diseño.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149317860120854559/PaletColor.png" alt="Colors"  width="60%"/>
+</div>
+</br>
+
+**Spacing:**
+- El “spacing” es un aspecto importante en el diseño de una página web, ya que ayuda a crear una apariencia coherente y atractiva. En una guía general de estilos, se pueden establecer reglas y directrices para el uso consistente de propiedades como ```margin``` y ```padding``` para controlar el espacio entre los elementos en la página. Por ejemplo, se puede establecer que todos los márgenes y rellenos deben ser múltiplos de una unidad base, como <b>1rem</b> (16px en dispositivos de escritorio), para asegurar una apariencia consistente en toda la página. </br>
+Además, el uso de unidades relativas como rem en lugar de píxeles puede ayudar a abordar el problema del tamaño al hacer que una página web sea responsive. Esto se debe a que las unidades relativas se ajustan automáticamente en función del tamaño de la pantalla, mientras que los píxeles son unidades fijas que no cambian. Al utilizar unidades relativas para definir los espaciados, se puede lograr un diseño adaptable que se vea bien en diferentes tamaños de pantalla.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146508424822128700/Spacings.png" alt="Spacing"  width="40%"/>
+</div>
+</br>
+
 ### 4.1.2. Web Style Guidelines
+
+**Icons:**
+- Cuando se trata de diseñar una página web, los íconos desempeñan un papel fundamental en la creación de una interfaz de usuario intuitiva y fácil de usar. Estos pequeños elementos visuales tienen el poder de mejorar la comprensión de los usuarios sobre la funcionalidad de los diferentes elementos de tu página. Permíteme explicarte por qué los íconos son tan importantes. </br></br> Los íconos ayudan a los usuarios a comprender rápidamente la función de cada elemento en tu página web. Además, su simplicidad y claridad los hacen fáciles de entender. Al utilizar íconos consistentes en toda la página, evitamos confundir a los usuarios.
+- Los que usaremos en el proyecto son los siguientes:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149317860691283968/Icons.png" alt="Icons"  width="50%"/>
+</div>
+</br>
+
+**Breackpoints**
+- Los breakpoints más conocidos son los siguientes:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146581389874036886/Brackpoints.png" alt="Breackpoints"  width="50%"/>
+</div>
+</br>
+
+- Y los que usaremos en el proyecto principalmente son los de 768px y 1024px, ya que son los más comunes en los dispositivos móviles y de escritorio.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
