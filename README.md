@@ -2293,6 +2293,29 @@ Implementaremos sistemas de búsqueda por exploración, los cuales permitirán a
 </div>
 
 ### 4.2.5. Navigation Systems
+
+Para facilitar al usuario navegar por nuestro contenido, se utilizarán los siguientes sistemas de navegación:
+
+- **Navegación principal o global:** Es el sistema de navegación más común, presente en todos los apartados de la página y usualmente representado por la barra de navegación y el footer.
+- **Navegación local:** Se encuentra situado un nivel por debajo de la navegación global y su función es mostrar el contenido de la misma categoría, así como también lo que se encuentra jerárquicamente por debajo de esta.
+- **Navegación contextual:** Conformada por enlaces que dirigen al usuario a una sección distinta o a otro sitio web. Existen dos tipos: la navegación embebida, en donde los enlaces son ciertas frases o palabras del texto; y los links relacionados, los cuales pueden aparecer al final o al lado del contenido.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630153035867/opera_9FgKvOpHuV.png?width=1437&height=803" alt="Navigation System 1"  width="50%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470629897191466/ApplicationFrameHost_woK9WVAjPk.png?width=345&height=356" alt="Navigation System 2"  width="30%"/>
+</div>
+
+El patrón de lectura a utilizar para la visualización de nuestra web para las secciones que muestran contenido ligero será el patrón Z. Mientras que, para los apartados que cuenten con mayor volumen de texto, como en las ofertas de trabajo, se empleará el patrón F. De esta manera, lograremos captar la atención del lector durante más tiempo.  
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470631084175390/opera_FDtKlrQUG6.png?width=1263&height=897" alt="Patrón Z"  width="50%"/>
+    </br>
+    <p><b>Contenido ligero (patrón Z)</b></p>
+    </br>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149473093241274408/Imagen1.png?width=922&height=538" alt="Patrón F"  width="50%"/>
+    <p><b>Contenido pesado (patrón F)</b></p>
+</div>
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
