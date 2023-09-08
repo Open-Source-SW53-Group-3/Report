@@ -2792,7 +2792,649 @@ Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149464293402746961/Diagrama_en_blanco_2.png" alt="class-diagrams"  width="50%"/>
+</div>
+</br>
+
 ### 4.7.2. Class Dictionary
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>User</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>first_name</td>
+    <td>Primer nombre del usuario</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>last_name</td>
+    <td>Apellido del usuario</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>int</td>
+    <td>phone_number</td>
+    <td>Número celular del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Fecha de nacimiento del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>char</td>
+    <td>gender</td>
+    <td>Género del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>bool</td>
+    <td>has_premium</td>
+    <td>Identificador de si tiene premium el usuario</td>
+  </tr>
+    <tr align="left">
+    <td>List(Notification)</td>
+    <td>notifications</td>
+    <td>Lista de notificaciones del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>login()</td>
+    <td>Iniciar sesión</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>logout()</td>
+    <td>Cerrar sesión</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>updateProfile()</td>
+    <td>Actualizar perfil</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Admin</b></th>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>getInfo</td>
+    <td>Obtener atributos del admin</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>banUser(id)</td>
+    <td>Banear usuario según su id</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Notification</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la notificación</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>content</td>
+    <td>Contenido de la notificación</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>date</td>
+    <td>date</td>
+    <td>Fecha de la notificación</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendNotification()</td>
+    <td>Enviar notificación al destinatario</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>ChatLine</b></th>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>to</td>
+    <td>Emisor del mensaje</td>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>from</td>
+    <td>Receptor del mensaje</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>message</td>
+    <td>Contenido del mensaje</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendMessage()</td>
+    <td>Enviar mensaje al destinatario</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Chat</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>idWorker</td>
+    <td>Identificador único del trabajador</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>idEmployer</td>
+    <td>Identificador único del empleador</td>
+  </tr>
+  <tr>
+  <tr align="left">
+    <td>List(ChatLine)</td>
+    <td>chatlines</td>
+    <td>Lista de líneas del chat</td>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>sendMessage()</td>
+    <td>Enviar mensaje al destinatario</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Advertising</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del anuncio</td>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>user</td>
+    <td>Identificador del usuario</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>category</td>
+    <td>Categoría del anuncio</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>text</td>
+    <td>Texto del anuncio</td>
+  </tr>
+   <tr align="left">
+    <td>picture</td>
+    <td>thumbnail</td>
+    <td>Imágen del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>start_Day</td>
+    <td>Fecha de inicio del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>end_day</td>
+    <td>Fecha de fin del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>void</td>
+    <td>get_info()</td>
+    <td>Obtener atributos del anuncio</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Subscription</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la subscripción</td>
+  </tr>
+  <tr align="left">
+    <td>Membership</td>
+    <td>type</td>
+    <td>Identificador único de la subscripción</td>
+  </tr>
+  <tr>
+ <tr align="left">
+    <td>date</td>
+    <td>start_Day</td>
+    <td>Fecha de inicio de la subscripción</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>end_day</td>
+    <td>Fecha de fin de la subscripción</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>subscribe()</td>
+    <td>Obtener subscripción</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Membership</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre de la membresía</td>
+  </tr>
+  <tr align="left">
+    <td>Money</td>
+    <td>price</td>
+    <td>Costo de la membresía</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>subscribe()</td>
+    <td>Obtener subscripción</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Money</b></th>
+  </tr>
+  <tr align="left">
+    <td>float</td>
+    <td>amount</td>
+    <td>Monto</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>currecny</td>
+    <td>Nombre de la divisa</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>get_amount()</td>
+    <td>Obtener monto de la factura</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>get_currency()</td>
+    <td>Obtener divisa de la factura</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>PaymentManager</b></th>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>user</td>
+    <td>Identificador del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>Payment</td>
+    <td>payment</td>
+    <td>Identificador del pago</td>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>doPayment()</td>
+    <td>Realizar pago</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Payment</b></th>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Firmar para el pago</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>ProxyBankCard</b></th>
+  </tr>
+   <tr align="left">
+    <td>Payment</td>
+    <td>payment</td>
+    <td>Identificador del pago</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>validePayment()</td>
+    <td>Verifica el pago</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Se realiza el pago si la función validePayment() retorna verdadero</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Mastercard</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>num</td>
+    <td>Número de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>owner_name</td>
+    <td>Dueño de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Realizar pago con la tarjeta</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Visa</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>num</td>
+    <td>Número de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>owner_name</td>
+    <td>Dueño de la tarjeta</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Realizar pago con la tarjeta</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Employer</b></th>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del perfil del empleador</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>createJob()</td>
+    <td>Publicar trabajo</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Worker</b></th>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del perfil del trabajador</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>occupation</td>
+    <td>Ocupación del trabajador</td>
+  </tr>
+  <tr align="left">
+    <td>List(Certificate)</td>
+    <td>certificates</td>
+    <td>Lista de certificados del trabajador</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>searchJob()</td>
+    <td>Buscar trabajo</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Certificate</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del certificado</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del certificado</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>seeCertificates()</td>
+    <td>Visualizar certificados</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Contract</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del contrato</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>content</td>
+    <td>Contenido del contrato</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>start_Day</td>
+    <td>Fecha de inicio del contrato</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>end_day</td>
+    <td>Fecha de fin del contrato</td>
+  </tr>
+    <tr align="left">
+    <td>Employer</td>
+    <td>employer</td>
+    <td>Identificador del empleador</td>
+  </tr>
+   <tr align="left">
+    <td>Worker</td>
+    <td>worker</td>
+    <td>Identificador del trabajador</td>
+  </tr>
+  <tr align="left">
+    <td>float</td>
+    <td>salary</td>
+    <td>Salario del contrato</td>
+  </tr>
+  <tr align="left">
+    <td>Service</td>
+    <td>service</td>
+    <td>Identificador del servicio indicando en el contrato</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>createJob()</td>
+    <td>Crear empleo</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Service</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>List(Review)</td>
+    <td>reviews</td>
+    <td>Comentarios del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>List(Claim)</td>
+    <td>claims</td>
+    <td>Reclamos del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>createJob()</td>
+    <td>Crear empleo</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Review</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del comentario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>message</td>
+    <td>Enunciado del comentario</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendReview()</td>
+    <td>Enviar comentario</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Claim</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del reclamo</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>message</td>
+    <td>Enunciado del reclamo</td>
+  </tr>
+  <tr align="left">
+    <td>List(Evidence)</td>
+    <td>evidences</td>
+    <td>Lista de las evidencias</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendClaim()</td>
+    <td>Enviar reclamo</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Evidence</b></th>
+  </tr>
+   <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la evidencia</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>message</td>
+    <td>Contenido de la evidencia</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>upload()</td>
+    <td>Adjuntar</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Image</b></th>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>upload</td>
+    <td>Subir imágen</td>
+  </tr>
+</table>
+</br>
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Archive</b></th>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>upload</td>
+    <td>Subir archivo</td>
+  </tr>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
