@@ -2388,8 +2388,48 @@ Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management
+## 5.1. Software Configuration Management 
+
+ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.  
+
 ### 5.1.1. Software Development Environment Configuration
+
+El software necesita diferentes entornos para su desarrollo, prueba, despliegue y operación. La configuración del entorno de implementación de software es una actividad que se ocupa de crear y mantener estos entornos. Es por ello que en este apartado detallaremos las herramientas usadas.
+
+<br>
+**Project Management**
+1.	Notion:  https://www.notion.so/ 
+Empleamos Notion para organizar las actividades que teníamos que realizar, principalmente respecto al desarrollo de este informe. Realizábamos seguimiento del estatus de las actividades, con la facilidad de organizarnos como equipo. Esta es una aplicación que te permite crear y gestionar tu propio espacio de trabajo conectado de manera intuitiva.
+
+2.	Discord: https://discord.com/ 
+Discord es una aplicación que te permite comunicarte por voz, video y texto con tus amigos y comunidades. Se empleó esta herramienta como el medio para realizar reuniones de trabajo con los integrantes del equipo.
+
+**Requirements Managements**
+1.	Trello: https://trello.com/ 
+Usamos esta herramienta para el manejo de nuestros requerimientos con el objetivo de organizar de manera más efectiva el backlog en equipo. Trello es una aplicación para gestionar proyectos. Te permite crear y organizar tareas, plazos y equipos. Trello se adapta a cualquier tipo de proyecto y se integra con otras aplicaciones.  
+  
+**Product UX/UI Design** 
+1.	UXPressia: https://uxpressia.com/ 
+Esta herramienta nos ayudó en el desarrollo de nuestras User Personas, el Customer Journey Map, Empathy Map e Impac Map. Debido a que nos ofrece platillas para el desarrollo ágil de estos artefactos.
+2.	Mural: https://www.mural.co/ 
+Realizamos nuestro scenarios mapping para nuestros dos segmentos objetivos debido a que mural es una herramienta fácil de usar y nos brinda plantillas de uso libre.
+3.	Figma: https://www.figma.com/ 
+Usamos esta herramienta para la creación de nuestros Wireframes, mockups y mobile aplication prototyping ya que permite trabajar de manera colaborativa y tiene muchas utilidades.  
+  
+**Software Development** 
+1.	Landing Page
+Para el desarrollo nuestro landing page usamos herramientas básicas para el diseño de páginas web como lo son: HTML5, CSS3 y JavaScript.  
+  
+**Software Documentation**
+1.	LucidChart: https://lucid.app/ 
+Esta herramienta la usamos para el desarrllo de user flows diagrams, wireflows y el diagrama de clases. En LucidChart se pueden crear diversos diagramas de forma rápida y colaborativa.
+2.	Structurizr: https://www.structurizr.com/ 
+Nos permitió realizar los diagramas C4 de manera rápida con el lenguaje de programación C#. 
+3.	Vertabelo: https://vertabelo.com/ 
+Realizamos nuestra base de datos en esta herramienta debido que cuenta con una amplia variedad de motores y permite trabajar colaborativamente. 
+
+
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
