@@ -3500,10 +3500,90 @@ Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management
+## 5.1. Software Configuration Management 
+
+ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.  
+
 ### 5.1.1. Software Development Environment Configuration
+
+El software necesita diferentes entornos para su desarrollo, prueba, despliegue y operación. La configuración del entorno de implementación de software es una actividad que se ocupa de crear y mantener estos entornos. Es por ello que en este apartado detallaremos las herramientas usadas.
+
+<br>
+**Project Management**
+1.	Notion:  https://www.notion.so/ 
+Empleamos Notion para organizar las actividades que teníamos que realizar, principalmente respecto al desarrollo de este informe. Realizábamos seguimiento del estatus de las actividades, con la facilidad de organizarnos como equipo. Esta es una aplicación que te permite crear y gestionar tu propio espacio de trabajo conectado de manera intuitiva.
+
+2.	Discord: https://discord.com/ 
+Discord es una aplicación que te permite comunicarte por voz, video y texto con tus amigos y comunidades. Se empleó esta herramienta como el medio para realizar reuniones de trabajo con los integrantes del equipo.
+
+**Requirements Managements**
+1.	Trello: https://trello.com/ 
+Usamos esta herramienta para el manejo de nuestros requerimientos con el objetivo de organizar de manera más efectiva el backlog en equipo. Trello es una aplicación para gestionar proyectos. Te permite crear y organizar tareas, plazos y equipos. Trello se adapta a cualquier tipo de proyecto y se integra con otras aplicaciones.  
+  
+**Product UX/UI Design** 
+1.	UXPressia: https://uxpressia.com/ 
+Esta herramienta nos ayudó en el desarrollo de nuestras User Personas, el Customer Journey Map, Empathy Map e Impac Map. Debido a que nos ofrece platillas para el desarrollo ágil de estos artefactos.
+2.	Mural: https://www.mural.co/ 
+Realizamos nuestro scenarios mapping para nuestros dos segmentos objetivos debido a que mural es una herramienta fácil de usar y nos brinda plantillas de uso libre.
+3.	Figma: https://www.figma.com/ 
+Usamos esta herramienta para la creación de nuestros Wireframes, mockups y mobile aplication prototyping ya que permite trabajar de manera colaborativa y tiene muchas utilidades.  
+  
+**Software Development** 
+1.	Landing Page
+Para el desarrollo nuestro landing page usamos herramientas básicas para el diseño de páginas web como lo son: HTML5, CSS3 y JavaScript.  
+  
+**Software Documentation**
+1.	LucidChart: https://lucid.app/ 
+Esta herramienta la usamos para el desarrllo de user flows diagrams, wireflows y el diagrama de clases. En LucidChart se pueden crear diversos diagramas de forma rápida y colaborativa.
+2.	Structurizr: https://www.structurizr.com/ 
+Nos permitió realizar los diagramas C4 de manera rápida con el lenguaje de programación C#. 
+3.	Vertabelo: https://vertabelo.com/ 
+Realizamos nuestra base de datos en esta herramienta debido que cuenta con una amplia variedad de motores y permite trabajar colaborativamente. 
+
+
+
 ### 5.1.2. Source Code Management
+
+El manejo y registro de las modificaciones de nuestra landing page y este documento lo manejamos mediante una organización en Github.
+- Organization: [inserta Organización del curso app web/ open ] 
+- Landing Page Repository: [inserta repo del Landing page del curso app web/ open]
+- Report Repository: [inserta repo app web/ open]  
+
+Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
+Es por ello que se manejan dos ramas principales: main y develop.
+-	Main: La rama main almacena el historial oficial de las publicaciones de nuestro repositorio listas para producción.
+-	Develop: Esta rama sirve como una rama de integración para las características (“features”).
+Ramas auxiliares:
+-	Feature: Para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y fusionarlas con ella al terminar. Estas ramas permiten trabajar en el código sin afectar a la estabilidad de la rama develop, y facilitan la revisión y el control de calidad de las características antes de integrarlas.
+-	Realese: Para preparar una nueva versión del proyecto a partir de la rama develop y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten realizar correcciones de errores y tareas urgentes sin introducir nuevas características, y aseguran que la rama main solo reciba código probado y listo para publicar.
+-	Hotflix: Para solucionar errores críticos o urgentes a partir de la rama main y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten actuar rápidamente ante situaciones imprevistas que afecten al funcionamiento del proyecto, y garantizan que los cambios se reflejen tanto en la versión actual como en la versión en desarrollo.
+Commit Conventions
+Para el formato de nuestros commits nos hemos basado en la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/). Seguimos el siguiente formato:
+<type>[optional scope]:<description>
+“feat: add chapter 1.1”
+Donde:
+-	Type: Es un identificador que indica el tipo de cambio que se ha realizado en el código. Puede ser uno de los siguientes valores: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert. 
+-	Scope: Es un identificador opcional que indica el alcance o el contexto del cambio. Puede ser cualquier palabra que ayude a diferenciar el cambio de otros similares. Por ejemplo: [login], [navbar], [api], etc. 
+-	Description: Es una descripción breve y concisa del cambio que se ha realizado. Debe explicar qué se ha hecho y por qué, pero no cómo.
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la parte de HTML y CSS, seguiremos las convenciones del Google HTML/CSS Style Guide, que nos indica cómo trabajar con estas tecnologías. Algunas de las convenciones que aplicaremos son:
+- Declarar siempre el tipo de documento con <DOCTYPE html>
+- Usar siempre minúsculas para los nombres de los elementos HTML (como &lt;p&gt;, &lt;h1&gt;, &lt;section&gt;, etc.)
+- Cerrar siempre los elementos HTML (por ejemplo, &lt;p&gt; &lt;/p&gt;)
+- Poner siempre entre comillas los atributos de los elementos HTML (por ejemplo, &lt;p class="name"&gt;&lt;/p&gt;)
+- Especificar alt, width y height para las imágenes
+- Evitar líneas de código muy largas
+- No olvidar el elemento &lt;title&gt; al principio
+- Usar meta tags al inicio
+Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript Style Guide. Algunas de las convenciones que aplicaremos son:
+- Nombrar las variables y funciones con camelcase, como "numberArray"
+- Usar comillas simples para los strings, como 'This is a string'
+- Usar punto y coma (; )  al final de cada sentencia
+- Evitar declarar variables con var y usar *let* o *const* en su lugar
+
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
