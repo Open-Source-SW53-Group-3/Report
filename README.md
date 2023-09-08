@@ -2115,8 +2115,29 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086304600187/image.png?width=1026&height=670" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086870814761/image.png?width=560&height=526" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433086614982827/image.png?width=552&height=670" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149433087118295181/image.png?width=561&height=240" alt="version-web-wireframe"  width="90%"/>
+</div>
+</br>
+
 ### 4.3.2. Landing Page Mock-up
+
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
