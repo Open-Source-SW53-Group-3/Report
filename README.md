@@ -2350,6 +2350,35 @@ Se presenta el diagrama de contenedores. Existe una aplicación web para cada us
 </br>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+**Servicio de búsqueda**  
+Maneja la información del empleado y del trabajo para permitir la búsqueda de estos. Para optimizar este trabajo, se tiene un controlador de la búsqueda, del filtro y de la pulicación de trabajadores. Esta última se conecta a un repositorio de las publicaciones, el cual se conecta a la base de datos.
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326690179371039/structurizr-85893-searchingComponents.png?width=600&height=670" alt="searching-service"  width="90%"/>
+</div>
+</br>
+
+**Servicio de publicación**  
+Maneja la información de las publicaciones. Primero, se verifican las publicaciones a partir de un controlador. Luego, cede a un pulication controller, para finalmente ser guardado en la base de datos a partir de un publication repository.
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326690489741382/structurizr-85893-publicationComponents.png?width=388&height=670" alt="publication-service"  width="90%"/>
+</div>
+</br>
+
+**Payment service**  
+Servicio cuyo fin es regular el intercambio monetario entre los usuario y la aplicación. Primero, ingresa a un Payment Controller. Luego, la fachada de pago conecta el servicio con el sistema externo de pago. Para finalmente, ser guardado en la base de datos a partir del repositorio de los pagos.
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326690766553108/structurizr-85893-PaymentComponents.png?width=1376&height=670" alt="payment-service"  width="90%"/>
+</div>
+</br>
+
+**Authentication and security service**  
+Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y se salvaguarda la seguridad de la aplicación. Al momento de iniciar sesión, se emplea un componente de seguridad; a la hora de crear una cuenta, se posee un controlador y un componente de Email que se conecta al servicio externo de correo para permitir la verificación; cuando el usuario agrega una certificación, esta debe ser validad por el componente de validación. Finalmente, todo se conecta a la repositorio de usuarios que permite el registro en la base de datos.
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326691026620467/structurizr-85893-Components.png?width=452&height=670" alt="authentication-and-security-service"  width="90%"/>
+</div>
+</br>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
