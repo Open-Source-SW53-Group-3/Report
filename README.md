@@ -2273,6 +2273,417 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <th>
+            # Orden
+        </th>
+        <th>
+            User Story ID
+        </th>
+        <th>
+            Título
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th>
+            Story Points </br> (1 / 2 / 3 / 5 / 8)
+        </th>
+    </tr>
+    <tr>
+        <td>
+            01
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            Mejorar a cuenta premium
+        </td>
+        <td>
+            Como usuario, quiero mejorar mi cuenta a premium con diferentes métodos de pagos para obtener mejoras en mi cuenta.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            02
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            Reportar Inconvenientes a través de la Función de Reclamos
+        </td>
+        <td>
+            Como usuario quiero tener acceso a una función de reclamos donde pueda reportar inconvenientes para obtener una resolución justa hazte de esta.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            03
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            Iniciar Sesión
+        </td>
+        <td>
+            Como usuario, quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            04
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            Administrar tarjeta
+        </td>
+        <td>
+            Como usuario quiero administrar los datos de mi tarjeta para permitirá realizar transacciones dentro de la aplicación.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            05
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            Gestionar seguimiento de Estado de Trabajos 
+        </td>
+        <td>
+            Como empleador quiero actualizar y gestionar el estado de los trabajos para poder mantener un registro claro del progreso de cada trabajo.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            06
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            Comunicar entre empleado y chambeador.
+        </td>
+        <td>
+            Como empleador quiero tener la opción definir las características del trabajo directamente con los chambeadores para mantener un medio de comunicación seguro.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            07
+        </td>
+        <td>
+            23
+        </td>
+        <td>
+            Manejar certificados
+        </td>
+        <td>
+            Como chambeador quiero manejar mis certificados para tener una mejor oportunidad laboral.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            08
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            Registrar con correo
+        </td>
+        <td>
+            Como usuario quiero poder registrarme con mi correo a la plataforma para agilizar el proceso de registro.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            09
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            Notificar trabajos recomendados
+        </td>
+        <td>
+            Como chambeador quiero recibir notificaciones sobre trabajos relevantes a mi perfil mediante la suscripción premium para postular más rápido.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            Publicar anuncios como chambeador
+        </td>
+        <td>
+            Como chambeador quiero publicar un anuncio de trabajo para que me contacten más rápido.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            11
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            Evaluar historial laboral de chambeadores
+        </td>
+        <td>
+            Como empleador quiero tener acceso al historial laboral de los candidatos que se postulan en mis puestos de trabajo para evaluar y seleccionar a un futuro trabajador.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            12
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            Registrar pago del Chambeador.
+        </td>
+        <td>
+            Como empleador quiero definir el pago con el chambeador para tener un registro en la aplicación.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            13
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            Manejar anuncios de trabajo.
+        </td>
+        <td>
+            Como empleador quiero manejar (crear- editar) mis anuncios de trabajo para buscar candidatos.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            14
+        </td>
+        <td>
+            20
+        </td>
+        <td>
+            Recepcionar calificaciones y comentarios de Empleadores.
+        </td>
+        <td>
+            Como chambeador quiero recibir calificaciones y comentarios de los empleadores después de completar un trabajo para demostrar mi experiencia y calidad de trabajo.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            15
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            Manejar información del perfil
+        </td>
+        <td>
+            Como usuario, quiero manejar la información de mi perfil para mantener mis datos personales actualizados.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            16
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            Filtrar perfiles de chambeadores
+        </td>
+        <td>
+            Como empleador quiero tener la opción de filtrar perfiles para reducir el tiempo de selección.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            17
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            Resaltar anuncios del empleador
+        </td>
+        <td>
+            Como empleador con membresía premium quiero que mis publicaciones tengan prioridad al ser publicadas para atraer la atención de trabajadores cualificados y entusiastas.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            18
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            Reseñar empleador al chambeador.
+        </td>
+        <td>
+            Como empleador quiero quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado para calificar su servicio.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            19
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            Personalizar interface de usuario
+        </td>
+        <td>
+            Como usuario quiero poder personalizar la apariencia y configuración de la aplicación, para que se adapte a mis preferencias.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            20
+        </td>
+        <td>
+            21
+        </td>
+        <td>
+            Postular a vacantes de trabajo
+        </td>
+        <td>
+            Como chambeador quiero poder postular a una vacante para demostrar mis habilidades y crecer profesionalmente.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            21
+        </td>
+        <td>
+            22
+        </td>
+        <td>
+            Actualizar estado según disponibilidad
+        </td>
+        <td>
+            Como chambeador quiero que mi estado en la plataforma se actualice automáticamente según mi disponibilidad laboral para para definir mi perfil.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            22
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            Destacar perfil de chambeador
+        </td>
+        <td>
+            Como chambeador quiero contar con la opción de destacar mi perfil en los resultados de búsqueda para aumentar mis posibilidades de ser seleccionado.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            23
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            Visualizar perfiles de chambeadores
+        </td>
+        <td>
+            Como empleador quiero poder visualizar los perfiles de los chambeadores, para evaluar su experiencia y estilo de trabajo antes de contratarlos.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+</table>
+
 <br><br>
 
 # Capítulo IV: Product Design
