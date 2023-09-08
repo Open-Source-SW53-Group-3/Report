@@ -2747,10 +2747,71 @@ Además, el uso de unidades relativas como rem en lugar de píxeles puede ayudar
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+Al entrar a nuestra aplicación aplicación, el usuario podrá visualizar 4 secciones: el perfil, los perfiles de chambeadores, las publicaciones de trabajo y las notificaciones. En cada una de estas, el usuario contará con distintas acciones con las que podrá interactuar.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626084358193254/1149516472524210237/opera_jrLunJP70X.png?width=1072&height=897" alt="Organization Systems"  width="90%"/>
+</div>
+
 ### 4.2.2. Labeling Systems
+
+Los sistemas de etiquetado en arquitectura de la información son un conjunto de reglas que permiten etiquetar los contenidos de un sitio web. Estos sistemas se basan en la clasificación de los contenidos y en la estructura de navegación del sitio.
+
+En el proyecto manejaremos un sistema de **etiquetado por facetas**, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico.
+
+Dichas categorías son:
+
+- HomePage (Página de inicio)
+- Login (Inicio de sesión)
+- Register (Registro)
+- Profile (Perfil)
+- Job (Empleo)
+- JobOffer (Oferta de empleo)
+- JobRequest (Solicitud de empleo)
+- JobOfferList (Lista de ofertas de empleo)
+- JobRequestList (Lista de solicitudes de empleo)
+- JobOfferDetail (Detalle de oferta de empleo)
+- JobRequestDetail (Detalle de solicitud de empleo)
+- JobOfferCreate (Creación de oferta de empleo)
+- JobRequestCreate (Creación de solicitud de empleo)
+- Chat conector (Actualización de oferta de empleo)
+- JobRequestUpdate (Actualización de solicitud de empleo)
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
+
+Implementaremos sistemas de búsqueda por exploración, los cuales permitirán a nuestros usuarios encontrar la información que soliciten de manera rápida. Los empleadores que deseen buscar a chambeadores interesados con determinadas condiciones podrán hacerlo filtrándolos por calificación y antigüedad. Además, contaremos con un sistema de búsqueda por nombre de empleador o chambeador en la página principal de nuestra plataforma.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630777987232/opera_ddU1FiLJEX.png?width=413&height=896" alt="Searching System 1"  width="30%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630476009603/opera_c74u7VXwtN.png?width=415&height=897" alt="Searching System 2"  width="30%"/>
+</div>
+
 ### 4.2.5. Navigation Systems
+
+Para facilitar al usuario navegar por nuestro contenido, se utilizarán los siguientes sistemas de navegación:
+
+- **Navegación principal o global:** Es el sistema de navegación más común, presente en todos los apartados de la página y usualmente representado por la barra de navegación y el footer.
+- **Navegación local:** Se encuentra situado un nivel por debajo de la navegación global y su función es mostrar el contenido de la misma categoría, así como también lo que se encuentra jerárquicamente por debajo de esta.
+- **Navegación contextual:** Conformada por enlaces que dirigen al usuario a una sección distinta o a otro sitio web. Existen dos tipos: la navegación embebida, en donde los enlaces son ciertas frases o palabras del texto; y los links relacionados, los cuales pueden aparecer al final o al lado del contenido.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630153035867/opera_9FgKvOpHuV.png?width=1437&height=803" alt="Navigation System 1"  width="50%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470629897191466/ApplicationFrameHost_woK9WVAjPk.png?width=345&height=356" alt="Navigation System 2"  width="30%"/>
+</div>
+
+El patrón de lectura a utilizar para la visualización de nuestra web para las secciones que muestran contenido ligero será el patrón Z. Mientras que, para los apartados que cuenten con mayor volumen de texto, como en las ofertas de trabajo, se empleará el patrón F. De esta manera, lograremos captar la atención del lector durante más tiempo.  
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470631084175390/opera_FDtKlrQUG6.png?width=1263&height=897" alt="Patrón Z"  width="50%"/>
+    </br>
+    <p><b>Contenido ligero (patrón Z)</b></p>
+    </br>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149473093241274408/Imagen1.png?width=922&height=538" alt="Patrón F"  width="50%"/>
+    <p><b>Contenido pesado (patrón F)</b></p>
+</div>
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
