@@ -1,27 +1,53 @@
-#### Universidad Peruana de Ciencias Aplicadas
-#### Ingeniería de Software
-#### Desarrollo de Aplicaciones Open Source - SW53
 <hr>
 
 # <center>COURSE PROJECT</center>
-## TB1 REPORT
 
-## StartUp Name
-### Team Members:
-| Member | Code |
-|:----|:----:|
-|Castillo Robles, Steve Roger| U202121679 |
-|Castro Soto, Diego Mauricio | U202216636|
-|Del Carmen Zorrilla, Ray Alessandro | U202124061 |
-|Espinoza Quispe, Jennifer Mary | U202120911 |
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
+    <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
+    <br>INFORME DE TRABAJO FINAL - TB1
+</p>
 
-### <center>Ciclo 2023-02</center>
-<br><br>
+<p align="center">
+    <strong>Startup: DigitalDart</strong><br>
+    <strong>Producto: ChambeaPe</strong>
+</p>
+
+<div style="text-align:center;">
+    <h3>Team Members:</h3>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Castillo Robles, Steve Roger</td>
+            <td>U202121679</td>
+        </tr>
+        <tr>
+            <td>Castro Soto, Diego Mauricio</td>
+            <td>U202216636</td>
+        </tr>
+        <tr>
+            <td>Del Carmen Zorrilla, Ray Alessandro</td>
+            <td>U202124061</td>
+        </tr>
+        <tr>
+            <td>Espinoza Quispe, Jennifer Mary</td>
+            <td>U202120911</td>
+        </tr>
+    </table>
+</div>
+<br>
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
+|TB1|05/09/2023|Todos los integrantes del equipo|Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros).Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.| 
 
 <br><br>
 
@@ -891,11 +917,229 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-### 2.3.2. User Task Matrix
-### 2.3.3. User Journey Mapping
-### 2.3.4. Empathy Mapping
-### 2.3.5. As-is Scenario Mapping
 
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926601859674152/Luis_Perez_1.png" alt="Segmento 1 user persona"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1145926636429131796/Jose_Dias.png" alt="Segmento 2 user persona"  width="90%"/>
+</div>
+
+### 2.3.2. User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Luis Perez</b> </br>Segmento Objetivo 01 (Chambeador entre 18 a 30 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Postular a trabajos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Editar su perfil de chambeador
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Agregar certifaciones o  </br> capacitaciones a su perfil
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el empleador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir con el trabajo aceptado
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Informar sobre algun percance </br> que le impida cumplir con el trabajo
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>José Días</b> </br>Segmento Objetivo 02 (Empleador entre 18 a 50 años)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Crear una oferta de trabajo
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Seleccionar un chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar con el chambeador
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Cumplir la remuneración </br> acordada con el chambeador
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+        <tr>
+        <td>
+            Avisar al chambeador si el </br> trabajo se suspende
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+### 2.3.3. User Journey Mapping
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730437419061278/User_Journey_Map.png" alt="Segmento 1 journey map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730458977775776/User_Journey_Map_2.png" alt="Segmento 2 journey map"  width="90%"/>
+</div>
+
+### 2.3.4. Empathy Mapping
+
+**Segmento 1**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730477780836474/Luis_Perez.png" alt="Segmento 1 empathy map"  width="90%"/>
+</div>
+
+</br>
+
+**Segmento 2**
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1147730495849889925/Jose_Dias.png" alt="Segmento 2 empathy map"  width="90%"/>
+</div>
 <div align=center>
     <img src="https://media.discordapp.net/attachments/1145583761182965852/1146694430108176494/AS-IS_Chambeador.png?width=1840&height=896" alt="As-Is(Chambeador)"  width="90%"/>
 </div>
@@ -2279,6 +2523,12 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 
 ## 3.3. Impact Mapping
+<br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149502374931599390/Impact_Mapping_1.png" alt="Impact-Mapping"  width="90%"/>
+</div>
+
 ## 3.4. Product Backlog
 
 <table align="center" border="1" width="90%" style="text-align:center;">
@@ -3676,8 +3926,14 @@ Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript S
 <br><br>
 
 # Conclusiones 
-## Conclusiones y recomendaciones
 
+- Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades. 
+   
+-  Las User Stories nos permiten estar en el lugar de los usuarios, para poder comprender exactamente lo que buscan de un servicio novedoso que pueda satisfacer las dificultades que se les presenta.
+
+- El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
+
+- Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
 <br><br>
 
 # Bibliografía
