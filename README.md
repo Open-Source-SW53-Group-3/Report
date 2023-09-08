@@ -1151,7 +1151,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Owner</b>
         </td>
         <td>
-            Diego Esquivel
+            Diego Castro
         </td>
     </tr>
         <tr align="left">
@@ -1470,6 +1470,373 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
     </tr>
 </table>
+
+</br>
+
+<br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Evaluar historial laboral de chambeadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <p>
+            <b>Como</b> empleador <b>quiero</b> tener acceso al historial laboral de los candidatos que se postulan en mis puestos de trabajo <b>para</b> evaluar y seleccionar a un futuro trabajador.
+            </p>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            </br>
+            <b>Scenario 01: Acceso al perfil de los candidatos</b></br>
+            <b>Dado </b>que el empleador selecciona uno de sus trabajos publicados
+            </br>
+            <b>Cuando</b> seleccione el botón de “Postulantes”
+            </br>
+            <b>Y</b> visualice la lista de candidatos que se han postulado para ese puesto 
+            </br>
+            <b>Y</b> le dé clic alguno de los postulantes
+            </br>
+            <b>Entonces</b> visualizará el perfil del postulante.   
+            </br>
+            <br>
+            <b>Scenario 02: Visualización del historial laboral </b>
+            </br>
+            <b>Dado </b>que el empleador se encuentre en el perfil del postulante
+            </br>
+            <b>Y</b> seleccione el botón “Historial Laboral” 
+            </br>
+            <b>Cuando</b> se le redirija al apartado del historial laboral
+            </br>
+            <b>Entonces</b> podrá visualizar los proyectos realizados para los demás empleadores
+            <br>
+            <br>
+            <b>Scenario 03: Visualización de comentarios de otros empleadores</b>
+            </br>
+            <b>Dado </b>que el empleador se encuentra en el perfil del postulante
+            </br>
+            <b>Cuando</b> seleccione el botón “Comentarios” 
+            </br>
+            <b>Y</b> visualice los comentarios de otros empleadores  
+            </br>  
+            <b>Entonces</b> podrá verificar las referencias de su trabajo     
+        </td> 
+    </tr>
+    </tr>
+</table>
+
+<br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Gestionar seguimiento de Estado de Trabajos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <p>
+            <b>Como</b> empleador <b>quiero</b> actualizar y gestionar el estado de los trabajos <b>para</b> poder mantener un registro claro del progreso de cada trabajo.
+            </p>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            </br>
+            <b>Scenario 01: Acceso a la Lista de Trabajos</b></br>
+            <b>Dado </b> que el empleador inicia sesión en su cuenta
+            </br>
+            <b>Cuando</b> acceda a su perfil
+            </br>
+            <b>Y</b> de clic en la sección “Trabajos”
+            </br>
+            <b>Entonces</b> debe poder ver una lista completa de los trabajos publicados   
+            </br>
+            <br>
+            <b>Scenario 02: Actualización del Estado del Trabajo</b>
+            </br>
+            <b>Dado </b>que el empleador está en la lista de "Mis Trabajos"
+            </br>
+            <b>Y</b> selecciona un trabajo específico, 
+            </br>
+            <b>Cuando</b> hace clic en un botón de "Gestionar",
+            </br>
+            <b>Entonces</b> debe ser redirigido a una página de edición del trabajo.
+            <br>
+            <br>
+            <b>Scenario 03: Registro de Cambios y Confirmación</b>
+            </br>
+            <b>Dado </b>que el empleador está en la edición del trabajo
+            </br>
+            <b>Y</b> seleccione “Actualizar Estado” 
+            </br> 
+            <b>Entonces</b> podrá escoger entre "En Progreso" y "Completado"
+            </br> 
+            <b>Cuando</b> presione el botón “Guardar” 
+            </br>
+            <b>Entonces</b> se guardará el estado con la fecha y hora de la actualización    
+        </td> 
+    </tr>
+    </tr>
+</table
+
+<br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funciones de edición de la interfaz
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Personalizar interfaz de usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <p>
+            <b>Como</b> usuario <b>quiero</b> poder personalizar la apariencia y configuración de la aplicación, <b>para</b> que se adapte a mis preferencias.
+            </p>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            </br>
+            <b>Scenario 01: Personalización de Apariencia</b></br>
+            <b>Dado </b>que el usuario está en la sección de "Perfil"
+            </br>
+            <b>Cuando</b> seleccione el simbolo de configuración
+            </br>
+            <b>Y</b> elija en aparecencias las opciones de "Claro" u "Oscuro" 
+            </br>
+            <b>Entonces</b> la apariencia de la aplicación cambiará de acuerdo con la elección del usuario.   
+            </br>
+            <br>
+            <b>Scenario 02: Cambio de Idioma </b>
+            </br>
+            <b>Dado </b>que el usuario está en la sección de "Perfil"
+            </br>
+            <b>Cuando</b> seleccione la opción de "Cambiar Idioma"
+            </br>
+            <b>Y</b> elija entre los idiomas disponibles (por ejemplo, español e inglés) 
+            </br>
+            <b>Entonces</b> la aplicación se adaptará al idioma seleccionado por el usuario.
+            <br>   
+        </td> 
+    </tr>
+    </tr>
+</table>
+
+<br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Reportar Inconvenientes a través de la Función de Reclamos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <p>
+            <b>Como</b> usuario <b>quiero</b> tener acceso a una función de reclamos donde pueda reportar inconvenientes <b>para</b> obtener una resolución justa hazte de esta
+            </p>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            </br>
+            <b>Scenario 01: Presentación de un Reclamo</b></br>
+            <b>Dado </b>que estoy en la conversación con el chambeador en el chat de la plataforma,
+            </br>
+            <b>Cuando</b> surge un conflicto durante el trabajo,
+            </br>
+            <b>Entonces</b> hago clic en el ícono de "Reclamo" dentro de la conversación,
+            </br>
+            <b>Y</b> se abre un formulario donde puedo describir el conflicto en detalle
+            </br>
+            <br>
+            <b>Scenario 02: Adjuntar imágenes como evidencia en el reclamo </b>
+            </br>
+            <b>Dado </b>que un usuario está presentando un reclamo en la conversación de chat,
+            </br>
+            <b>Cuando</b> describen el conflicto en el formulario de reclamo,
+            </br>
+            <b>Y</b> decide presentar evidencias para evidencia como capturas de pantalla, fotos u otros archivos.
+            </br>
+            <b>Entonces</b> tendrá que presionar “Subir archivos” en el hilo del reclamo 
+            <br>   
+        </td> 
+    </tr>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Funcionalidad del usuario chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            20
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Recepcionar calificaciones y comentarios de Empleadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> chambeador <b>quiero</b> recibir calificaciones y comentarios de los empleadores después de completar un trabajo <b>para</b> demostrar mi experiencia y calidad de trabajo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b> Recepción de Calificaciones y Comentarios<br/>
+            <b>Dado</b> que he completado un trabajo en ChambeaPe<br/>
+            <b>Cuando</b> el empleador me califique y deje comentarios sobre mi desempeño, y reciba una notificación informándome de la revisión de mi trabajo <br/>
+            <b>Y </b>haga clic en el botón “Ver Reseña” para ver la reseña<br/>
+            <b>Entonces</b>  podré visualizar el comentario y la calificación que me hayan otorgado        
+            <br/> <br/>
+            <b>Scenario 02:</b> Recepción de Calificaciones y Comentarios<br/>
+            <b>Dado</b> que he realizado múltiples trabajos en ChambeaPe y he recibido calificaciones y comentarios de empleadores <br/>
+            <b>Cuando</b> acceda a mi perfil de usuario <br/>
+            <b>Y </b>seleccione la opción para ver mi historial laboral<br/>
+            <b>Entonces</b> podré ver de manera consolidada todas las calificaciones y comentarios que he recibido en trabajos anteriores
+        </td>      
+    </tr>
+    </tr>
+</table>
+
+<br>
+
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
