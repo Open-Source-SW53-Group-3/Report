@@ -1473,6 +1473,267 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 
 </br>
 
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades del Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Registrar pago del Chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> definir el pago con el chambeador <b>para</b> tener un registro en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Definiendo el pago del chambeador seleccionado</br>
+            <b>Dado</b> que el empleador necesita definir el costo su trabajo</br>
+            <b>Cuando</b> haga contacto con el chambeador</br>
+            <b>Entonces</b> podrán acordar un precio final del trabajo. </br></br>
+            <b>Scenario 02:</b> Definiendo el pago del chambeador postulante</br>
+            <b>Dado</b> que el empleador necesita definir el costo su trabajo</br>
+            <b>Y</b> este revisó los perfiles de los postulantes </br>
+            <b>Cuando</b> haga contacto con el chambeador elegido</br>
+            <b>Y</b> se contacte con él</br>
+            <b>Entonces</b> podrán acordar un precio final del trabajo.            
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Comunicar entre empleado y chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> tener la opción definir las características del trabajo directamente con los chambeadores <b>para</b> mantener un medio de comunicación seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Definiendo las características del trabajo</br>
+            <b>Dado</b> que el empleador se contactó con el chambeador</br>
+            <b>Cuando</b> se inicie el chat de la app</br>
+            <b>Entonces</b> podrán acordar las pautas y características del trabajo.            
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Reseñar empleador al chambeador.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado <b>para</b> calificar su servicio.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Dejando una reseña al chambeador</br>
+            <b>Dado</b> que el empleador quiere dejar una reseña</br>
+            <b>Cuando</b> el chambeador terminó de hacer su trabajo</br>
+            <b>Entonces</b> puntuaría en función de 0 – 5 el trabajo realizado </br>
+            <b>Y</b> agregaría un comentario a la calificación.
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Visualizar perfiles de chambeadores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> poder visualizar los perfiles de los chambeadores, <b>para</b> evaluar su experiencia y estilo de trabajo antes de contratarlos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Visualizando los perfiles de los chambeadores</br>
+            <b>Dado</b> que el empleador está buscando a un chambeador</br>
+            <b>Cuando</b>se necesita para contratar por un servicio</br>
+            <b>Entonces</b> revisará los perfiles de los chambeadores para ver si están calificados para el trabajo.
+        </td>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Empleador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Steve Roger Castillo Robles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Manejar anuncios de trabajo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> empleador <b>quiero</b> manejar (crear- editar) mis anuncios de trabajo <b>para</b> buscar candidatos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Crear anuncios de trabajo</br>
+            <b>Dado</b> que el empleador quiere crear sus anuncios</br>
+            <b>Cuando</b> requiera un chambeador</br>
+            <b>Entonces</b> podrá subir un anuncio a la app web
+            </br></br>
+            <b>Scenario 02:</b> Editar anuncios de trabajo</br>
+            <b>Dado</b> que el empleador quiere editar sus anuncios</br>
+            <b>Cuando</b> requiera cambiar algún parámetro o característica</br>
+            <b>Entonces</b> podrá modificar su anuncio </br>
+            <b>Y</b> se actualizará en la app web.
+        </td>
+    </tr>
+</table>
+
 <br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
