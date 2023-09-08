@@ -2284,6 +2284,14 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
+
+Implementaremos sistemas de búsqueda por exploración, los cuales permitirán a nuestros usuarios encontrar la información que soliciten de manera rápida. Los empleadores que deseen buscar a chambeadores interesados con determinadas condiciones podrán hacerlo filtrándolos por calificación y antigüedad. Además, contaremos con un sistema de búsqueda por nombre de empleador o chambeador en la página principal de nuestra plataforma.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630777987232/opera_ddU1FiLJEX.png?width=413&height=896" alt="Searching System 1"  width="30%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149470630476009603/opera_c74u7VXwtN.png?width=415&height=897" alt="Searching System 2"  width="30%"/>
+</div>
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 
