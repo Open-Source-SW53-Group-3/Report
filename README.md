@@ -3438,6 +3438,10 @@ Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149511161948143646/Database_ChambeaPe.png" alt="database-diagram"  width="70%"/>
+</div>
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
