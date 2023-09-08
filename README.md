@@ -2431,6 +2431,29 @@ Realizamos nuestra base de datos en esta herramienta debido que cuenta con una a
 
 
 ### 5.1.2. Source Code Management
+
+El manejo y registro de las modificaciones de nuestra landing page y este documento lo manejamos mediante una organización en Github.
+- Organization: [inserta Organización del curso app web/ open ] 
+- Landing Page Repository: [inserta repo del Landing page del curso app web/ open]
+- Report Repository: [inserta repo app web/ open]  
+
+Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
+Es por ello que se manejan dos ramas principales: main y develop.
+-	Main: La rama main almacena el historial oficial de las publicaciones de nuestro repositorio listas para producción.
+-	Develop: Esta rama sirve como una rama de integración para las características (“features”).
+Ramas auxiliares:
+-	Feature: Para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y fusionarlas con ella al terminar. Estas ramas permiten trabajar en el código sin afectar a la estabilidad de la rama develop, y facilitan la revisión y el control de calidad de las características antes de integrarlas.
+-	Realese: Para preparar una nueva versión del proyecto a partir de la rama develop y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten realizar correcciones de errores y tareas urgentes sin introducir nuevas características, y aseguran que la rama main solo reciba código probado y listo para publicar.
+-	Hotflix: Para solucionar errores críticos o urgentes a partir de la rama main y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten actuar rápidamente ante situaciones imprevistas que afecten al funcionamiento del proyecto, y garantizan que los cambios se reflejen tanto en la versión actual como en la versión en desarrollo.
+Commit Conventions
+Para el formato de nuestros commits nos hemos basado en la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/). Seguimos el siguiente formato:
+<type>[optional scope]:<description>
+“feat: add chapter 1.1”
+Donde:
+-	Type: Es un identificador que indica el tipo de cambio que se ha realizado en el código. Puede ser uno de los siguientes valores: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert. 
+-	Scope: Es un identificador opcional que indica el alcance o el contexto del cambio. Puede ser cualquier palabra que ayude a diferenciar el cambio de otros similares. Por ejemplo: [login], [navbar], [api], etc. 
+-	Description: Es una descripción breve y concisa del cambio que se ha realizado. Debe explicar qué se ha hecho y por qué, pero no cómo.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
