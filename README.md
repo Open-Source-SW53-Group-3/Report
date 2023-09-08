@@ -2725,6 +2725,26 @@ Además, el uso de unidades relativas como rem en lugar de píxeles puede ayudar
 </br>
 
 ### 4.1.2. Web Style Guidelines
+
+**Icons:**
+- Cuando se trata de diseñar una página web, los íconos desempeñan un papel fundamental en la creación de una interfaz de usuario intuitiva y fácil de usar. Estos pequeños elementos visuales tienen el poder de mejorar la comprensión de los usuarios sobre la funcionalidad de los diferentes elementos de tu página. Permíteme explicarte por qué los íconos son tan importantes. </br></br> Los íconos ayudan a los usuarios a comprender rápidamente la función de cada elemento en tu página web. Además, su simplicidad y claridad los hacen fáciles de entender. Al utilizar íconos consistentes en toda la página, evitamos confundir a los usuarios.
+- Los que usaremos en el proyecto son los siguientes:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1149317860691283968/Icons.png" alt="Icons"  width="50%"/>
+</div>
+</br>
+
+**Breackpoints**
+- Los breakpoints más conocidos son los siguientes:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1146581389874036886/Brackpoints.png" alt="Breackpoints"  width="50%"/>
+</div>
+</br>
+
+- Y los que usaremos en el proyecto principalmente son los de 768px y 1024px, ya que son los más comunes en los dispositivos móviles y de escritorio.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
