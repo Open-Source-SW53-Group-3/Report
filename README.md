@@ -2342,6 +2342,13 @@ Se presenta el diagrama de contexto, donde el Sistema "ChambeaPe" es usado por t
 </br>
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+Se presenta el diagrama de contenedores. Existe una aplicación web para cada usuario, con el fin de separar por diferentes funcionalidades. Estas tres aplicaciones web se conectan a un API Gateway, el cual funciona como punto de entrada. Este último se conecta a los cuatro servicios que presenta el sistema: servicio de búsqueda, servicio de publicación, servicio de pago y servicio de autenticación y seguridad. Todos se conectan a una base de datos del sistema. 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149326691307630612/structurizr-85893-Container.png?width=1030&height=670" alt="container-diagram"  width="90%"/>
+</div>
+</br>
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
