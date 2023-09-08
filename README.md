@@ -2099,6 +2099,177 @@ En general, los participantes valoran la experiencia laboral, pero también reco
 <br>
 
 
+<br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Funcionalidad del usuario chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            21
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Ray Del Carmen
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Postular a vacantes de trabajo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> chambeador <b>quiero</b> poder postular a una vacante <b>para</b> demostrar mis habilidades y crecer profesionalmente.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b> Postulación a una Vacante de Trabajo<br/>
+            <b>Dado</b> que he identificado una vacante laboral compatible con mis habilidades en ChambeaPe <br/>
+            <b>Cuando</b> elija la opción para postularme a la vacante <br/>
+            <b>Y </b>haga clic en "Confirmar"<br/>
+            <b>Entonces</b> se mostrara un mensaje “Solicitud Enviada” y seré considerado en el proceso de selección.
+            <br/> <br/>
+            <b>Scenario 02:</b> Seguimiento de Postulaciones<br/>
+            <b>Dado</b> que he postulado a varias vacantes de trabajo en ChambeaPe <br/>
+            <b>Cuando</b> acceda a mi perfil de usuario <br/>
+            <b>Y </b> elija la sección de "Mis Postulaciones"<br/>
+            <b>Entonces</b> podré ver una lista de las vacantes a las que he postulado y su estado actual
+        </td>      
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Funcionalidad del usuario chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            22
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Ray Del Carmen
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Actualizar estado según disponibilidad
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> chambeador <b>quiero</b> que mi estado en la plataforma se actualice automáticamente según mi disponibilidad laboral <b>para</b> para definir mi perfil.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b> Actualización Automática de Estado durante un Trabajo<br/>
+            <b>Dado</b> que soy un chambeador en ChambeaPe y deseo que mi disponibilidad laboral sea transparente <br/>
+            <b>Cuando</b> me encuentre realizando un trabajo con un empleador dentro de la aplicación <br/>
+            <b>Entonces</b> mi estado en la plataforma se actualizará automáticamente a "Trabajando"    
+            <br/> <br/>
+            <b>Scenario 02:</b> Cambio de Estado al Finalizar un Trabajo<br/>
+            <b>Dado</b> que soy un chambeador y he concluido un trabajo en ChambeaPe <br/>
+            <b>Cuando</b> acceda a mi perfil de usuario <br/>
+            <b>Y </b>seleccione la opción para ver mi historial laboral<br/>
+            <b>Entonces</b> mi estado en la plataforma cambiará automáticamente a "Disponible”
+        </td>      
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Funcionalidad del usuario chambeador
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            23
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Ray Del Carmen
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Manejar certificados 
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> chambeador <b>quiero</b> manejar mis certificados <b>para</b> tener una mejor oportunidad laboral.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b> Agregación de Certificados a mi Perfil<br/>
+            <b>Dado</b> que soy un usuario chambeador en ChambeaPe y deseo fortalecer mi perfil laboral<br/>
+            <b>Cuando</b> acceda a mi cuenta y navegue a la sección de "Certificados" <br/>
+            <b>Y </b>seleccione la opción para agregar un nuevo certificado<br/>
+            <b>Entonces</b> podré cargar una imagen o documento que respalde mis habilidades y logros   
+            <br/> <br/>
+            <b>Scenario 02:</b> Visualización de Certificados en mi Perfil <br/>
+            <b>Dado</b> que he añadido certificados a mi perfil en ChambeaPe <br/>
+            <b>Cuando</b> acceda a la sección de "Certificados" en mi perfil <br/>
+            <b>Entonces</b> podré visualizar todos los certificados que he subido
+        </td>      
+    </tr>
+    </tr>
+</table>
+
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
