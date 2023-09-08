@@ -2455,6 +2455,23 @@ Donde:
 -	Description: Es una descripción breve y concisa del cambio que se ha realizado. Debe explicar qué se ha hecho y por qué, pero no cómo.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la parte de HTML y CSS, seguiremos las convenciones del Google HTML/CSS Style Guide, que nos indica cómo trabajar con estas tecnologías. Algunas de las convenciones que aplicaremos son:
+- Declarar siempre el tipo de documento con <DOCTYPE html>
+- Usar siempre minúsculas para los nombres de los elementos HTML (como &lt;p&gt;, &lt;h1&gt;, &lt;section&gt;, etc.)
+- Cerrar siempre los elementos HTML (por ejemplo, &lt;p&gt; &lt;/p&gt;)
+- Poner siempre entre comillas los atributos de los elementos HTML (por ejemplo, &lt;p class="name"&gt;&lt;/p&gt;)
+- Especificar alt, width y height para las imágenes
+- Evitar líneas de código muy largas
+- No olvidar el elemento &lt;title&gt; al principio
+- Usar meta tags al inicio
+Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript Style Guide. Algunas de las convenciones que aplicaremos son:
+- Nombrar las variables y funciones con camelcase, como "numberArray"
+- Usar comillas simples para los strings, como 'This is a string'
+- Usar punto y coma (; )  al final de cada sentencia
+- Evitar declarar variables con var y usar *let* o *const* en su lugar
+
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
