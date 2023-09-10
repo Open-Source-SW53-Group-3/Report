@@ -3242,6 +3242,44 @@ Cuando el empleador desee ver la lista de chambeadores interesados en el anuncio
 El chambeador ingresa a su perfil desde la página principal. Cuando presione el botón de agregar certificado podrá llenar los datos requeridos como los detalles y una fotografía de este. Una vez estén todos los datos podrá confirmarlo para que sea visible en su perfil y cuando pulse en “Ver certificado” se mostrará la información de este. Por otra parte, cuando el chambeador desee publicitar su perfil, deberá ser premium y dirigirse a la sección de chambeadores, representada por una tarjeta. Una vez aquí, deberá llenar los datos, seguir los pasos y presionar el botón de “Publicar”. Finalmente, si el chambeador desea unirse a un empleo deberá dirigirse a esa sección, seleccionar el empleo deseado y hacer click en unirse.
 
 ### 4.4.3. Web Applications Mock-ups
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642028007817277/7.png?width=1381&height=897" alt="Mockup 01"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642028360155216/8.png?width=1912&height=897" alt="Mockup 02"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642028704075796/9.png?width=1260&height=897" alt="Mockup 03"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642029073186886/10.png?width=1920&height=601" alt="Mockup 04"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642029526159380/12.png?width=1352&height=897" alt="Mockup 05"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642029928824923/15.png?width=988&height=897" alt="Mockup 06"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642030385987625/16.png?width=1655&height=897" alt="Mockup 07"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642030792851478/21.png?width=1586&height=897" alt="Mockup 08"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149642027638722571/23.png?width=1606&height=897" alt="Mockup 09"  width="90%"/>
+</div>
+</br>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 
