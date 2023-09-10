@@ -4483,6 +4483,13 @@ En este apartado se verán los resultados de la implementación del Landin Page.
 </br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el primer sprint, se ha creado el landing page como primer paso del proyecto, sin que se haya hecho uso de web services para su funcionamiento.
+
+Para saber más sobre los web services, se le deja un pequeño resumen de lo que son y para qué sirven.
+
+- Un web service es un software que permite la comunicación e intercambio de datos entre distintas aplicaciones, independientemente del lenguaje de programación o la plataforma en la que se hayan desarrollado. Los web services facilitan la integración y la interoperabilidad entre sistemas heterogéneos.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
