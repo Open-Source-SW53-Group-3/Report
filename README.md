@@ -3174,6 +3174,73 @@ El patrón de lectura a utilizar para la visualización de nuestra web para las 
 </br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**User goal: Usuario se registra, inicia sesión y ingresa su 2FA.**      
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149488126671212625/Diagrama_en_blanco_-_Pagina_1_9.png?width=1296&height=897" alt="User Goal 01"  width="90%"/>
+</div>
+
+
+**Descripción:**
+
+Cuando un usuario desee registrarse, deberá hacer click en ese dicho botón y completar sus datos personales, así como el rol que asumirá. Finalmente, presionará el botón de registrar.
+
+Por otra parte, cuando el usuario desee iniciar sesión, deberá llenar su correo y contraseña y pulsar el botón iniciar sesión. Cuando se encuentre aquí deberá completar la verificación en 2 pasos, ingresando el código enviado por SMS a su teléfono móvil. Una vez se haya verificado su identidad se procederá al inicio de sesión. 
+
+**User goal: Empleador ve las solicitudes de los chambeadores en los anuncios que publico**
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149488159919460382/Diagrama_en_blanco_-_Pagina_1_6.png?width=1872&height=896 " alt="User Goal 02"  width="90%"/>
+</div>
+
+
+**Descripción:**
+
+El empleador ingresa a la sección de empleos desde la página principal. En esta sección se listan todos los anuncios publicados por él y las opciones para ver el detalle y editar el anuncio. Luego de ajustar los filtros que desee, el empleador presiona en una publicación y observa el detalle del anuncio, así como las solicitudes de los chambeadores interesados en ese trabajo. Asimismo, puede observar el perfil de cada chambeador al pulsar el botón “Ver perfil”.
+
+**User goal: Empleador filtra las solicitudes de los chambeadores para elegir el más apto**
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149488158216552468/Diagrama_en_blanco_-_Pagina_1_4.png?width=1920&height=627" alt="User Goal 03"  width="90%"/>
+</div>
+
+
+**Descripción:**
+
+El empleador ingresa a la sección de empleos desde la página principal. Desde aquí podrá observar la lista de ofertas de trabajo publicadas por él. Cuando presione uno de los anuncios se mostrarán todos los chambeadores interesados en el trabajo seleccionado. Finalmente, podrá ajustar los filtros que desee para mostrar al más apto según sus preferencias.
+
+**User goal: Empleador  crea un anuncio de trabajo**
+
+**User goal: Empleador elimina un anuncio** 
+
+**User goal: El empleador revisa la lista de candidatos interesados en el trabajo, realiza un proceso de selección, evalúa sus perfiles y establece una  comunicación inicial antes de finalizar la contratación.**
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149488127002558474/Diagrama_en_blanco_-_Pagina_1.png?width=1143&height=897" alt="User Goal 04"  width="90%"/>
+</div>
+
+
+**Descripción:**
+
+El empleador se dirige a la sección de empleos desde la página principal. En este apartado podrá ver la lista de trabajos publicados por él junto a un botón para añadir una nueva publicación. Cuando haga click en ese botón el empleador será dirigido a un formulario donde debe rellenar los datos requeridos para la publicación como el título, categoría, descripción, imágenes, ubicación y algunas configuraciones adicionales. Luego, al completar todos los pasos se creará el anuncio de trabajo. 
+
+Cuando el empleador desee ver la lista de chambeadores interesados en el anuncio que acaba de publicar, podrá hacerlo dirigiéndose a la sección de trabajos, pulsando en el ícono de la maleta. A continuación, deberá seleccionar el trabajo del que desea ver la lista, luego ajustar los filtros que desee y abrir el chat del chambeador más apto. Una vez aquí, el empleador podrá visualizar el perfil del interesado a detalle, como ver su historial de trabajos, y tomar la decisión de si desea contactar con él. Finalmente, si desea eliminar la publicación, se dirigirá a la sección de publicaciones y presionará el tacho de basura.
+
+**User goal: Chambeador agrega un certificado a su perfil** 
+
+**User goal: Chambeador postula a un trabajo**
+
+**User goal: Chambeador publicita su perfil**
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1149488128936132719/Diagrama_en_blanco_-_Pagina_1_12.png?width=1157&height=897" alt="User Goal 05"  width="90%"/>
+</div>
+
+**Descripción:**
+
+El chambeador ingresa a su perfil desde la página principal. Cuando presione el botón de agregar certificado podrá llenar los datos requeridos como los detalles y una fotografía de este. Una vez estén todos los datos podrá confirmarlo para que sea visible en su perfil y cuando pulse en “Ver certificado” se mostrará la información de este. Por otra parte, cuando el chambeador desee publicitar su perfil, deberá ser premium y dirigirse a la sección de chambeadores, representada por una tarjeta. Una vez aquí, deberá llenar los datos, seguir los pasos y presionar el botón de “Publicar”. Finalmente, si el chambeador desea unirse a un empleo deberá dirigirse a esa sección, seleccionar el empleo deseado y hacer click en unirse.
+
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
