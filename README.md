@@ -4291,6 +4291,163 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 <br><br>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Presentamos las pruebas de aceptación realizadas para el presente sprint. Para el desarrollo de las pruebas de aceptación se ha utilizado las siguientes herramientas:
+
+[Link al repositorio de las pruebas en Gherkin](https://github.com/Web-Applications-SW53-Group-3/Acceptance-Tests/tree/develop)
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20>Acceptance-Tests</td>
+    <td>develop</td>
+    <td>0c9b918</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/epic07</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>3c674fd</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 23</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>9f526fc</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 20</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>2623764</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/epic06</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic06</td>
+    <td>64cc49d</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 19</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>51c93b5</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/epic05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic05</td>
+    <td>d01f26d</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 18</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>a9170bb</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/epic04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>d12a2f6</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 17</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>5b04ecd</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 12</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>f2e61ce</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/epic03</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>666ce51</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 09</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>95083ad</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 08</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>0574b53</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/epic02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>6100269</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>eb38512</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>3816a93</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/epic01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>66f3d97</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>343f096</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>main</td>
+    <td>825903c</td>
+    <td>Diego Esquivel</td>
+    <td>Initial commit</td>
+    <td>2023-09-08</td>
+  </tr>
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
