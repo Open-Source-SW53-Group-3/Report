@@ -3128,6 +3128,51 @@ El patrón de lectura a utilizar para la visualización de nuestra web para las 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627174094118983/21.png?width=1422&height=897" alt="wireframe 1"  width="100%"/>
+</div>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627174412894275/07.png?width=1262&height=897" alt="wireframe 2"  width="90%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627174639370270/08.png?width=1687&height=897" alt="wireframe 3"  width="90%"/>
+</div>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627174912008232/09.png?width=1920&height=796" alt="wireframe 4"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627175251755028/10.png?width=1920&height=663" alt="wireframe 5"  width="90%"/>
+</div>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627175490814053/12.png?width=1356&height=897" alt="wireframe 6"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627175742480454/15.png?width=1460&height=897" alt="wireframe 7"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627176023506946/16.png?width=1610&height=897" alt="wireframe 8"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627176308703292/19.png?width=1920&height=877" alt="wireframe 9"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627176547786752/20.png?width=1431&height=897" alt="wireframe 10"  width="90%"/>
+</div>
+</br>
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1142626132357828689/1149627191726985226/23.png?width=1533&height=897" alt="wireframe 11"  width="90%"/>
+</div>
+</br>
+</br>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
