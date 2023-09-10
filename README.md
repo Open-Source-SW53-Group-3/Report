@@ -4449,6 +4449,39 @@ Presentamos las pruebas de aceptación realizadas para el presente sprint. Para 
 </table>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este apartado se verán los resultados de la implementación del Landin Page. donde nos conocerás un poco más y verás a los top usuarios de la plataforma.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750519603155015/parte_01.png" alt="LP-1"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750517971570769/parte_02.png" alt="LP-2"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518361620581/parte_03.png" alt="LP-3"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518634266624/parte_04.png" alt="LP-4"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518915280986/parte_05.png" alt="LP-5"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750519271800944/parte_06.png" alt="LP-6"  width="70%"/>
+</div>
+</br>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
