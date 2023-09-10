@@ -3883,9 +3883,9 @@ Para el desarrollo nuestro landing page usamos herramientas básicas para el dis
 ### 5.1.2. Source Code Management
 
 El manejo y registro de las modificaciones de nuestra landing page y este documento lo manejamos mediante una organización en Github.
-- Organization: [inserta Organización del curso app web/ open ] 
-- Landing Page Repository: [inserta repo del Landing page del curso app web/ open]
-- Report Repository: [inserta repo app web/ open]  
+- Organization: https://github.com/Open-Source-SW53-Group-3 
+- Landing Page Repository: https://github.com/Open-Source-SW53-Group-3/Landing-Page 
+- Report Repository: https://github.com/Open-Source-SW53-Group-3/Report
 
 Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
 Es por ello que se manejan dos ramas principales: main y develop.
@@ -4162,7 +4162,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 - Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 </br>
 
-[Link al respositorio de la Landing Page](https://github.com/Web-Applications-SW53-Group-3/Landing-Page)
+[Link al respositorio de la Landing Page](https://github.com/Open-Source-SW53-Group-3/Landing-Page)
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -4501,6 +4501,20 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 - Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
+
+- Nuetro Gitflow se representa de la siguiente manera:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951350005770/Gitflow.png" alt="gitflow"  width="90%"/>
+</div>
+</br>
+
+- Las contribuciones de cada integrante del equipo se muestran a continuación:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951568093245/Contribuciones.png" alt="contributions"  width="90%"/>
+</div>
 
 <br><br>
 
