@@ -427,21 +427,21 @@ Luego de realizar una investigación en el mercado peruano, hemos hallado tres p
 
 1. **Computrabajo:**
 
-Es un portal de empleos y reclutamiento que ofrece una amplia gama de ofertas laborales en diferentes industrias. 
+    Es un portal de empleos y reclutamiento que ofrece una amplia gama de ofertas laborales en diferentes industrias. 
 <div style="text-align: center;">
                 <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730942554232/favicon_ct.png?width=600&height=600" alt="Computrabajo" style="max-width: 400px; width: 25%;">
 </div>
 
-1. **Laborum:**
+2. **Laborum:**
 
-Es un portal del empleo, ofrece una amplia variedad de oportunidades laborales, trabajaos a plazo fijo y por proyecto. En donde se pueden aplicar filtros de acuerdo con tus necesidades de búsqueda. 
+    Es un portal del empleo, ofrece una amplia variedad de oportunidades laborales, trabajaos a plazo fijo y por proyecto. En donde se pueden aplicar filtros de acuerdo con tus necesidades de búsqueda. 
 <div style="text-align: center;">
                 <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125731219374101/545921-imageonline-co-transparentimage-6.png?width=547&height=118" alt="Computrabajo" style="max-width: 600px; width: 25%;">
 </div>
 
-1. **Bumeran:**
+3. **Bumeran:**
 
-Un portal de empleos popular en el Perú, ofrece opciones de búsqueda de empleos temporales o por proyectos específicos. 
+    Un portal de empleos popular en el Perú, ofrece opciones de búsqueda de empleos temporales o por proyectos específicos. 
 <div style="text-align: center; ">
     <img src="https://media.discordapp.net/attachments/1145421916413366426/1146125730586034227/maxresdefault.jpg?width=1447&height=814" style="max-width: 600px; width: 40%;">
 </div>
@@ -656,7 +656,7 @@ Distrito: Bellavista
 
 Evidencia de la reunión: 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326468977238097/1.jpg?width=1595&height=897" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326468977238097/1.jpg?width=1595&height=897" alt="Entrevista 01"  width="90%"/>
 </div>
 
 Inicio: 00:04
@@ -689,7 +689,7 @@ Distrito: San Miguel
 
 Evidencia de la reunión: 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326469300211752/2.png?width=1595&height=897" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146326469300211752/2.png?width=1595&height=897" alt="Entrevista 02"  width="90%"/>
 </div>
 
 Inicio: 05:04
@@ -724,7 +724,7 @@ Distrito: La Victoria
 Evidencia de la reunión: 
 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745029799976/jessica-alvarado.png?width=1105&height=552" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745029799976/jessica-alvarado.png?width=1105&height=552" alt="Entrevista 03"  width="90%"/>
 </div> 
 
 Inicio: 09:26
@@ -757,7 +757,7 @@ Distrito: San Miguel
 
 Evidencia de la reunión: 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321049072451674/image.png?width=1547&height=690" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321049072451674/image.png?width=1547&height=690" alt="Entrevista 04"  width="90%"/>
 </div> 
 
 Inicio: 14:24
@@ -786,7 +786,7 @@ Distrito: Breña
 
 Evidencia de la reunión: 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146300396260823100/image.png?width=1107&height=603" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146300396260823100/image.png?width=1107&height=603" alt="Entrevista 05"  width="90%"/>
 </div> 
 
 Inicio: 19:11
@@ -819,7 +819,7 @@ Distrito:
 
 Evidencia de la reunión: 
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745335971850/claudia-rios.png?width=1105&height=521" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1146300745335971850/claudia-rios.png?width=1105&height=521" alt="Entrevista 01"  width="90%"/>
 </div> 
 
 Inicio: 24:02
@@ -854,7 +854,7 @@ Distrito: Miraflores
 
 Evidencia de la reunión:
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146301981007286323/image.png?width=1875&height=896" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146301981007286323/image.png?width=1875&height=896" alt="Entrevista 02"  width="90%"/>
 </div>  
 
 Inicio: 28:53
@@ -885,7 +885,7 @@ Distrito: Monterrico
 
 Evidencia de la reunión:
 <div align=center>
-    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321191523586149/image.png?width=1562&height=550" alt="Canvas"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1146321191523586149/image.png?width=1562&height=550" alt="Entrevista 03"  width="90%"/>
 </div>  
 
 Inicio: 33:51
@@ -3836,36 +3836,47 @@ Servicio cuya finalidad es asegurarse que los datos ingresados son auténticos y
 El software necesita diferentes entornos para su desarrollo, prueba, despliegue y operación. La configuración del entorno de implementación de software es una actividad que se ocupa de crear y mantener estos entornos. Es por ello que en este apartado detallaremos las herramientas usadas.
 
 <br>
+
 **Project Management**
 1.	Notion:  https://www.notion.so/ 
-Empleamos Notion para organizar las actividades que teníamos que realizar, principalmente respecto al desarrollo de este informe. Realizábamos seguimiento del estatus de las actividades, con la facilidad de organizarnos como equipo. Esta es una aplicación que te permite crear y gestionar tu propio espacio de trabajo conectado de manera intuitiva.
+
+    Empleamos Notion para organizar las actividades que teníamos que realizar, principalmente respecto al desarrollo de este informe. Realizábamos seguimiento del estatus de las actividades, con la facilidad de organizarnos como equipo. Esta es una aplicación que te permite crear y gestionar tu propio espacio de trabajo conectado de manera intuitiva.
 
 2.	Discord: https://discord.com/ 
-Discord es una aplicación que te permite comunicarte por voz, video y texto con tus amigos y comunidades. Se empleó esta herramienta como el medio para realizar reuniones de trabajo con los integrantes del equipo.
+
+    Discord es una aplicación que te permite comunicarte por voz, video y texto con tus amigos y comunidades. Se empleó esta herramienta como el medio para realizar reuniones de trabajo con los integrantes del equipo.
 
 **Requirements Managements**
 1.	Trello: https://trello.com/ 
-Usamos esta herramienta para el manejo de nuestros requerimientos con el objetivo de organizar de manera más efectiva el backlog en equipo. Trello es una aplicación para gestionar proyectos. Te permite crear y organizar tareas, plazos y equipos. Trello se adapta a cualquier tipo de proyecto y se integra con otras aplicaciones.  
+
+    Usamos esta herramienta para el manejo de nuestros requerimientos con el objetivo de organizar de manera más efectiva el backlog en equipo. Trello es una aplicación para gestionar proyectos. Te permite crear y organizar tareas, plazos y equipos. Trello se adapta a cualquier tipo de proyecto y se integra con otras aplicaciones.  
   
 **Product UX/UI Design** 
 1.	UXPressia: https://uxpressia.com/ 
-Esta herramienta nos ayudó en el desarrollo de nuestras User Personas, el Customer Journey Map, Empathy Map e Impac Map. Debido a que nos ofrece platillas para el desarrollo ágil de estos artefactos.
+
+    Esta herramienta nos ayudó en el desarrollo de nuestras User Personas, el Customer Journey Map, Empathy Map e Impac Map. Debido a que nos ofrece platillas para el desarrollo ágil de estos artefactos.
 2.	Mural: https://www.mural.co/ 
-Realizamos nuestro scenarios mapping para nuestros dos segmentos objetivos debido a que mural es una herramienta fácil de usar y nos brinda plantillas de uso libre.
+
+    Realizamos nuestro scenarios mapping para nuestros dos segmentos objetivos debido a que mural es una herramienta fácil de usar y nos brinda plantillas de uso libre.
+
 3.	Figma: https://www.figma.com/ 
-Usamos esta herramienta para la creación de nuestros Wireframes, mockups y mobile aplication prototyping ya que permite trabajar de manera colaborativa y tiene muchas utilidades.  
+
+    Usamos esta herramienta para la creación de nuestros Wireframes, mockups y mobile aplication prototyping ya que permite trabajar de manera colaborativa y tiene muchas utilidades.  
   
 **Software Development** 
 1.	Landing Page
 Para el desarrollo nuestro landing page usamos herramientas básicas para el diseño de páginas web como lo son: HTML5, CSS3 y JavaScript.  
   
 **Software Documentation**
-1.	LucidChart: https://lucid.app/ 
-Esta herramienta la usamos para el desarrllo de user flows diagrams, wireflows y el diagrama de clases. En LucidChart se pueden crear diversos diagramas de forma rápida y colaborativa.
+1.	LucidChart: https://lucid.app/
+
+    Esta herramienta la usamos para el desarrllo de user flows diagrams, wireflows y el diagrama de clases. En LucidChart se pueden crear diversos diagramas de forma rápida y colaborativa.
 2.	Structurizr: https://www.structurizr.com/ 
-Nos permitió realizar los diagramas C4 de manera rápida con el lenguaje de programación C#. 
+
+    Nos permitió realizar los diagramas C4 de manera rápida con el lenguaje de programación C#. 
 3.	Vertabelo: https://vertabelo.com/ 
-Realizamos nuestra base de datos en esta herramienta debido que cuenta con una amplia variedad de motores y permite trabajar colaborativamente. 
+
+    Realizamos nuestra base de datos en esta herramienta debido que cuenta con una amplia variedad de motores y permite trabajar colaborativamente. 
 
 
 
@@ -3912,6 +3923,31 @@ Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript S
 
 
 ### 5.1.4. Software Deployment Configuration
+
+**Landing Page:** En este caso, se utilizó el servicio "GitHub Pages" para desplegar la aplicación de manera automática desde una rama de GitHub. Este servicio generará un enlace con un dominio específico que permitirá acceder a la página. El proceso se lleva a cabo de la siguiente manera:
+
+1. Después de lanzar la versión final al repositorio y asegurarse de que las ramas estén actualizadas, se accede a la plataforma GitHub.
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635769321930825/image.png?width=2880&height=1082" width="90%" alt="Paso 01">
+   
+2. A continuación, se selecciona el repositorio del proyecto en cuestión.
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635342014627881/image.png?width=2130&height=1242" width="90%" alt="Paso 02">
+   
+3. Luego, se hace clic en la pestaña llamada "Settings
+   
+   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149636431581552720/image.png?width=2132&height=1242" width="90%" alt="Paso 03">
+
+4. Luego, activas el GitHub Pages en la sección de GitHub Pages y seleccionas la rama que contiene el código de la aplicación.
+
+   <img src="https://media.discordapp.net/attachments/1142626132357828689/1149510946637750383/image.png?width=1522&height=1242" width="90%" alt="Paso 04">
+
+5. Finalmente, se genera un enlace con el dominio específico que permite acceder a la aplicación.
+
+    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149633659696054333/image.png?width=2304&height=1240" width="90%" alt="Prototipo">
+    
+    **Link de la landing page:** https://web-applications-sw53-group-3.github.io/Landing-Page/
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
