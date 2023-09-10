@@ -4491,6 +4491,15 @@ Para saber más sobre los web services, se le deja un pequeño resumen de lo que
 - Un web service es un software que permite la comunicación e intercambio de datos entre distintas aplicaciones, independientemente del lenguaje de programación o la plataforma en la que se hayan desarrollado. Los web services facilitan la integración y la interoperabilidad entre sistemas heterogéneos.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+
+- Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page. Git es un software que permite a los desarrolladores crear y mantener un historial de los cambios realizados en el código fuente del proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin afectar al resto, fusionar los cambios cuando estén listos y revertirlos si hay algún error.
+
+- GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page. GitFlow es un modelo de ramificación de Git que define una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos tener una rama principal (master o main) que contiene el código más estable y seguro, una rama de desarrollo (develop) que contiene el código en progreso, y varias ramas auxiliares (feature, release, hotfix) que sirven para desarrollar nuevas funcionalidades, preparar lanzamientos y corregir errores urgentes respectivamente.
+
+- GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y facilitar la colaboración entre los desarrolladores. Con GitHub, podemos subir nuestro código a la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de las tareas y los problemas, y acceder a miles de proyectos de código abierto.
+
+- Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <br><br>
