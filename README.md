@@ -4107,9 +4107,9 @@ Para el desarrollo nuestro landing page usamos herramientas básicas para el dis
 ### 5.1.2. Source Code Management
 
 El manejo y registro de las modificaciones de nuestra landing page y este documento lo manejamos mediante una organización en Github.
-- Organization: [inserta Organización del curso app web/ open ] 
-- Landing Page Repository: [inserta repo del Landing page del curso app web/ open]
-- Report Repository: [inserta repo app web/ open]  
+- Organization: https://github.com/Open-Source-SW53-Group-3 
+- Landing Page Repository: https://github.com/Open-Source-SW53-Group-3/Landing-Page 
+- Report Repository: https://github.com/Open-Source-SW53-Group-3/Report
 
 Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
 Es por ello que se manejan dos ramas principales: main y develop.
@@ -4175,13 +4175,570 @@ Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript S
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            07/09/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se establecieron las primeras historias de usuario centradas en el desarrollo del Landing Page y la implementación de la lógica de funcionamiento para la plataforma ChambeaPe.
+            </br></br>
+Se cumplió con éxito el despliegue del Landing Page dentro del plazo acordado.
+</br></br>
+La documentación se ha enriquecido con la expansión de la visión de negocio y la incorporación de los artefactos correspondientes.   
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            En líneas generales, hemos logrado mantener una excelente organización y comunicación como equipo, gracias al uso de plataformas como Discord. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación y colaboración en pos de la excelencia en nuestros proyectos.
+</br></br>
+Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo de los wireframes y mockups. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
+</br></br>
+Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestra documentación y comunicaciones, ya que esto facilitará la lectura y comprensión de la información por parte de todos los miembros del equipo.  
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            8  
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8  
+        </td>
+    </tr>
+</table>
+</br>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se deben realizar para completar el Sprint.
+- [Click aqui para ver el Trello](https://trello.com/b/mfAT1Gn2/sprint-backlog)
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149792374013317150/image.png" alt="Trello-Sprint"  width="90%"/>
+</div>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Implementación de CSS</td>
+       <td>T01</td>
+       <td>Agregar RESET</td>
+       <td>Restablecer los estilos predeterminados del navegador</td>
+       <td>0.5</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS main</td>
+       <td>Dar formato y estilo a la sección principal</td>
+       <td>3</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar CSS footer</td>
+       <td>Dar formato y estilo al pie de página </td>
+       <td>2</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Implementación de Diseño Responsivo</td>
+       <td>T04</td>
+       <td>Agregar CSS main (media queries)</td>
+       <td>Hacer responsive a la sección principal</td>
+       <td>1</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar CSS footer (media queries)</td>
+       <td>Hacer responsive al pie de página
+</td>
+       <td>0.5</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US03</td>
+       <td>Implementación de JavaScript</td>
+       <td>T06</td>
+       <td>Agregar Botón en JS HTML y CSS</td>
+       <td>Agregar comportamientos dinámicos al botón, estructurarlo y estilizarlo</td>
+       <td>2</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US04</td>
+       <td>Implementación de Cover</td>
+       <td>T07</td>
+       <td>Agregar cover landing page</td>
+       <td>Diseñar una portada atractiva</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   </table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+- Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+</br>
+
+[Link al respositorio de la Landing Page](https://github.com/Open-Source-SW53-Group-3/Landing-Page)
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=16 >Landing Page</td>
+        <td>develop</td>
+        <td>7e3d940</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/realese/v1.0</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>49ef152</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/realese/v1.0</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>realese/v1.0</td>
+        <td>1eedffb</td>
+        <td>Steve Castillo</td>
+        <td>Update meta tag and prepare to realese</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1291432</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/implemet-JS</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>feature/implemet-JS</td>
+        <td>34d3498</td>
+        <td>Steve Castillo</td>
+        <td>feat: add JS button</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>49648aa</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/implement-css</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>49ed2df</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add footer responsive</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>8f1587e</td>
+        <td>Diego Castro</td>
+        <td>feat: add footer css</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>9c39952</td>
+        <td>Diego Castro</td>
+        <td>feat: add responsive home</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>89bb8b0</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add home css</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>0ff61c3</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add reset</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>11d5e7c</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/html-structure</td>
+        <td>07/09/2023</td>
+    </tr>
+    <tr>
+        <td>feature/html-structure</td>
+        <td>56b258c</td>
+        <td>Diego Esquivel</td>
+        <td>feat: add footer</td>
+        <td>07/09/2023</td>
+    </tr>
+    <tr>
+        <td>feature/html-structure</td>
+        <td>b278468</td>
+        <td>Steve Castillo</td>
+        <td>feat: add main and header in html</td>
+        <td>07/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>5a4f2eb</td>
+        <td>Steve Castillo</td>
+        <td>loaded workspace</td>
+        <td>07/09/2023</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>74122ed</td>
+        <td>Steve Castillo</td>
+        <td>First Commit</td>
+        <td>07/09/2023</td>
+    </tr>
+</table>
+
+<br><br>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Presentamos las pruebas de aceptación realizadas para el presente sprint. Para el desarrollo de las pruebas de aceptación se ha utilizado las siguientes herramientas:
+
+[Link al repositorio de las pruebas en Gherkin](https://github.com/Web-Applications-SW53-Group-3/Acceptance-Tests/tree/develop)
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20>Acceptance-Tests</td>
+    <td>develop</td>
+    <td>0c9b918</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/epic07</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>3c674fd</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 23</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>9f526fc</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 20</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>2623764</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/epic06</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic06</td>
+    <td>64cc49d</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 19</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>51c93b5</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/epic05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic05</td>
+    <td>d01f26d</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 18</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>a9170bb</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/epic04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>d12a2f6</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 17</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>5b04ecd</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 12</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>f2e61ce</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/epic03</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>666ce51</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 09</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>95083ad</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 08</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>0574b53</td>
+    <td>Diego Esquivel</td>
+    <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/epic02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>6100269</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>eb38512</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>3816a93</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/epic01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>66f3d97</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>343f096</td>
+    <td>Diego Esquivel</td>
+    <td>feat: add acceptance test 01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>main</td>
+    <td>825903c</td>
+    <td>Diego Esquivel</td>
+    <td>Initial commit</td>
+    <td>2023-09-08</td>
+  </tr>
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este apartado se verán los resultados de la implementación del Landin Page. donde nos conocerás un poco más y verás a los top usuarios de la plataforma.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750519603155015/parte_01.png" alt="LP-1"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750517971570769/parte_02.png" alt="LP-2"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518361620581/parte_03.png" alt="LP-3"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518634266624/parte_04.png" alt="LP-4"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750518915280986/parte_05.png" alt="LP-5"  width="70%"/>
+</div>
+</br>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149750519271800944/parte_06.png" alt="LP-6"  width="70%"/>
+</div>
+</br>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el primer sprint, se ha creado el landing page como primer paso del proyecto, sin que se haya hecho uso de web services para su funcionamiento.
+
+Para saber más sobre los web services, se le deja un pequeño resumen de lo que son y para qué sirven.
+
+- Un web service es un software que permite la comunicación e intercambio de datos entre distintas aplicaciones, independientemente del lenguaje de programación o la plataforma en la que se hayan desarrollado. Los web services facilitan la integración y la interoperabilidad entre sistemas heterogéneos.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+
+- Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page. Git es un software que permite a los desarrolladores crear y mantener un historial de los cambios realizados en el código fuente del proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin afectar al resto, fusionar los cambios cuando estén listos y revertirlos si hay algún error.
+
+- GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page. GitFlow es un modelo de ramificación de Git que define una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos tener una rama principal (master o main) que contiene el código más estable y seguro, una rama de desarrollo (develop) que contiene el código en progreso, y varias ramas auxiliares (feature, release, hotfix) que sirven para desarrollar nuevas funcionalidades, preparar lanzamientos y corregir errores urgentes respectivamente.
+
+- GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y facilitar la colaboración entre los desarrolladores. Con GitHub, podemos subir nuestro código a la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de las tareas y los problemas, y acceder a miles de proyectos de código abierto.
+
+- Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
+
+- Nuetro Gitflow se representa de la siguiente manera:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951350005770/Gitflow.png" alt="gitflow"  width="90%"/>
+</div>
+</br>
+
+- Las contribuciones de cada integrante del equipo se muestran a continuación:
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951568093245/Contribuciones.png" alt="contributions"  width="90%"/>
+</div>
 
 <br><br>
 
