@@ -4062,6 +4062,101 @@ Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestr
 </br>
 
 #### 5.2.1.2. Sprint Backlog 1
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se deben realizar para completar el Sprint.
+- [Click aqui para ver el Trello](https://trello.com/b/mfAT1Gn2/sprint-backlog)
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149792374013317150/image.png" alt="Trello-Sprint"  width="90%"/>
+</div>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Implementación de CSS</td>
+       <td>T01</td>
+       <td>Agregar RESET</td>
+       <td>Restablecer los estilos predeterminados del navegador</td>
+       <td>0.5</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS main</td>
+       <td>Dar formato y estilo a la sección principal</td>
+       <td>3</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar CSS footer</td>
+       <td>Dar formato y estilo al pie de página </td>
+       <td>2</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Implementación de Diseño Responsivo</td>
+       <td>T04</td>
+       <td>Agregar CSS main (media queries)</td>
+       <td>Hacer responsive a la sección principal</td>
+       <td>1</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar CSS footer (media queries)</td>
+       <td>Hacer responsive al pie de página
+</td>
+       <td>0.5</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US03</td>
+       <td>Implementación de JavaScript</td>
+       <td>T06</td>
+       <td>Agregar Botón en JS HTML y CSS</td>
+       <td>Agregar comportamientos dinámicos al botón, estructurarlo y estilizarlo</td>
+       <td>2</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US04</td>
+       <td>Implementación de Cover</td>
+       <td>T07</td>
+       <td>Agregar cover landing page</td>
+       <td>Diseñar una portada atractiva</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   </table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
