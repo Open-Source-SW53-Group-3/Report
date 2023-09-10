@@ -3037,6 +3037,21 @@ Dichas categorías son:
 - JobRequestUpdate (Actualización de solicitud de empleo)
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page:** La página de inicio de nuestra aplicación contará con los siguientes tags:
+``` 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChambeaPe - Tu plataforma para encontrar empleo</title>
+    <meta name="description" content="Encuentra empleo en Perú con ChambeaPe. Conectamos a empleadores y trabajadores de manera eficiente. ¡Regístrate y encuentra tu próximo trabajo!">
+    <meta name="keywords" content="empleo, trabajo, Perú, búsqueda de empleo, ofertas de trabajo, empleos en Perú">
+    <link rel="stylesheet" href="./assets/css/home.css">
+    <link rel="shortcut icon" href="./assets/icons/Logo.svg" type="image/x-icon">
+
+</head>
+```
+
 ### 4.2.4. Searching Systems
 
 Implementaremos sistemas de búsqueda por exploración, los cuales permitirán a nuestros usuarios encontrar la información que soliciten de manera rápida. Los empleadores que deseen buscar a chambeadores interesados con determinadas condiciones podrán hacerlo filtrándolos por calificación y antigüedad. Además, contaremos con un sistema de búsqueda por nombre de empleador o chambeador en la página principal de nuestra plataforma.
