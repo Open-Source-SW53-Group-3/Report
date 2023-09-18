@@ -4772,3 +4772,11 @@ agosto del 2023, de
 <br><br>
 
 # Anexos
+- Link de la landing page: https://open-source-sw53-group-3.github.io/Landing-Page/
+- Sprint Backlog: https://trello.com/b/mfAT1Gn2/sprint-backlog
+- Criterios de aceptación: https://github.com/Open-Source-SW53-Group-3/Acceptance-Tests
+- Organization: https://github.com/Open-Source-SW53-Group-3
+- Landing Page Repository: https://github.com/Open-Source-SW53-Group-3/Landing-Page
+- Report Repository:https://github.com/Open-Source-SW53-Group-3/Report
+- Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
+https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
