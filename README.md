@@ -4737,7 +4737,7 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 - Las contribuciones de cada integrante del equipo se muestran a continuación:
 
 <div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1149763951568093245/Contribuciones.png" alt="contributions"  width="90%"/>
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1153409060486529144/opera_1K0p7D0GzA.png?width=1447&height=747" alt="contributions"  width="90%"/>
 </div>
 
 <br><br>
