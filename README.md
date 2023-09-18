@@ -4152,25 +4152,25 @@ Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript S
 
 1. Después de lanzar la versión final al repositorio y asegurarse de que las ramas estén actualizadas, se accede a la plataforma GitHub.
    
-   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635769321930825/image.png?width=2880&height=1082" width="90%" alt="Paso 01">
+   <img src="https://media.discordapp.net/attachments/1145583761182965852/1153397708858589184/opera_ya3unJOLUc.png?width=1920&height=781" width="90%" alt="Paso 01">
    
 2. A continuación, se selecciona el repositorio del proyecto en cuestión.
    
-   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149635342014627881/image.png?width=2130&height=1242" width="90%" alt="Paso 02">
+   <img src="https://media.discordapp.net/attachments/1145583761182965852/1153398072206962748/opera_uko4t4z0Lb.png?width=1552&height=897" width="90%" alt="Paso 02">
    
-3. Luego, se hace clic en la pestaña llamada "Settings
+3. Luego, se hace clic en la pestaña llamada "Settings"
    
-   <img src="https://media.discordapp.net/attachments/1145421916413366426/1149636431581552720/image.png?width=2132&height=1242" width="90%" alt="Paso 03">
+   <img src="https://media.discordapp.net/attachments/1145583761182965852/1153398593307299850/opera_Sau0cmkV1X.png?width=1471&height=897" width="90%" alt="Paso 03">
 
 4. Luego, activas el GitHub Pages en la sección de GitHub Pages y seleccionas la rama que contiene el código de la aplicación.
 
-   <img src="https://media.discordapp.net/attachments/1142626132357828689/1149510946637750383/image.png?width=1522&height=1242" width="90%" alt="Paso 04">
+   <img src="https://media.discordapp.net/attachments/1145583761182965852/1153398867715424266/opera_IeSOWRS8rM.png?width=1187&height=897" width="90%" alt="Paso 04">
 
 5. Finalmente, se genera un enlace con el dominio específico que permite acceder a la aplicación.
 
-    <img src="https://media.discordapp.net/attachments/1145421916413366426/1149633659696054333/image.png?width=2304&height=1240" width="90%" alt="Prototipo">
+    <img src="https://media.discordapp.net/attachments/1145583761182965852/1153399180073635891/opera_GOHzV4TL2k.png?width=1633&height=897" width="90%" alt="Prototipo">
     
-    **Link de la landing page:** https://web-applications-sw53-group-3.github.io/Landing-Page/
+    **Link de la landing page:** https://open-source-sw53-group-3.github.io/Landing-Page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
