@@ -4464,7 +4464,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
     <tr>
         <td>implement-css</td>
         <td>89bb8b0</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>feat: add home css</td>
         <td>08/09/2023</td>
     </tr>
@@ -4485,7 +4485,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
     <tr>
         <td>feature/html-structure</td>
         <td>56b258c</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>feat: add footer</td>
         <td>07/09/2023</td>
     </tr>
