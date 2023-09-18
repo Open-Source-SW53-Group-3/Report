@@ -4329,7 +4329,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Agregar CSS main</td>
        <td>Dar formato y estilo a la sección principal</td>
        <td>3</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Del Carmen</td>
        <td>Done</td>
     </tr>
      <tr>
