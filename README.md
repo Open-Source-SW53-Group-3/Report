@@ -4161,20 +4161,76 @@ El manejo y registro de las modificaciones de nuestra landing page y este docume
 
 Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
 Es por ello que se manejan dos ramas principales: main y develop.
--	Main: La rama main almacena el historial oficial de las publicaciones de nuestro repositorio listas para producción.
--	Develop: Esta rama sirve como una rama de integración para las características (“features”).
-Ramas auxiliares:
--	Feature: Para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y fusionarlas con ella al terminar. Estas ramas permiten trabajar en el código sin afectar a la estabilidad de la rama develop, y facilitan la revisión y el control de calidad de las características antes de integrarlas.
--	Realese: Para preparar una nueva versión del proyecto a partir de la rama develop y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten realizar correcciones de errores y tareas urgentes sin introducir nuevas características, y aseguran que la rama main solo reciba código probado y listo para publicar.
--	Hotflix: Para solucionar errores críticos o urgentes a partir de la rama main y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten actuar rápidamente ante situaciones imprevistas que afecten al funcionamiento del proyecto, y garantizan que los cambios se reflejen tanto en la versión actual como en la versión en desarrollo.
-Commit Conventions
-Para el formato de nuestros commits nos hemos basado en la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/). Seguimos el siguiente formato:
-<type>[optional scope]:<description>
+-	**Main**: La rama main almacena el historial oficial de las publicaciones de nuestro repositorio listas para producción.
+-	**Develop**: Esta rama sirve como una rama de integración para las características (“features”).
+
+    En nuestro caso hemos implentado la rama develop: "develop". 
+
+    Esta rama es la rama principal donde se integran todas las características. Cuando se completa una característica, se fusiona con develop. Todas las ramas de características deben fusionarse con develop.
+
+    Ejemplo de flujo de trabajo con GitFlow:
+    1.	Se crea una rama de “feature” a partir de la rama develop. 
+    2.	Se trabaja en la rama de “feature”.
+    3.	Se hace un merge de la rama de “feature” a la rama develop.
+
+**Ramas auxiliares:**
+
+-	**Feature**: Para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y fusionarlas con ella al terminar. Estas ramas permiten trabajar en el código sin afectar a la estabilidad de la rama develop, y facilitan la revisión y el control de calidad de las características antes de integrarlas.
+
+    Para la implemntación de las ramas "features", nosotros hemos implementado la siguiente nomenclatura: "feature/feature-name".
+
+    Donde:
+    -	Feature: Es el nombre de la rama.
+    -	Feature-name: Es el nombre de la característica que se está desarrollando.
+
+    Ejemplo Report:
+    - "feature/chapter-1.1". Indicando el capitulo a implementar. 
+
+    Ejemplo Landing Page:
+    - "feature/html-structure". Indicando la sección a implementar.
+
+-	**Realese**: Para preparar una nueva versión del proyecto a partir de la rama develop y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten realizar correcciones de errores y tareas urgentes sin introducir nuevas características, y aseguran que la rama main solo reciba código probado y listo para publicar.
+
+    Para el desarollo de nuestra landign page hemos implementado la siguiente nomenclatura: "release/release-name".
+    
+    Donde:
+    -	Release: Es el nombre de la rama.
+    -	Release-name: Es el nombre de la versión que se está desarrollando.
+    Ejemplo: "realese/x.y.z"
+    
+        Donde:
+        X: representa el número de versión principal. Se incrementa cuando se introducen cambios que rompen la compatibilidad con versiones anteriores.
+        
+        Y: representa el número de versión secundaria. Se incrementa cuando se introducen nuevas características sin romper la compatibilidad con versiones anteriores.
+        
+        Z: representa el número de versión de revisión. Se incrementa cuando se introducen correcciones de errores y cambios menores que no afectan a la compatibilidad con versiones anteriores. 
+    
+        En nuesto caso lo hemos usado de la siguiente manera:
+        -	"release/v1.1".
+
+        Lo cual hace referencia que es la primera version estable que intrudce cambios en la rama main.
+    
+
+-	**Hotflix**: Para solucionar errores críticos o urgentes a partir de la rama main y fusionarla con la rama main y con la rama develop al terminar. Estas ramas permiten actuar rápidamente ante situaciones imprevistas que afecten al funcionamiento del proyecto, y garantizan que los cambios se reflejen tanto en la versión actual como en la versión en desarrollo.
+</br>
+
+**Commit Conventions**
+
+Para el formato de nuestros commits nos hemos basado en la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/). 
+
+Seguimos el siguiente formato:
+< type >[optional scope]:< description >
 “feat: add chapter 1.1”
 Donde:
 -	Type: Es un identificador que indica el tipo de cambio que se ha realizado en el código. Puede ser uno de los siguientes valores: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert. 
 -	Scope: Es un identificador opcional que indica el alcance o el contexto del cambio. Puede ser cualquier palabra que ayude a diferenciar el cambio de otros similares. Por ejemplo: [login], [navbar], [api], etc. 
 -	Description: Es una descripción breve y concisa del cambio que se ha realizado. Debe explicar qué se ha hecho y por qué, pero no cómo.
+
+Para el desarrollo de nuestra landing page hemos implementado la siguiente nomenclatura: **"feat: implemenmt css"**
+
+Para el desarrollo de neustro informe hemos implementado la siguiente nomenclatura: **"feat: add chapter 1.1"**
+
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
