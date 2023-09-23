@@ -4796,7 +4796,7 @@ Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestr
             <b>Sprint 1 Velocity</b>
         </td>
         <td>
-            8  
+            6
         </td>
     </tr>
        <tr align="left">
@@ -4804,7 +4804,7 @@ Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestr
             <b>Sum of Story Points</b>
         </td>
         <td>
-            8  
+            9  
         </td>
     </tr>
 </table>
