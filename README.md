@@ -1216,7 +1216,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Épica</b>
         </td>
         <td colspan=2>
-            Steve Castillo
+            Acceso a Cuenta
         </td>
     </tr>
     <tr align="left">
@@ -1253,17 +1253,21 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Scenario 01:</b> Inicio de sesión exitoso</br>
             <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma </br>
             <b>Cuando</b> ingresa su respectivo correo y contraseña </br>
-            <b>Entonces</b> el sistema permitirá al usuario iniciar sesión correctamente en la plataforma.</br> </br>
+            <b>Entonces</b> el sistema permitirá al usuario iniciar sesión correctamente en la plataforma. </br> </br>
             <b>Scenario 02:</b> Inicio de sesión fallido </br>
             <b>Dado</b> que el usuario ya se encuentra registrado en la plataforma</br>
             <b>Cuando</b> ingresa un correo o contraseña incorrecta</br>
             <b>Entonces</b> el sistema no permitirá al usuario iniciar sesión </br>
-            <b>Y</b> se mostrará un mensaje de error indicando que las creedenciales son incorrectas.   
+            <b>Y</b> se mostrará un mensaje de error indicando que las creedenciales son incorrectas.
+            </br> </br>
+            <b>Scenario 03:</b> Recuperación de Contraseñas </br>
+            <b>Dado</b> que el usuario está en la página de inicio de sesión y ha olvidado su contraseña </br>
+            <b>Cuando</b> hace click en el enlace "Olvidé mi contraseña"</br>
+            <b>Entonces</b> deberá ser redirigido a la página de recuperación de contraseña</br>
         </td>
     </tr>
-    </tr>
 </table>
-</br>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1309,15 +1313,22 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Cuando</b> el cliente ingresa un correo electrónico válido y una contraseña segura </br>
             <b>Entonces </b>el sistema procesara el registro </br>
             <b>Y</b> creará una cuenta asociada con ese correo electrónico. </br> </br>
-            <b>Scenario 02:</b> Registro fallido </br>
-            <b>Dado</b> que el cliente quiere registrarse en la plataforma </br>
-            <b>Cuando</b> el cliente ingresa un correo electrónico que ya esta en uso </br>
-            <b>Entonces</b> el sistema no permitirá que el usuario complete el registro</br>
-            <b>Y</b> mostrará un mensaje de error indicando que ese correo ya ha sido registrado.  
+            <b>Scenario 02:</b> Registro fallido - Correo Inválido</br>
+            <b>Dado</b> que estoy en la página de registro </br>
+            <b>Cuando</b> ingreso el correo electrónico inválido </br>
+            <b>Y </b> hago click en el botón de registro</br>
+            <b>Entonces </b>el sistema procesara el registro </br>
+            <b>Y</b> debería ver un mensaje de error que indica que el correo electrónico es inválido. </br> </br>
+            <b>Scenario 03:</b> Registro fallido - Contraseña Inválida</br>
+            <b>Dado</b> que estoy en la página de registro </br>
+            <b>Cuando</b> ingreso el correo electrónico válido y la contraseña inválida </br>
+            <b>Y </b> hago click en el botón de registro</br>
+            <b>Entonces </b>el sistema procesara el registro </br>
+            <b>Y</b> debería ver un mensaje de error que indica que la contraseña es inválida. </br> </br>
         </td>
     </tr>
-    </tr>
 </table>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1363,15 +1374,20 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Y</b> desea actualizar la información de su perfil </br>
             <b>Cuando</b> el usuario modifica sus datos personales y guarda los cambios </br>
             <b>Entonces</b> el sistema actualizará los detalles del perfil del usuario </br> </br>
-            <b>Scenario 02:</b> Visualización de información </br> 
+            <b>Scenario 02:</b> Actualización de datos fallida - Información inválida</br>
+            <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
+            <b>Y</b> desea actualizar la información de su perfil </br>
+            <b>Cuando</b> el usuario modifica sus datos personales y guarda los cambios </br>
+            <b>Entonces</b> deberá ver un mensaje de error que indica que la información ingresada es inválida. </br> </br>
+            <b>Scenario 03:</b> Visualización de información </br> 
             <b>Dado</b> que el usuario ya se encuentra dentro de la plataforma </br>
             <b>Y</b> desea visualizar la información de su perfil </br>
             <b>Cuando</b> el usuario ingrese a la sección de perfil de la plataforma </br> 
             <b>Entonces</b> el sistema mostrará todos los datos de la información personal del usuario.             
         </td>
     </tr>
-    </tr>
 </table>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1429,8 +1445,8 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Y</b> mostrará un mensaje de error indicando que el método de pago no es válido.          
         </td>
     </tr>
-    </tr>
 </table>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1471,22 +1487,37 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b> Agregar tarjeta</br>
-            <b>Dado</b> que el usuario desea guardar su tarjeta en la plataforma para futuras transacciones </br>
-            <b>Cuando</b> el usuario ingresa los detalles de su tarjeta</b> </br>
-            <b>Y</b> le da a la opción guardar </br>
+            <b>Scenario 01:</b> Agregar tarjeta nueva</br>
+            <b>Dado</b> que estoy en la página de administración de tarjetas</br>
+            <b>Cuando</b> ingreso los detalles válidos de mi tarjeta</b> </br>
+            <b>Y</b> hago clic en el botón de agregar tarjeta</br>
             <b>Entonces</b> el sistema agregará la tarjeta al perfil del usuario</br> 
-            <b>Y</b> mostrará un mensaje de confirmación indicando que se agregó la tarjeta correctamente. </br> </br>
-            <b>Scenario 02:</b> Eliminar tarjeta </br>
+            <b>Y</b> mostrará un mensaje de confirmación indicando que se agregó la tarjeta correctamente.
+            </br>
+            </br>
+            <b>Scenario 02:</b> Agregar tarjeta inválida</br>
+            <b>Dado</b> que estoy en la página de administración de tarjetas</br>
+            <b>Cuando</b> ingreso los detalles válidos de mi tarjeta</b> </br>
+            <b>Y</b> hago clic en el botón de agregar tarjeta</br>
+            <b>Entonces</b> el sistema rechazará la tarjeta</br> 
+            <b>Y</b> mostrará un mensaje de error indicando que la tarjeta tiene datos inválidos.
+            </br>
+            </br>
+            <b>Scenario 03:</b> Eliminar tarjeta existente</br>
             <b>Dado</b> que el usuario desea eliminar su tarjeta de la plataforma </br>
             <b>Cuando</b> el usuario seleccione la opción de eliminar tarjeta </br>
             <b>Entonces</b> el sistema eliminará la tarjeta seleccionada </br>
-            <b>Y</b> mostrará un mensaje de confirmacion indicando que la tarjeta ha sido eliminada correctamente.          
+            <b>Y</b> mostrará un mensaje de confirmacion indicando que la tarjeta ha sido eliminada correctamente.
+            </br>
+            </br>
+            <b>Scenario 04:</b> Actualizar datos de una tarjeta existente</br>
+            <b>Dado</b> que el usuario está en la página de administración de tarjetas</br>
+            <b>Cuando</b> seleccione la tarjeta existente</br>
+            <b>Y</b> actualizo los detalles de la tarjeta</br>
+            <b>Entonces</b> deberá recibir una confirmación de que los detalles de mi tarjeta han sido actualizados.
         </td>
     </tr>
-    </tr>
 </table>
-<br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1540,12 +1571,17 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b> Y</b> tenga una suscripción premium activa  <br>
             <b>Cuando</b> la opción "Destacar mi perfil" se encuentre desactivada  </br>
             <b>Entonces</b> el perfil tendrá prioridad normal en los resultados de búsqueda.  
-            <br>     
+            <br>  
+            <br>
+            <b>Scenario 03:</b> Verificando el estado dstacado del perfil</br>
+            <b>Dado</b> que se destacó el perfil</br>
+            <b>Cuando</b> visito la página</br>
+            <b>Entonces</b> podré ver un indicador que me informa que mi perfil está destacado 
+            <br>  
         </td>
     </tr>
-    </tr>
 </table>
-<br>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1599,12 +1635,26 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b> Y</b> tenga una suscripción premium activa  <br>
              <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
             <b>Cuando</b> elija la antigüedad mínima  </br>
-            <b>Entonces</b> se mostrarán solo los perfiles con la antigüedad mínima seleccionada.<br>       
+            <b>Entonces</b> se mostrarán solo los perfiles con la antigüedad mínima seleccionada.<br>
+            <br>
+            <b>Scenario 03:</b> Filtro por disponibilidad</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija el rango de disponibilidad </br>
+            <b>Entonces</b> se mostrarán solo los perfiles que estén disponibles en el rango seleccionado.<br>
+            <br>
+            <b>Scenario 04:</b> Filtro por Ubicación</br>
+            <b>Dado</b> que el usuario empleador se encuentre en la sección de "Chambeadores" </br>
+            <b> Y</b> tenga una suscripción premium activa  <br>
+             <b> Y</b> seleccione la opción de "Ajustar filtros" <br>
+            <b>Cuando</b> elija una ubicación específica </br>
+            <b>Entonces</b> se mostrarán solo los perfiles que estén en la ubicación seleccionada.<br>
+            <br>
         </td>
     </tr>
-    </tr>
 </table>
-<br>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1657,12 +1707,16 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
             <b>Cuando</b> sus preferencias de trabajo estén incompletas</br>
             <b> Y</b> cuente con una suscripción premium activa  <br>
-            <b>Entonces</b> el sistema le notificará que las preferencias deben ser completadas para recibir notificaciones de trabajos sugeridos<br>        
+            <b>Entonces</b> el sistema le notificará que las preferencias deben ser completadas para recibir notificaciones de trabajos sugeridos<br>
+            <br>
+            <b>Scenario 03:</b> Desactivación de notificaciones </br>
+            <b>Dado</b> que el usuario chambeador tenga las notificaciones activadas </br>
+            <b>Cuando</b> decida desactivar las notificaciones en su perfil</br>
+            <b>Entonces</b> no debería recibir más notificaciones sobre trabajos sugeridos, independientemente de su suscripción premium.<br>
         </td>
     </tr>
-    </tr>
 </table>
-<br>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1714,12 +1768,22 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el usuario chambeador se encuentre en la sección de "Publicar" </br>
             <b> Y</b> tenga una suscripción premium activa  <br>
             <b>Cuando</b> los datos estén incompletos  </br>
-            <b>Entonces</b> se mostrará un mensaje de error indicando que faltan llenar datos en la publicación.<br>       
+            <b>Entonces</b> se mostrará un mensaje de error indicando que faltan llenar datos en la publicación.<br>
+            <br>
+            <b>Scenario 03:</b> Edición de un anuncio de trabajo publicado</br>
+            <b>Dado</b> que el usuario haya publicado un trabajo</br>
+            <b>Cuando</b> seleccione un anuncio y realice cambios en la información del anuncio </br>
+            <b> Y</b> haga click en el botón de guardar o actualizar <br>
+            <b>Entonces</b> deberá recibir una confirmación de que su anuncio ha sido actualizado<br>
+            <br>
+            <b>Scenario 04:</b> Eliminación de un anuncio de trabajo publicado</br>
+            <b>Dado</b> que el usuario haya publicado un trabajo</br>
+            <b>Cuando</b> seleccione un anuncio y haga click en el botón de Eliminar</br>
+            <b>Entonces</b> deberá recibir una confirmación de que su anuncio ha sido eliminado<br>
         </td>
     </tr>
-    </tr>
 </table>
-<br>
+
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1768,10 +1832,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Y</b> se mostrará en una sección destacada   
         </td>
     </tr>
-    </tr>
 </table>
-
-</br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1827,8 +1888,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
 </table>
 
-</br>
-
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -1869,15 +1928,22 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b> Definiendo las características del trabajo</br>
-            <b>Dado</b> que el empleador se contactó con el chambeador</br>
-            <b>Cuando</b> se inicie el chat de la app</br>
-            <b>Entonces</b> podrán acordar las pautas y características del trabajo.            
+            <b>Scenario 01:</b> Inicio de chat sin contacto previo</br>
+            <b>Dado</b> que el empleador desea contactar a un chambeador por primera vez</br>
+            <b>Cuando</b> selecciona la opción para iniciar un chat en la aplicación</br>
+            <b>Entonces</b> se debería iniciar un nuevo chat con el chambeador seleccionado. </br></br>            
+            <b>Scenario 02:</b> Registro de la conversación del chat</br>
+            <b>Dado</b> que el empleador y el chambeador están comunicándose a través del chat de la aplicación</br>
+            <b>Cuando</b> acuerdan las pautas y características del trabajo</br>
+            <b>Entonces</b> la aplicación debería registrar la conversación del chat para referencia futura.
+            <b>Entonces</b> se debería iniciar un nuevo chat con el chambeador seleccionado. </br></br>            
+            <b>Scenario 03:</b> Notificaciones de nuevos mensajes en el chat</br>
+            <b>Dado</b> que el empleador ha iniciado un chat con un chambeador</br>
+            <b>Cuando</b> el chambeador envía un nuevo mensaje en el chat</br>
+            <b>Entonces</b> el empleador debería recibir una notificación sobre el nuevo mensaje.
         </td>
     </tr>
 </table>
-
-</br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1923,12 +1989,21 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el empleador quiere dejar una reseña</br>
             <b>Cuando</b> el chambeador terminó de hacer su trabajo</br>
             <b>Entonces</b> puntuaría en función de 0 – 5 el trabajo realizado </br>
-            <b>Y</b> agregaría un comentario a la calificación.
+            <b>Y</b> agregaría un comentario a la calificación. 
+            </br></br>
+            <b>Scenario 02:</b> Edición de una reseña existente</br>
+            <b>Dado</b> que el empleador ya ha dejado una reseña para un chambeador</br>
+            <b>Cuando</b> decida cambiar su calificación o comentario</br>
+            <b>Y</b> haga clic en el botón de editar reseña
+            <b>Entonces</b> debería poder actualizar su calificación y comentario.
+            </br></br>
+            <b>Scenario 03:</b> Visualización de la reseña por parte del chambeador</br>
+            <b>Dado</b> que el empleador ha dejado una reseña para un chambeador</br>
+            <b>Cuando</b> el chambeador visite su perfil o la página del trabajo correspondiente</br>
+            <b>Entonces</b> debería ver la calificación y el comentario dejados por el empleador.</br>
         </td>
     </tr>
 </table>
-
-</br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1978,8 +2053,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
 </table>
 
-</br>
-
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -2024,17 +2097,28 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Dado</b> que el empleador quiere crear sus anuncios</br>
             <b>Cuando</b> requiera un chambeador</br>
             <b>Entonces</b> podrá subir un anuncio a la app web
-            </br></br>
+            </br>
+            </br>
             <b>Scenario 02:</b> Editar anuncios de trabajo</br>
             <b>Dado</b> que el empleador quiere editar sus anuncios</br>
             <b>Cuando</b> requiera cambiar algún parámetro o característica</br>
             <b>Entonces</b> podrá modificar su anuncio </br>
             <b>Y</b> se actualizará en la app web.
+            </br>
+            </br>
+            <b>Scenario 03:</b> Eliminar anuncios de trabajo</br>
+            <b>Dado</b> que el empleador quiere eliminar uno de sus anuncios</br>
+            <b>Cuando</b> ya no requiere más candidatos</br>
+            <b>Entonces</b> podrá eliminar su anuncio de la app web.</br>
+            </br>
+            </br>
+            <b>Scenario 04:</b> Visualización de anuncios de trabajo creados</br>
+            <b>Dado</b> que el empleador ha creado varios anuncios de trabajo</br>
+            <b>Cuando</b> visita la sección de "Anuncios"</br>
+            <b>Entonces</b> debería poder ver todos los anuncios que ha creado.</br>
         </td>
     </tr>
 </table>
-
-<br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2113,10 +2197,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Entonces</b> podrá verificar las referencias de su trabajo     
         </td> 
     </tr>
-    </tr>
 </table>
-
-<br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2195,10 +2276,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Entonces</b> se guardará el estado con la fecha y hora de la actualización    
         </td> 
     </tr>
-    </tr>
-</table
-
-<br>
+</table>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2243,17 +2321,29 @@ En general, los participantes valoran la experiencia laboral, pero también reco
         <td colspan=4>
             <b>Criterio de Aceptación:</b>
             </br>
-            <b>Scenario 01: Personalización de Apariencia</b></br>
+            <b>Scenario 01: Personalización de Apariencia Confirmada</b></br>
             <b>Dado </b>que el usuario está en la sección de "Perfil"
             </br>
             <b>Cuando</b> seleccione el simbolo de configuración
             </br>
             <b>Y</b> elija en aparecencias las opciones de "Claro" u "Oscuro" 
             </br>
-            <b>Entonces</b> la apariencia de la aplicación cambiará de acuerdo con la elección del usuario.   
+            <b>Y</b> confirme los cambios</br>
+            <b>Entonces</b> la apariencia de la aplicación cambiará de acuerdo con la elección del usuario.
+            </br>
+            </br>
+            <b>Scenario 02: Cambio de apariencia sin confirmación</b></br>
+            <b>Dado </b>que el usuario está en la sección de "Perfil"
+            </br>
+            <b>Cuando</b> seleccione el simbolo de configuración
+            </br>
+            <b>Y</b> elija en aparecencias las opciones de "Claro" u "Oscuro" 
+            </br>
+            <b>Pero </b> cierra la aplicación sin confirmar los cambios</br>
+            <b>Entonces</b> la apariencia de la aplicación no debería cambiar.  
             </br>
             <br>
-            <b>Scenario 02: Cambio de Idioma </b>
+            <b>Scenario 03: Cambio de Idioma Confirmado </b>
             </br>
             <b>Dado </b>que el usuario está en la sección de "Perfil"
             </br>
@@ -2262,13 +2352,23 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Y</b> elija entre los idiomas disponibles (por ejemplo, español e inglés) 
             </br>
             <b>Entonces</b> la aplicación se adaptará al idioma seleccionado por el usuario.
-            <br>   
+            <br>
+            <br>
+            <b>Scenario 04: Cambio de Idioma Cofnirmado </b>
+            </br>
+            <b>Dado </b>que el usuario está en la sección de "Perfil"
+            </br>
+            <b>Cuando</b> seleccione la opción de "Cambiar Idioma"
+            </br>
+            <b>Y</b> elija entre los idiomas disponibles (por ejemplo, español e inglés) 
+            </br>
+            <b>Pero </b> cierra la aplicación sin confirmar los cambios</br>
+            <b>Entonces</b> el idioma de la aplicación no debería cambiar.
+            </br>
+            <br>
         </td> 
     </tr>
-    </tr>
 </table>
-
-<br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2335,10 +2435,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <br>   
         </td> 
     </tr>
-    </tr>
 </table>
-
-</br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2393,13 +2490,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Entonces</b> podré ver de manera consolidada todas las calificaciones y comentarios que he recibido en trabajos anteriores
         </td>      
     </tr>
-    </tr>
 </table>
-
-<br>
-
-
-<br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2446,8 +2537,16 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             <b>Cuando</b> elija la opción para postularme a la vacante <br/>
             <b>Y </b>haga clic en "Confirmar"<br/>
             <b>Entonces</b> se mostrara un mensaje “Solicitud Enviada” y seré considerado en el proceso de selección.
-            <br/> <br/>
-            <b>Scenario 02:</b> Seguimiento de Postulaciones<br/>
+            <br/>
+            <br/>
+            <b>Scenario 02:</b>  Cancelación de una postulación<br/>
+            <b>Dado</b> que he postulado a una vacante laboral en ChambeaPe<br/>
+            <b>Cuando</b> decida cancelar mi postulación<br/>
+            <b>Y </b> elija la opción para retirar mi postulación<br/>
+            <b>Entonces</b> se mostrará un mensaje confirmando que mi postulación ha sido retirada.
+            <br/>
+            <br/>
+            <b>Scenario 03:</b> Seguimiento de Postulaciones<br/>
             <b>Dado</b> que he postulado a varias vacantes de trabajo en ChambeaPe <br/>
             <b>Cuando</b> acceda a mi perfil de usuario <br/>
             <b>Y </b> elija la sección de "Mis Postulaciones"<br/>
@@ -2455,8 +2554,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
         </td>      
     </tr>
 </table>
-
-</br>
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -2512,8 +2609,6 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
 </table>
 
-</br>
-
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
@@ -2553,21 +2648,43 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Criterio de Aceptación:</b><br/>
-            <b>Scenario 01:</b> Agregación de Certificados a mi Perfil<br/>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+            <b>Scenario 01:</b> Agregar Certificados a mi Perfil<br/>
             <b>Dado</b> que soy un usuario chambeador en ChambeaPe y deseo fortalecer mi perfil laboral<br/>
             <b>Cuando</b> acceda a mi cuenta y navegue a la sección de "Certificados" <br/>
             <b>Y </b>seleccione la opción para agregar un nuevo certificado<br/>
             <b>Entonces</b> podré cargar una imagen o documento que respalde mis habilidades y logros   
-            <br/> <br/>
-            <b>Scenario 02:</b> Visualización de Certificados en mi Perfil <br/>
+            <br/>
+            <br/>
+            <b>Scenario 02:</b> Eliminación de Certificados en mi Perfil <br/>
+            <b>Dado</b> que he añadido certificados a mi perfil en ChambeaPe<br/>
+            <b>Cuando</b> acceda a la sección de "Certificados" en mi perfil<br/>
+            <b>Y </b>seleccione la opción para eliminar un certificado<br/>
+            <b>Entonces</b> el certificado seleccionado será eliminado de mi perfil.
+            <br/>
+            <br/>
+            <b>Scenario 03:</b> Edición de Certificados en mi Perfil<br/>
+            <b>Dado</b> que he añadido certificados a mi perfil en ChambeaPe<br/>
+            <b>Cuando</b> acceda a la sección de "Certificados" en mi perfil<br/>
+            <b>Y </b>seleccione la opción para editar un certificado<br/>
+            <b>Entonces</b> podré actualizar la imagen o documento del certificado seleccionado.
+            <br/>
+            <br/>
+            <b>Scenario 04:</b> Visualización de Certificados en mi Perfil <br/>
             <b>Dado</b> que he añadido certificados a mi perfil en ChambeaPe <br/>
             <b>Cuando</b> acceda a la sección de "Certificados" en mi perfil <br/>
             <b>Entonces</b> podré visualizar todos los certificados que he subido
+            <br/>
+            <br/>
+            <b>Scenario 05:</b> Visualización de Certificados por los Empleadores<br/>
+            <b>Dado</b> que he añadido certificados a mi perfil en ChambeaPe<br/>
+            <b>Cuando</b> un empleador visite mi perfil<br/>
+            <b>Entonces</b> el empleador podrá visualizar todos los certificados que he subido.
         </td>      
     </tr>
-    </tr>
 </table>
+
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
