@@ -3341,6 +3341,74 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             1
         </td>
     </tr>
+    <tr>
+        <td>
+            24
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            Barra de navegación en landing page
+        </td>
+        <td>
+            <b>Como</b> usuario <b>quiero</b> acceder a la barra de nagevación <b>para</b> buscar cada apartado más rápido.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            25
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+            Acceso Rápido a Redes Sociales e Información de la Empresa
+        </td>
+        <td>
+            <b>Como</b> usuario <b>quiero</b> acceder rápidamente a datos de chambeape  <b>para</b> buscar referencias de la empresa y sus redes sociales.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            26
+        </td>
+        <td>
+            26
+        </td>
+        <td>
+            Acceso Rápido a Redes Sociales e Información de la Empresa
+        </td>
+        <td>
+            <b>Como</b> usuario <b>quiero</b> quiero que la página web sea adaptable a dispositivos móviles <b>para</b> poder acceder desde cualquier dispositivo con facilidad.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            27
+        </td>
+        <td>
+            27
+        </td>
+        <td>
+            Botón de Regreso al Encabezado de la Página
+        </td>
+        <td>
+            <b>Como</b> usuario <b>quiero</b> tener un botón que me permita regresar rápidamente al encabezado de la página de inicio <b>para</b> para una navegación más fluida y eficiente
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
 </table>
 
 <br><br>
