@@ -2569,6 +2569,242 @@ En general, los participantes valoran la experiencia laboral, pero también reco
     </tr>
 </table>
 
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Mejora de la Usabilidad y Navegación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            24
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Steve Castillo
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Barra de navegación en landing page
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> usuario <b>quiero</b> acceder a la barra de nagevación <b>para</b> buscar cada apartado más rápido.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b>Acceso a la Barra de Navegación para Búsqueda Rápida<br/>
+            <b>Dado</b>  que soy un usuario de ChambeaPe.<br/>
+            <b>Cuando</b>  abro el sitio web de ChambeaPe.
+            <b>Entonces</b> debería ver claramente una barra de navegación en la interfaz de usuario.<br/> 
+            <br/> <br/>
+            <b>Scenario 02:</b> Búsqueda rápida a través de la Barra de Navegación <br/>
+            <b>Dado</b> que estoy en la página principal  <br/>
+            <b>Cuando</b> De clic en algunos de los apartados de la barra de navegación <br/>
+            <b>Entonces</b> podré visualizar el apartado de manera inmediata.
+        </td>      
+    </tr>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Mejora de la Usabilidad y Navegación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            25
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Jennifer Espinoza
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Acceso Rápido a Redes Sociales e Información de la Empresa
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> usuario <b>quiero</b> acceder rápidamente a datos de chambeape  <b>para</b> buscar referencias de la empresa y sus redes sociales.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b>Acceso a Redes Sociales<br/>
+            <b>Dado</b>  que soy un usuario de ChambeaPe.<br/>
+            <b>Cuando</b>  desplace hacia abajo de la página web hasta el pie de página
+            <b>Entonces</b> debo ver iconos o enlaces claramente identificados que representen las redes sociales de la empresa<br/> 
+            <b>Y</b> al hacer clic en uno de estos iconos o enlaces, debo ser redirigido a la página oficial de la empresa en la red social correspondiente.
+            <br/> <br/>
+            <b>Scenario 02:</b> Acceso a Información de la Empresa <br/>
+            <b>Dado</b> que soy un usuario en la landing page<br/>
+            <b>Cuando</b> desplace hacia abajo hasta el pie de página. <br/>
+            <b>Entonces</b> debo encontrar información de contacto de la empresa, terminos y condiciones, etc
+            <b>Scenario 03:</b> Diseño y Presentación <br/>
+            <b>Dado</b> que soy un usuario en la landing page.  <br/>
+            <b>Cuando</b> vea el pie de página. <br/>
+            <b>Entonces</b> el diseño debe ser coherente con el estilo general de la página.
+            <b>Y</b> los iconos de redes sociales deben ser fácilmente reconocibles.
+        </td>      
+    </tr>
+    </tr>
+</table>
+
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Mejora de la Usabilidad y Navegación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            26
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Diego Castro
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Acceso Rápido a Redes Sociales e Información de la Empresa
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> usuario <b>quiero</b> quiero que la página web sea adaptable a dispositivos móviles <b>para</b> poder acceder desde cualquier dispositivo con facilidad.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b>Diseño Responsivo en Dispositivos Móviles<br/>
+            <b>Dado</b>  que soy un usuario que accede a la página web desde un dispositivo móvil, como un smartphone<br/>
+            <b>Cuando</b>   navegue por la página.
+            <b>Entonces</b>  el diseño y la disposición de los elementos de la página deben ajustarse automáticamente para adaptarse a la pantalla de mi dispositivo móvil.<br/> 
+            <b>Y</b> os elementos de la página, como imágenes y texto, deben ser claramente visibles y legibles sin necesidad de hacer zoom
+            <br/> <br/>
+            <b>Scenario 02:</b> Navegación Intuitiva en Dispositivos Móviles <br/>
+            <b>Dado</b> que soy un usuario que accede a la página web desde un dispositivo móvil.<br/>
+            <b>Cuando</b> utilice la navegación en la página.<br/>
+            <b>Entonces</b>los menús desplegables o elementos de navegación deben funcionar de manera intuitiva y ser fáciles de utilizar con gestos táctiles.
+            </br>
+            </br>
+            <b>Scenario 03:</b> Pruebas en Diferentes Dispositivos Móviles <br/>
+            <b>Dado</b> que el equipo de desarrollo ha implementado el diseño responsivo<br/>
+            <b>Cuando</b>  se realicen pruebas de acceso a la página desde una variedad de dispositivos móviles, incluyendo diferentes modelos de smartphones y tabletas.<br/>
+            <b>Entonces</b> la página debe funcionar de manera óptima en todos estos dispositivos, sin problemas de visualización o funcionalidad en ninguno de ellos.
+        </td>      
+    </tr>
+    </tr>
+</table>
+
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2 style="text-align: center;">
+        Mejora de la Usabilidad y Navegación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td style="text-align: center;">
+            27
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td style="text-align: center;">
+            Ray Del Carmen
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2  style="text-align: center;">
+            Botón de Regreso al Encabezado de la Página
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b><br/>
+            <b>Como</b> usuario <b>quiero</b> tener un botón que me permita regresar rápidamente al encabezado de la página de inicio <b>para</b> para una navegación más fluida y eficiente
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b><br/>
+            <b>Scenario 01:</b>Visualización del Botón de Regreso Móviles<br/>
+            <b>Dado</b>  qque soy un usuario que navega por la página web.<br/>
+            <b>Cuando</b>   desplazo el contenido hacia abajo de la página.
+            <b>Entonces</b> debe aparecer un botón visible en una ubicación conveniente que indique "Regresar al Inicio" o una acción similar.<br/> 
+            <br/> <br/>
+            <b>Scenario 02:</b> Funcionalidad del Botón de Regreso <br/>
+            <b>Dado</b> que soy un usuario que ha desplazado el contenido hacia abajo de la página.<br/>
+            <b>Cuando</b> haga clic en el botón de "Regresar al Inicio"<br/>
+            <b>Entonces</b> la página debe desplazarse automáticamente hacia el encabezado de la página de inicio de manera suave y rápida.</br>
+            <b>Y</b> el botón debe desaparecer una vez que la página se haya desplazado hacia el encabezado.
+            </br>
+            </br>
+        </td>      
+    </tr>
+    </tr>
+</table>
+
 
 ## 3.3. Impact Mapping
 <br>
@@ -4484,6 +4720,9 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Done</td>
     </tr>
    </table>
+   
+
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
