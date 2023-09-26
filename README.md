@@ -140,6 +140,7 @@
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -5302,6 +5303,7 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 - GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y facilitar la colaboración entre los desarrolladores. Con GitHub, podemos subir nuestro código a la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de las tareas y los problemas, y acceder a miles de proyectos de código abierto.
 
 - Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
+  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
 
@@ -5319,6 +5321,62 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 </div>
 
 <br><br>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este apartado se verán los resultados de la implementación de la aplicación web.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364185903566908/image.png" alt="APP-1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156367408844525619/image.png" alt="APP-2"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364262667714610/image.png" alt="APP-3"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364390740803614/image.png" alt="APP-4"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364453227528222/image.png" alt="APP-5"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364492410728539/image.png" alt="APP-6"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366389406355456/image.png" alt="APP-7"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366413779435540/image.png" alt="APP-8"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366438660055090/image.png" alt="APP-9"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366484503801866/image.png" alt="APP-10"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366510655275068/image.png" alt="APP-11"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366530192355489/image.png" alt="APP-12"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366904852750457/image.png" alt="APP-13"  width="70%"/>
+</div>
 
 # Conclusiones 
 
