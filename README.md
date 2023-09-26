@@ -5386,6 +5386,134 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 - Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
 <br><br>
 
+#### 5.2.2.2. Sprint Backlog 2
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Iniciar Sesión</td>
+       <td>T01</td>
+       <td>Implementar inicio de sesión exitoso</td>
+       <td>Desarrollar la funcionalidad para permitir que los usuarios inicien sesión con su correo y contraseña correctamente.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar inicio de sesión fallido</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan credenciales incorrectas.</td>
+       <td>1.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar recuperación de contraseñas</td>
+       <td>Desarrollar la funcionalidad para permitir a los usuarios recuperar su contraseña mediante un proceso de restablecimiento.</td>
+       <td>2.5</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US02</td>
+       <td rowspan="3">Registrar con correo</td>
+       <td>T01</td>
+       <td>Implementar registro exitoso</td>
+       <td>Desarrollar la funcionalidad para que los usuarios puedan registrarse con su correo electrónico y contraseña de manera exitosa.</td>
+       <td>3</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar registro fallido - Correo Inválido</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan un correo electrónico inválido durante el registro.</td>
+       <td>2</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar registro fallido - Contraseña Inválida</td>
+       <td>Desarrollar la funcionalidad para mostrar un mensaje de error cuando los usuarios ingresan una contraseña inválida durante el registro.</td>
+       <td>1</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>US14</td>
+       <td>Visualizar perfiles de chambeadores</td>
+       <td>T01</td>
+       <td>Implementar visualización de perfiles</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan ver los perfiles de los chambeadores y evaluar su experiencia y estilo de trabajo antes de contratarlos.</td>
+       <td>4</td>
+       <td>Ray Allesandro</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="4">US15</td>
+       <td rowspan="4">Visualizar perfiles de chambeadores</td>
+       <td>T01</td>
+       <td>Implementar creación de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan crear anuncios de trabajo en la aplicación web.</td>
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar edición de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para permitir a los empleadores filtrar perfiles por antigüedad mínima.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar eliminación de anuncios de trabajo</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan eliminar sus anuncios de trabajo cuando ya no los necesiten.</td>
+       <td>3.5</td>
+       <td>Steve Castiilo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Implementar visualización de anuncios de trabajo creados</td>
+       <td>Desarrollar la funcionalidad para que los empleadores puedan ver una lista de los anuncios de trabajo que han creado en la aplicación.</td>
+       <td>3.5</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+   </table>
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 # Bibliografía
 
 1. Peceros Silvera, A., Riquelme Silva, T., & Vásquez Quispe, L. (2006). El mundo laboral: redescubriendo mis capacidades como trabajador: Ciclo Intermedio. 
