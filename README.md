@@ -47,7 +47,10 @@
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
-|TB1|05/09/2023|Todos los integrantes del equipo|Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros).Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.| 
+|TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.|
+|TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
+
+
 
 <br><br>
 
@@ -148,11 +151,11 @@
 
 <br><br>
 
-# Student Outcome
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de 
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
+del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
@@ -161,7 +164,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td rowspan="2"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
@@ -172,15 +175,33 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
         <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        <b>Diego Martín Esquivel Aguayo</b>
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
    </td>
     <td>TB1<br><br>
-    Seleccionamos un servicio de alquiler de habitaciones para estudiantes, donde desarrollamos el enunciado del problema y las declaraciones de hipótesis para evaluar el alcance del desarrollo y la solución de la problemática.</td>
+    Seleccionamos crear una aplicación destinada a empleadores y trabajadores eventuales, en la cual desarrollamos enunciados del problema y declaraciones de hipótesis para evaluar el alcance del desarrollo y proporcionar una solución efectiva a las necesidades de ambos grupos.</td>
   </tr>
   <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TP<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Nuestra sólida organización y planificación nos permitieron establecer de manera efectiva todos los puntos clave para el desarrollo exitoso de nuestro primer avance en la Aplicación Web Frontend.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración activa y las reuniones efectivas entre el equipo de trabajo mejoraron significativamente nuestra capacidad para distribuir tareas, realizar tormentas de ideas y avanzar en cada etapa del proyecto de manera eficiente.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
+        <br><br>
+   </td>
+    <td>TP<br><br>
+    Se seleccionaron cuidadosamente las user stories que abordaríamos en nuestro nuevo sprint para el desarrollo del Frontend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -191,16 +212,32 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
         <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        <b>Diego Martín Esquivel Aguayo</b>
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
    </td>
     <td>TB1<br><br>
     Se recopiló la información necesaria para poder enfrentar a los competidores y ofrecer un producto innovador basado en la tecnología.</td>
   </tr>
+  <tr>
+    <td> TP<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Nuestro análisis cuidadoso nos permitió seleccionar con precisión las user stories que utilizaríamos en el desarrollo, lo que resultó en una solución altamente adaptada a las necesidades del sector con falta de apoyo.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La implementación exitosa de los mockups en nuestra aplicación reflejó nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
+        <br><br> 
+        <b>Diego Martín Esquivel Aguayo</b>
+        - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
+        <br><br>
+   </td>
+    <td>TP<br><br>
+    Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.</td>
+  </tr>
 </table>
-
-<br><br>
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
@@ -5678,10 +5715,49 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
 </table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
+- Web Application Deployment: https://chambeape-app.web.app/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint. Para este nuestro frontend accedemos a la API de ChambeaPe que creamos para neustro poyecto con la herramienta mockAPI. Para así realizar el crud de publiaciones, hacer el login y registro de los usuarios.
+(https://65110b963ce5d181df5da5df.mockapi.io/api/chambeape/post)
+<table align="left" border="1" width="100%">
+        <tr>
+            <th>Services</th>
+            <th>Evidencia</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <th>Url Base</th>
+            <td>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156340929758773258/image.png?ex=65149de9&is=65134c69&hm=20b3424f4e71e8654ad402d43ebc7e28501bcf3095cc9415656c37d5392ca57e&=&width=2880&height=538" alt="Trello-Sprint-2"  width="100%"> <img>
+            </td>
+            <td>MockAPI nos brindó est API con los datos que nosotros ingresamosen formato Json</td>
+        </tr>
+        <tr>
+            <th>employer-post.services</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1156341159577268254/image.png?ex=65149e20&is=65134ca0&hm=ccb8eb2454b581708a6eca3f5b203dea1d2f74d2670a634b2e29fc51469ffa6c&=&width=2880&height=1064"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio. </td>
+        </tr>
+        <tr>
+            <th>login.service</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1156341381095243838/image.png?ex=65149e55&is=65134cd5&hm=63b6fbb24eb0cfa5603d5f09d22112fbdf0bf92fdc1dc568d970e958326bcca8&=&width=1920&height=603"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "login".</td>
+        </tr>
+        <tr>
+            <th>worker-profile.service</th>
+            <td><img src="https://media.discordapp.net/attachments/1145421916413366426/1156341458639536188/image.png?ex=65149e67&is=65134ce7&hm=3ba6ad2d4692f492aa248244d8f0cd48738d33238360591785863da0ef88014d&=&width=1920&height=896" alt="Trello-Sprint-2"  width="100%"></td>
+            <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "worker-profile".</td>
+        </tr>
+    </table>
+    
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="Trello-Sprint-2"  width="100%"> <img>
+
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="Trello-Sprint-2"  width="100%"> <img>
 
 # Conclusiones 
 
@@ -5720,3 +5796,5 @@ agosto del 2023, de
 - Report Repository:https://github.com/Open-Source-SW53-Group-3/Report
 - Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
 https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
+- Link página web: 
+- Sprint Backlog: https://trello.com/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02
