@@ -284,7 +284,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446947642146888/Castro.jpg" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://i.imgur.com/SQ3MPq7.png" alt="Diego Castro"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
