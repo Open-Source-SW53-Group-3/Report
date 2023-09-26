@@ -3049,7 +3049,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero tener la opción definir las características del trabajo directamente con los chambeadores para mantener un medio de comunicación seguro.
         </td>
         <td>
-            5
+            8
         </td>
     </tr>
     <tr>
@@ -3100,7 +3100,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como chambeador quiero recibir notificaciones sobre trabajos relevantes a mi perfil mediante la suscripción premium para postular más rápido.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -3134,7 +3134,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero tener acceso al historial laboral de los candidatos que se postulan en mis puestos de trabajo para evaluar y seleccionar a un futuro trabajador.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -3151,7 +3151,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero definir el pago con el chambeador para tener un registro en la aplicación.
         </td>
         <td>
-            3
+            8
         </td>
     </tr>
     <tr>
@@ -3185,7 +3185,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como chambeador quiero recibir calificaciones y comentarios de los empleadores después de completar un trabajo para demostrar mi experiencia y calidad de trabajo.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -3219,7 +3219,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero tener la opción de filtrar perfiles para reducir el tiempo de selección.
         </td>
         <td>
-            2
+            5
         </td>
     </tr>
     <tr>
@@ -3236,7 +3236,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador con membresía premium quiero que mis publicaciones tengan prioridad al ser publicadas para atraer la atención de trabajadores cualificados y entusiastas.
         </td>
         <td>
-            2
+            5
         </td>
     </tr>
     <tr>
@@ -3253,7 +3253,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado para calificar su servicio.
         </td>
         <td>
-            2
+            3
         </td>
     </tr>
     <tr>
@@ -3270,7 +3270,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como usuario quiero poder personalizar la apariencia y configuración de la aplicación, para que se adapte a mis preferencias.
         </td>
         <td>
-            2
+            3
         </td>
     </tr>
     <tr>
@@ -3287,7 +3287,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como chambeador quiero poder postular a una vacante para demostrar mis habilidades y crecer profesionalmente.
         </td>
         <td>
-            2
+            3
         </td>
     </tr>
     <tr>
@@ -3304,7 +3304,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como chambeador quiero que mi estado en la plataforma se actualice automáticamente según mi disponibilidad laboral para para definir mi perfil.
         </td>
         <td>
-            2
+            5
         </td>
     </tr>
     <tr>
@@ -3321,7 +3321,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como chambeador quiero contar con la opción de destacar mi perfil en los resultados de búsqueda para aumentar mis posibilidades de ser seleccionado.
         </td>
         <td>
-            1
+            3
         </td>
     </tr>
     <tr>
@@ -3338,7 +3338,7 @@ En general, los participantes valoran la experiencia laboral, pero también reco
             Como empleador quiero poder visualizar los perfiles de los chambeadores, para evaluar su experiencia y estilo de trabajo antes de contratarlos.
         </td>
         <td>
-            1
+            2
         </td>
     </tr>
     <tr>
