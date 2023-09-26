@@ -5537,7 +5537,7 @@ A continuación se presentan los commits realizados en el respositorio de la apl
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
-A continucación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
 Repositorio Github: https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App 
 <table align="left" border="1" width="100%">
@@ -5716,7 +5716,10 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
-- Web Application Deployment: https://chambeape-app.web.app/
+- Web Application Deployment: https://chambea-pe.web.app/login
+
+
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -5755,9 +5758,9 @@ A continuación se repsentará la documentación de los servicios que se han des
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="Trello-Sprint-2"  width="100%"> <img>
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="chapter 5.2.2.8"  width="100%"> <img>
 
-<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="Trello-Sprint-2"  width="100%"> <img>
+<img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="chapter 5.2.2.8"  width="100%"> <img>
 
 # Conclusiones 
 
@@ -5796,5 +5799,5 @@ agosto del 2023, de
 - Report Repository:https://github.com/Open-Source-SW53-Group-3/Report
 - Base de datos: https://lucid.app/lucidchart/67216ac7-0bcb-4138-bcaa-72cd86a76871/edit?invitationId=inv_5845fc93-f426-4c3d-94dd-f522c9d4c11f
 https://my.vertabelo.com/doc/xCMKKhOAvoi3DjIpzNX6xyP9wZ1JoB7O
-- Link página web: 
+- Link página web: https://chambea-pe.web.app/login 
 - Sprint Backlog: https://trello.com/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02
