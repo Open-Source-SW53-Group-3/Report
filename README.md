@@ -5270,6 +5270,111 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 
 <br><br>
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 1
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            25/09/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2, nuestro equipo de desarrollo se centró en implementar mejoras sustanciales en la aplicación ChambeaPe. Logramos completar con éxito todas las historias de usuario y tareas planificadas para este sprint, lo que incluyó la implementación exitosa de funciones clave. Esto abarcó desde la habilitación de un inicio de sesión y registro, permitiendo a los usuarios acceder de manera segura, hasta la visualización de perfiles para que los empleadores puedan evaluar a los chambeadores antes de contratarlos. Además, facilitamos la gestión de anuncios de trabajo, permitiendo a los empleadores crear, editar y eliminar anuncios con facilidad. En resumen, el sprint fue un éxito gracias a la colaboración y comunicación efectiva de nuestro equipo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para este sprint se planea desarrollar avances del front-end de la aplicación web. Se planea desarrollar las funcionalidades de inicio de sesión, registro, visualización de perfiles de chambeadores, creación de anuncios de trabajo, cambio de contraseña y recuperación de contraseña. Asimismo hemos organizado las tareas a realizar en el tablero de Trello y hemos asignado a cada miembro del equipo las tareas que le corresponden. Para nuestro despliegue vamos a usar la plataforma de Google Firebase.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            4
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            15
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+
 # Conclusiones 
 
 - Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades. 
