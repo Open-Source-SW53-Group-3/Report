@@ -4915,7 +4915,6 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 </br>
 
 [Link al respositorio de la Landing Page](https://github.com/Open-Source-SW53-Group-3/Landing-Page)
-
 <table  align="left" border="1" width="100%">
     <tr>
         <th >Repository</th>
@@ -4926,117 +4925,103 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
         <th>Time ago</th>
     </tr>
     <tr>
-        <td rowspan=16 >Landing Page</td>
-        <td>develop</td>
-        <td>7e3d940</td>
+        <td rowspan=15 >Landing Page</td>
+        <td>main</td>
+        <td>2dd1d33</td>
         <td>Steve Castillo</td>
-        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/realese/v1.0</td>
-        <td>08/09/2023</td>
+        <td>Merge pull request #7 from Open-Source-SW53-Group-3/Hotfix/restructure</td>
+        <td>2023-09-09</td>
     </tr>
     <tr>
-        <td>develop</td>
-        <td>49ef152</td>
+        <td>Hotfix/restructure</td>
+        <td>dc1a25c</td>
         <td>Steve Castillo</td>
-        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/realese/v1.0</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>realese/v1.0</td>
-        <td>1eedffb</td>
-        <td>Steve Castillo</td>
-        <td>Update meta tag and prepare to realese</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>1291432</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/implemet-JS</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>feature/implemet-JS</td>
-        <td>34d3498</td>
-        <td>Steve Castillo</td>
-        <td>feat: add JS button</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>49648aa</td>
-        <td>Jennifer Espinoza</td>
-        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/implement-css</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>implement-css</td>
-        <td>49ed2df</td>
-        <td>Jenn Espinoza</td>
-        <td>feat: add footer responsive</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>implement-css</td>
-        <td>8f1587e</td>
-        <td>Diego Castro</td>
-        <td>feat: add footer css</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>implement-css</td>
-        <td>9c39952</td>
-        <td>Diego Castro</td>
-        <td>feat: add responsive home</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>implement-css</td>
-        <td>89bb8b0</td>
-        <td>Ray Del Carmen</td>
-        <td>feat: add home css</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>implement-css</td>
-        <td>0ff61c3</td>
-        <td>Jenn Espinoza</td>
-        <td>feat: add reset</td>
-        <td>08/09/2023</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>11d5e7c</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/html-structure</td>
-        <td>07/09/2023</td>
-    </tr>
-    <tr>
-        <td>feature/html-structure</td>
-        <td>56b258c</td>
-        <td>Ray Del Carmen</td>
-        <td>feat: add footer</td>
-        <td>07/09/2023</td>
-    </tr>
-    <tr>
-        <td>feature/html-structure</td>
-        <td>b278468</td>
-        <td>Steve Castillo</td>
-        <td>feat: add main and header in html</td>
-        <td>07/09/2023</td>
-    </tr>
-    <tr>
-        <td>develop</td>
-        <td>5a4f2eb</td>
-        <td>Steve Castillo</td>
-        <td>loaded workspace</td>
-        <td>07/09/2023</td>
+        <td>fix: restructure the project</td>
+        <td>2023-09-09</td>
     </tr>
     <tr>
         <td>main</td>
-        <td>74122ed</td>
+        <td>d06d44e</td>
         <td>Steve Castillo</td>
-        <td>First Commit</td>
-        <td>07/09/2023</td>
+        <td>Merge pull request #4 from Open-Source-SW53-Group-3/realese/v1.0</td>
+        <td>2023-09-09</td>
+    </tr>
+    <tr>
+        <td>realese/v1.0</td>
+        <td>c412f49</td>
+        <td>Steve Castillo</td>
+        <td>Update meta tag and prepare to realese</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>aea1327</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #3 from Open-Source-SW53-Group-3/feature/responsive</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>4e73f92</td>
+        <td>Steve Castillo</td>
+        <td>feat:add responsive and js button</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>4a11e35</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #2 from Open-Source-SW53-Group-3/feature/implement-css</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>f2c3edd</td>
+        <td>Diego Castro</td>
+        <td>feat: add footer and home css</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>b3f52db</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add reset</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>836d49d</td>
+        <td>Jenn Espinoza</td>
+        <td>Merge pull request #1 from Open-Source-SW53-Group-3/feature/html-structure</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>feature/html-structure</td>
+        <td>acdd544 </td>
+        <td>Ray del Carmen</td>
+        <td>feat: add footer</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>feature/html-structure</td>
+        <td>95daf5f</td>
+        <td>Steve Castillo</td>
+        <td>feat: add main and header in html</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>87f1305</td>
+        <td>Steve Castillo</td>
+        <td>add cover</td>
+        <td>2023-09-07</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>849c677</td>
+        <td>Steve Castillo</td>
+        <td>first commit</td>
+        <td>2023-09-07</td>
     </tr>
 </table>
 
