@@ -5592,157 +5592,313 @@ A continuación se presentan los commits realizados en el respositorio de la apl
 A continuación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
 Repositorio Github: https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App 
-<table align="left" border="1" width="100%">
-  <tr>
-    <th>Repository</th>
-    <th >Branch</th>
-    <th>Commit Id</th>
-    <th>Author</th>
-    <th>Commit Message </th>
-    <th>Commited on (Date)</th>
-  </tr>
-  <tr>
-    <td rowspan=20>ChambeaPe-App</td>
-    <td>develop</td>
-    <td>0c9b918</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/epic07</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic07</td>
-    <td>3c674fd</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 23</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic07</td>
-    <td>9f526fc</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 20</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>2623764</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/epic06</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>feature/epic06</td>
-    <td>64cc49d</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 19</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>51c93b5</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/epic05</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>feature/epic05</td>
-    <td>d01f26d</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 18</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>a9170bb</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/epic04</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic04</td>
-    <td>d12a2f6</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 17</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic04</td>
-    <td>5b04ecd</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 12</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>f2e61ce</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/epic03</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic03</td>
-    <td>666ce51</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 09</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic03</td>
-    <td>95083ad</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 08</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>0574b53</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/epic02</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic02</td>
-    <td>6100269</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 05</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic02</td>
-    <td>eb38512</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 04</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>develop</td>
-    <td>3816a93</td>
-    <td>Jennifer Espinoza</td>
-    <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/epic01</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic01</td>
-    <td>66f3d97</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 02</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>Feature/epic01</td>
-    <td>343f096</td>
-    <td>Jennifer Espinoza</td>
-    <td>feat: add acceptance test 01</td>
-    <td>2023-09-08</td>
-  </tr>
-  <tr>
-    <td>main</td>
-    <td>825903c</td>
-    <td>Jennifer Espinoza</td>
-    <td>Initial commit</td>
-    <td>2023-09-08</td>
-  </tr>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-App</td>
+        <td>develop</td>
+        <td>0453af6</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #12 from Open-Source-SW53-Group-3/feature/auth-responsive</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth-responsive</td>
+        <td>41c3b19</td>
+        <td>Steve Castillo</td>
+        <td>feat: add responsive</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>2d3946d</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #11 from Open-Source-SW53-Group-3/feature/post-edit</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/post-edit</td>
+        <td>10dc72c</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer 'my posts'</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/post-edit</td>
+        <td>9670e07</td>
+        <td>Diego Castro</td>
+        <td>feat: add toast messages</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/post-edit</td>
+        <td>3ecf98a</td>
+        <td>Diego Castro</td>
+        <td>feat: add post edit functionality</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/post-edit</td>
+        <td>be4e8eb</td>
+        <td>Diego Castro</td>
+        <td>feat: add edit and delete functionality</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>33918fa</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #10 from Open-Source-SW53-Group-3/feature/access-routes</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/access-routes</td>
+        <td>da48f01</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement routes</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>221a07b</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #9 from Open-Source-SW53-Group-3/feature/worker-profile</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/worker-profile</td>
+        <td>2eb28c7</td>
+        <td>Diego Castro</td>
+        <td>Merge branch 'develop' into feature/worker-profile</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/worker-profile</td>
+        <td>46c3eab</td>
+        <td>Diego Castro</td>
+        <td>feat: add worker profile service</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>09713da</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #8 from Open-Source-SW53-Group-3/feature/review</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/review</td>
+        <td>1e82baf</td>
+        <td>Steve Castillo</td>
+        <td>Merge branch 'develop' into feature/review</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/review</td>
+        <td>3f368dc</td>
+        <td>Steve Castillo</td>
+        <td>feat: review the components and add responsive</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>4b38916</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #7 from Open-Source-SW53-Group-3/feature/auth</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>6d78a19</td>
+        <td>Ray Alessandro</td>
+        <td>feat: the last style added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>4245124</td>
+        <td>Ray Alessandro</td>
+        <td>feat: password changed style added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>a4270b0</td>
+        <td>Ray Alessandro</td>
+        <td>feat: change password style added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>0692292</td>
+        <td>Ray Alessandro</td>
+        <td>feat: verification code style added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>4fc799b</td>
+        <td>Ray Alessandro</td>
+        <td>feat: forgot password style added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>b058d0f</td>
+        <td>Ray Alessandro</td>
+        <td>feat: change password added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>05014b6</td>
+        <td>Ray Alessandro</td>
+        <td>feat: code verification added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>8f5e701</td>
+        <td>Ray Alessandro</td>
+        <td>feat: forgot-password added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/auth</td>
+        <td>290afe7</td>
+        <td>Ray Alessandro</td>
+        <td>feat: component auth and imports added</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9e2125a</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #6 from Open-Source-SW53-Group-3/feature/theme</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/theme</td>
+        <td>61af27d</td>
+        <td>Steve Castillo</td>
+        <td>Merge branch 'develop' into feature/theme</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/theme</td>
+        <td>2f8293f</td>
+        <td>Steve Castillo</td>
+        <td>feat: add theme and style in post</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>83b678f</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #5 from Open-Source-SW53-Group-3/feature/employer-job</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>feature/employer-job</td>
+        <td>1b1db33</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: implement job post</td>
+        <td>2023-09-26</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0b4af96</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #4 from Open-Source-SW53-Group-3/feature/register</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>1cfadf5</td>
+        <td>Jennifer Espinoza</td>
+        <td>fix: modify label's name</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/register</td>
+        <td>692f7c8</td>
+        <td>Jennifer Espinoza</td>
+        <td>feat: add register form</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0675535</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #3 from Open-Source-SW53-Group-3/feature/employer-post</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>feature/employer-post</td>
+        <td>72c4fdd</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer post services</td>
+        <td>2023-09-25</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c129282</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #2 from Open-Source-SW53-Group-3/feature/layout</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>feature/layout</td>
+        <td>3bf4035</td>
+        <td>Steve Castillo</td>
+        <td>feat: add footer and header</td>
+        <td>2023-09-24</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>400be09</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #1 from Open-Source-SW53-Group-3/feature/login</td>
+        <td>2023-09-20</td>
+    </tr>
+    <tr>
+        <td>feature/login</td>
+        <td>55e8747</td>
+        <td>Diego Castro</td>
+        <td>feat: add login component</td>
+        <td>2023-09-20</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>3b87448</td>
+        <td>Steve Castillo</td>
+        <td>Add components</td>
+        <td>2023-09-19</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>fa253e5</td>
+        <td>Steve Castillo</td>
+        <td>Add cover</td>
+        <td>2023-09-19</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>0e19fa7</td>
+        <td>Steve Castillo</td>
+        <td>initial commit</td>
+        <td>2023-09-19</td>
+    </tr>
 </table>
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
