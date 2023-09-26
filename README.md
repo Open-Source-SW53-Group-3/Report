@@ -245,6 +245,7 @@ del ABET – EAC - Student Outcome 5.
 ### 1.1.1. Description de la StartUp
 DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
 
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
