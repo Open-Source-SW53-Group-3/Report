@@ -5657,6 +5657,25 @@ Repositorio Github: https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplicación web de ChambeaPe como primera instancia. Por ello no se evidencia el Testing Suite en este sprint.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
