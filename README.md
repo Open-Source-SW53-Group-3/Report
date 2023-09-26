@@ -5374,20 +5374,13 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 </br>
 <br>
 
-
-# Conclusiones 
-
-- Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades. 
-   
--  Las User Stories nos permiten estar en el lugar de los usuarios, para poder comprender exactamente lo que buscan de un servicio novedoso que pueda satisfacer las dificultades que se les presenta.
-
-- El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
-
-- Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
-<br><br>
-
 #### 5.2.2.2. Sprint Backlog 2
+Link del tablero de Trello: https://trello.com/invite/b/Gefw1vfY/ATTIacaa4de609b1f27260ebda8a38ba5cf871CA4074/sprint-backlog-02 
 
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-2"  width="90%"> <img>
+
+
+A continuación se presentan los commits realizados en el respositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -5505,15 +5498,182 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
     </tr>
    </table>
 
-
-
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+A continucación se presentan los commits realizados en el repositorio de la apliación web en GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio Github: https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App 
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit Id</th>
+    <th>Author</th>
+    <th>Commit Message </th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td rowspan=20>ChambeaPe-App</td>
+    <td>develop</td>
+    <td>0c9b918</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #7 from Web-Applications-SW53-Group-3/feature/epic07</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>3c674fd</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 23</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic07</td>
+    <td>9f526fc</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 20</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>2623764</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #6 from Web-Applications-SW53-Group-3/feature/epic06</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic06</td>
+    <td>64cc49d</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 19</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>51c93b5</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #5 from Web-Applications-SW53-Group-3/feature/epic05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>feature/epic05</td>
+    <td>d01f26d</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 18</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>a9170bb</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #4 from Web-Applications-SW53-Group-3/feature/epic04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>d12a2f6</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 17</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic04</td>
+    <td>5b04ecd</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 12</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>f2e61ce</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/epic03</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>666ce51</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 09</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic03</td>
+    <td>95083ad</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 08</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>0574b53</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/epic02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>6100269</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 05</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic02</td>
+    <td>eb38512</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 04</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>develop</td>
+    <td>3816a93</td>
+    <td>Jennifer Espinoza</td>
+    <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/epic01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>66f3d97</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 02</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>Feature/epic01</td>
+    <td>343f096</td>
+    <td>Jennifer Espinoza</td>
+    <td>feat: add acceptance test 01</td>
+    <td>2023-09-08</td>
+  </tr>
+  <tr>
+    <td>main</td>
+    <td>825903c</td>
+    <td>Jennifer Espinoza</td>
+    <td>Initial commit</td>
+    <td>2023-09-08</td>
+  </tr>
+</table>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
+# Conclusiones 
+
+- Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades. 
+   
+-  Las User Stories nos permiten estar en el lugar de los usuarios, para poder comprender exactamente lo que buscan de un servicio novedoso que pueda satisfacer las dificultades que se les presenta.
+
+- El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
+
+- Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
+<br><br>
 # Bibliografía
 
 1. Peceros Silvera, A., Riquelme Silva, T., & Vásquez Quispe, L. (2006). El mundo laboral: redescubriendo mis capacidades como trabajador: Ciclo Intermedio. 
