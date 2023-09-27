@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
     <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TB1
+    <br>INFORME DE TRABAJO FINAL - TP1
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
 |TB1|05/09/2023|  Todos los integrantes del equipo|Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se diseñaron los mockups y prototipos de la página de inicio en base a la información obtenida. Por último, se creó la página de inicio con la ayuda del sprint backlog para tener un control de los avances.|
-|TP|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
+|TP1|26/09/2023|  Todos los integrantes del equipo|En resúmen, en el proceso de desarrollo de nuestra Aplicación Web Frontend, comenzamos por cuidadosamente seleccionar los user stories que formarían parte de nuestro primer avance. Luego, procedimos a implementar estos user stories en Angular, basándonos en los mockups que habíamos previamente diseñado. Finalmente, culminamos esta fase al desplegar con éxito el frontend de nuestra aplicación web, logrando así un hito significativo en el proceso de desarrollo.| 
 
 
 
@@ -142,6 +142,15 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
@@ -5289,6 +5298,7 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 - GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y facilitar la colaboración entre los desarrolladores. Con GitHub, podemos subir nuestro código a la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de las tareas y los problemas, y acceder a miles de proyectos de código abierto.
 
 - Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
+  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
 
@@ -5874,13 +5884,64 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
 A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
 - Web Application Deployment: https://chambea-pe.web.app/login
 
+ <div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364185903566908/image.png" alt="APP-1"  width="70%"/>
+</div>
 
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156367408844525619/image.png" alt="APP-2"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364262667714610/image.png" alt="APP-3"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364390740803614/image.png" alt="APP-4"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364453227528222/image.png" alt="APP-5"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364492410728539/image.png" alt="APP-6"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366389406355456/image.png" alt="APP-7"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366413779435540/image.png" alt="APP-8"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366438660055090/image.png" alt="APP-9"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366484503801866/image.png" alt="APP-10"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366510655275068/image.png" alt="APP-11"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366530192355489/image.png" alt="APP-12"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366904852750457/image.png" alt="APP-13"  width="70%"/>
+</div> 
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint. Para este nuestro frontend accedemos a la API de ChambeaPe que creamos para neustro poyecto con la herramienta mockAPI. Para así realizar el crud de publiaciones, hacer el login y registro de los usuarios.
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint. Para este nuestro frontend accedemos a la API de ChambeaPe que creamos para nuestro poyecto con la herramienta mockAPI. Para así realizar el crud de publiaciones, hacer el login y registro de los usuarios.
 (https://65110b963ce5d181df5da5df.mockapi.io/api/chambeape/post)
+
 <table align="left" border="1" width="100%">
         <tr>
             <th>Services</th>
@@ -5933,7 +5994,11 @@ A continuación se repsentará la documentación de los servicios que se han des
 - A pesar de los éxitos, hubo algunos problemas menores con las estimaciones de tiempo y la validación de formularios. Esto sugiere que existe margen para mejoras continuas en la gestión de proyectos y desarrollo de software. Se puede considerar implementar procesos más estructurados en futuros proyectos.
   
 - Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requerimientos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
-  
+
+- Utilizar Angular como framework de desarrollo web permite una mayor eficiencia en el proceso de desarrollo. Su arquitectura basada en componentes, el sistema de inyección de dependencias y la gestión del ciclo de vida de los componentes simplifican la organización y mantenimiento del código. Esto se traduce en un desarrollo más rápido y en la capacidad de mantener y escalar la aplicación de manera más sencilla.
+
+- Angular ofrece una serie de herramientas y funcionalidades para mejorar la experiencia del usuario en aplicaciones web. La detección de cambios eficiente, la optimización en la manipulación del DOM y la capacidad de crear interfaces de usuario interactivas hacen que las aplicaciones Angular sean altamente responsivas y atractivas para los usuarios. Esto contribuye a la retención de usuarios y al éxito general de la aplicación.
+
 
 <br><br>
 # Bibliografía
@@ -5950,7 +6015,6 @@ trabajan y estudian crece en 5%*. Perú21. Recuperado el 23 de agosto del
 tienen problemas para encontrar trabajo*. Rpp. Recuperado el 23 de
 agosto del 2023, de
 <https://rpp.pe/economia/economia/empleo-8-de-cada-10-jovenes-dicen-tener-problemas-para-encontrar-trabajo-noticia-1428867?ref=rpp>
-
 
 <br><br>
 
