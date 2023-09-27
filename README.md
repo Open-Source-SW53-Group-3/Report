@@ -202,7 +202,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
         - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
         <br><br>
    </td>
@@ -221,7 +221,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Realicé una entrevista a un miembro de uno de los grupos objetivo con el objetivo de obtener información relevante para llevar a cabo algunos de los aspectos del trabajo.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
    </td>
