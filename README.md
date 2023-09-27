@@ -184,7 +184,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
    </td>
@@ -239,7 +239,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - A través de un riguroso sprint planning, pudimos analizar minuciosamente los puntos de mejora, lo que contribuyó significativamente a la optimización de nuestro proceso de desarrollo y al fortalecimiento de nuestra solución.
         <br><br> 
-        <b>Diego Martín Esquivel Aguayo</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
         - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
         <br><br>
    </td>
