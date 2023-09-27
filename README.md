@@ -143,7 +143,6 @@
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -245,13 +244,12 @@ del ABET – EAC - Student Outcome 5.
 ### 1.1.1. Description de la StartUp
 DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
 
-
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446949110173706/Steve.jpg?width=511&height=681" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156371563462012988/SteveTerno.png?ex=6514ba71&is=651368f1&hm=d05c74182c340b15dac29465470e8796d438f002b90109fb6e85479f0562f471&=&width=932&height=1242" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -275,7 +273,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156371563462012988/SteveTerno.png?ex=6514ba71&is=651368f1&hm=d05c74182c340b15dac29465470e8796d438f002b90109fb6e85479f0562f471&=&width=932&height=1242" alt="Ray Del Carmen" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145583761182965852/1145600038412750848/0540202124061.jpg?width=454&height=681" alt="Ray Del Carmen" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -990,82 +988,17 @@ Al momento de plantearle la propuesta de la app “ChambeaPe” nos dio a conoce
 El feedback que nos da para poder ejercer como startup conjuntamente con ChambeaPe es que la app no se parezca mucho a plataformas existentes como lo puede ser LinkedIn y nos centremos en ayudar a encontrar trabajo al que más lo necesite.
 
 ### 2.2.3. Análisis de entrevistas
-La aplicación "ChambeaPe" ha generado un gran interés en el mercado laboral peruano al ofrecer una plataforma para conectar empleadores y trabajadores temporales. Este informe resume los hallazgos de las entrevistas realizadas en dos segmentos de usuarios: Chambeadores de 18 a 30 años y Empleadores de 18 a 50 años. Las entrevistas se llevaron a cabo con el objetivo de comprender las perspectivas, las necesidades y las expectativas de los usuarios en relación con la aplicación "ChambeaPe". A continuación, se presentan los resultados y los datos estadísticos más relevantes para cada segmento.
-
 
 **Segmento 1: Chambeador de 18 a 30 años**
 
-Las entrevistas con los participantes reflejan diversas perspectivas sobre el empleo, la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados, en su mayoría, reconocen su capacidad para proporcionar oportunidades flexibles a jóvenes sin experiencia laboral. Se resaltan características esenciales como la evaluación de empleados y empleadores, la facilidad de uso y una comunicación eficiente entre las partes involucradas. 
-Además, consideran la aplicación como una herramienta valiosa para adquirir experiencia laboral temprana y diversificar ingresos. Las sugerencias comunes incluyen fortalecer la seguridad en la plataforma, ampliar las opciones de trabajos y establecer contratos claros entre empleados temporales y empleadores.
+Las entrevistas con los participantes reflejan diversas perspectivas sobre el empleo, la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados reconocen su capacidad para proporcionar oportunidades flexibles a jóvenes sin experiencia laboral. Se resaltan características como la evaluación de empleados y empleadores, la usabilidad y una comunicación eficiente entre las partes. Además, consideran la aplicación como una vía para adquirir experiencia temprana y diversificar ingresos. También se sugiere fortalecer la seguridad, ampliar las opciones de trabajo y establecer contratos claros entre empleados temporales y empleadores.
 
-<b>Datos estadísticos basados en las entrevistas proporcionadas:</b>
-
-Dificultades en la Búsqueda de Empleo: El 100% de los entrevistados ha experimentado dificultades al encontrar trabajo. Esto resalta la prevalencia de obstáculos en la búsqueda de empleo entre los jóvenes entrevistados.
-Interés en Empleos Temporales: El 100% de los entrevistados muestra un alto interés en empleos temporales debido a la flexibilidad que ofrecen en comparación con los empleos tradicionales con horarios fijos.
-
-<b>Características Deseadas en la Aplicación "ChambeaPe":</b>
-
-- El 100% de los entrevistados enfatiza la importancia de la calificación de empleados y empleadores como un elemento esencial para construir confianza en la plataforma. Además, todos expresan su deseo de que la aplicación sea fácil de usar y facilite la comunicación eficaz entre empleadores y empleados temporales.
-Todos los entrevistados consideran que la aplicación "ChambeaPe" sería una herramienta valiosa para ayudar a los jóvenes a obtener experiencia laboral temprana y diversificar sus fuentes de ingresos.
-
-- Se destaca la sugerencia común de fortalecer la seguridad en la aplicación para garantizar transacciones seguras.
-Además, los entrevistados abogan por la expansión de las opciones de trabajos disponibles en la plataforma y la necesidad de establecer contratos claros entre empleados temporales y empleadores.
-
-<b>Experiencia en Trabajos Anteriores:</b>
-
-- Un 60% de los entrevistados mencionó haber tenido experiencias laborales previas, y de estos, el 70% informó haber enfrentado dificultades en esos trabajos, como horarios inflexibles o problemas con los empleadores.
-Importancia de la Experiencia Laboral: El 80% de los entrevistados expresó la creencia de que la experiencia laboral temprana es crucial para el desarrollo profesional y la construcción de habilidades.
-
-En conjunto, estas entrevistas subrayan la importancia de la flexibilidad, la adquisición de experiencia temprana y una comunicación efectiva en el contexto de empleos temporales. También destacan tanto las ventajas como las áreas de mejora potencial de la aplicación "ChambeaPe", lo que proporciona una base sólida para el desarrollo y la optimización futura de la plataforma.
-
+En conjunto, estas entrevistas subrayan la importancia de la flexibilidad, la experiencia temprana y la comunicación efectiva en la búsqueda y realización de empleos temporales, mientras destacan tanto las ventajas como las áreas de mejora potencial de la aplicación "ChambeaPe".
 
 **Segmento 2: Empleador de 18 a 50 años**
 
-Las entrevistas con los empleadores de diferentes edades proporcionan una visión diversa de la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados valoran tanto la experiencia laboral como el compromiso y la disposición para aprender en los candidatos que consideran. Además, consideran que la aplicación podría ser una forma efectiva de mejorar la búsqueda de trabajadores temporales confiables y ofrecer oportunidades a individuos sin experiencia. Se destacan elementos clave como la facilidad de uso, la retroalimentación y la adaptabilidad en la aplicación. También se resalta la importancia de encontrar candidatos cualificados y confiables para los puestos de trabajo.
-
-Datos estadísticos basados en las entrevistas proporcionadas:
-
-<b>Valor de la Experiencia y Compromiso:</b>
-
-- El 60% de los empleadores entrevistados valoran la experiencia laboral en los candidatos.
-
-- El 100% de los entrevistados destacó la importancia del compromiso y la disposición para aprender. Esto resalta la diversidad de enfoques en la contratación, donde algunos consideran crucial la experiencia, mientras que otros están dispuestos a dar oportunidades a aquellos sin experiencia.
-
-<b>Características Clave de la Aplicación:</b>
-
-- El 100% de los empleadores enfatiza la importancia de características como la facilidad de uso, la retroalimentación y la adaptabilidad en la aplicación. Esto sugiere una demanda común por una plataforma eficiente y amigable para facilitar la búsqueda y selección de trabajadores temporales.
-
-<b>Necesidad de Trabajadores Cualificados:</b>
-- El 100% de los empleadores destaca la necesidad de encontrar candidatos cualificados y confiables para los puestos de trabajo. Esto subraya la importancia de la selección de personal en la contratación de trabajadores temporales.
-
-<b>Mejora en el Proceso de Contratación:</b>
-- El 100% de los entrevistados ve el potencial de la aplicación "ChambeaPe" para mejorar el proceso de contratación de trabajadores temporales, lo que indica un interés general en esta herramienta.
-
-<b>Personalización y Filtrado:</b>
-
-- Algunos empleadores expresaron la necesidad de características de filtrado y personalización en la aplicación para optimizar la búsqueda y selección de candidatos adecuados.
-
-<b>Características Deseadas en la Aplicación "ChambeaPe" por Empleadores:</b>
-
-<b>Facilidad de Uso:</b> 
-- El 100% de los empleadores destacó la importancia de que la aplicación sea fácil de usar. Esto subraya la necesidad de una interfaz intuitiva y accesible para optimizar la experiencia del usuario.
-
-<b>Retroalimentación (Feedback):</b> 
-- El 100% de los empleadores expresó interés en la retroalimentación como una característica esencial. Valoraron la capacidad de proporcionar y recibir comentarios sobre los trabajadores temporales, lo que contribuiría a una mejor selección y mejora continua.
-
-<b>Adaptabilidad:</b> 
-- El 100% de los entrevistados considera importante que la aplicación sea adaptable a diferentes necesidades y tipos de trabajos temporales. Esto refleja la diversidad de empleadores y trabajos que podrían utilizar la plataforma.
-
-<b>Verificación de Certificados:</b> 
-
-- No se mencionó específicamente en las entrevistas, pero podría ser una característica importante para algunos empleadores, especialmente aquellos que buscan candidatos con certificaciones específicas.
-Información Detallada de los Trabajadores Temporales: Aunque no se mencionó en las entrevistas, es plausible que los empleadores deseen acceder a información detallada sobre los trabajadores temporales, como su experiencia laboral previa, habilidades, reseñas anteriores y disponibilidad.
-
-<b>Personalización y Filtrado:</b> 
-- Algunos empleadores expresaron la necesidad de características de filtrado y personalización en la aplicación. Esto podría incluir la capacidad de establecer criterios específicos para la búsqueda de candidatos y la personalización de las ofertas de trabajo.
-
-En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso. Mientras algunos valoran la experiencia, otros priorizan el compromiso y la disposición para aprender, lo que destaca la importancia de ofrecer oportunidades a individuos sin experiencia laboral. La facilidad de uso y la calidad de los candidatos son aspectos clave en la consideración de una aplicación de búsqueda de trabajadores temporales.
-
+En las entrevistas, se revelan diversas perspectivas sobre la contratación y la utilidad de la aplicación "ChambeaPe". 
+En general, los participantes valoran la experiencia laboral, pero también reconocen la relevancia del compromiso y la disposición para aprender. Varios consideran la aplicación como una manera de mejorar la búsqueda de trabajadores temporales fiables y brindar oportunidades a individuos sin experiencia. Destacan la facilidad de uso, la retroalimentación y la adaptabilidad como características clave. Además, se subraya la importancia de encontrar personas confiables y cualificadas para los puestos. Algunos entrevistados también expresan la necesidad de características de filtrado y personalización en la aplicación para optimizar el proceso de selección de candidatos adecuados. En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -5019,6 +4952,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 </br>
 
 [Link al respositorio de la Landing Page](https://github.com/Open-Source-SW53-Group-3/Landing-Page)
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th >Repository</th>
@@ -5029,103 +4963,117 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
         <th>Time ago</th>
     </tr>
     <tr>
-        <td rowspan=15 >Landing Page</td>
-        <td>main</td>
-        <td>2dd1d33</td>
+        <td rowspan=16 >Landing Page</td>
+        <td>develop</td>
+        <td>7e3d940</td>
         <td>Steve Castillo</td>
-        <td>Merge pull request #7 from Open-Source-SW53-Group-3/Hotfix/restructure</td>
-        <td>2023-09-09</td>
+        <td>Merge pull request #5 from Web-Applications-SW53-Group-3/realese/v1.0</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
-        <td>Hotfix/restructure</td>
-        <td>dc1a25c</td>
+        <td>develop</td>
+        <td>49ef152</td>
         <td>Steve Castillo</td>
-        <td>fix: restructure the project</td>
-        <td>2023-09-09</td>
-    </tr>
-    <tr>
-        <td>main</td>
-        <td>d06d44e</td>
-        <td>Steve Castillo</td>
-        <td>Merge pull request #4 from Open-Source-SW53-Group-3/realese/v1.0</td>
-        <td>2023-09-09</td>
+        <td>Merge pull request #4 from Web-Applications-SW53-Group-3/realese/v1.0</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>realese/v1.0</td>
-        <td>c412f49</td>
+        <td>1eedffb</td>
         <td>Steve Castillo</td>
         <td>Update meta tag and prepare to realese</td>
-        <td>2023-09-07</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>develop</td>
-        <td>aea1327</td>
+        <td>1291432</td>
         <td>Steve Castillo</td>
-        <td>Merge pull request #3 from Open-Source-SW53-Group-3/feature/responsive</td>
-        <td>2023-09-07</td>
+        <td>Merge pull request #3 from Web-Applications-SW53-Group-3/feature/implemet-JS</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
-        <td>implement-css</td>
-        <td>4e73f92</td>
+        <td>feature/implemet-JS</td>
+        <td>34d3498</td>
         <td>Steve Castillo</td>
-        <td>feat:add responsive and js button</td>
-        <td>2023-09-07</td>
+        <td>feat: add JS button</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>49648aa</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #2 from Web-Applications-SW53-Group-3/feature/implement-css</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>implement-css</td>
-        <td>4a11e35</td>
+        <td>49ed2df</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add footer responsive</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>8f1587e</td>
         <td>Diego Castro</td>
-        <td>Merge pull request #2 from Open-Source-SW53-Group-3/feature/implement-css</td>
-        <td>2023-09-07</td>
+        <td>feat: add footer css</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>implement-css</td>
-        <td>f2c3edd</td>
+        <td>9c39952</td>
         <td>Diego Castro</td>
-        <td>feat: add footer and home css</td>
-        <td>2023-09-07</td>
+        <td>feat: add responsive home</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>implement-css</td>
-        <td>b3f52db</td>
+        <td>89bb8b0</td>
+        <td>Ray Del Carmen</td>
+        <td>feat: add home css</td>
+        <td>08/09/2023</td>
+    </tr>
+    <tr>
+        <td>implement-css</td>
+        <td>0ff61c3</td>
         <td>Jenn Espinoza</td>
         <td>feat: add reset</td>
-        <td>2023-09-07</td>
+        <td>08/09/2023</td>
     </tr>
     <tr>
         <td>develop</td>
-        <td>836d49d</td>
-        <td>Jenn Espinoza</td>
-        <td>Merge pull request #1 from Open-Source-SW53-Group-3/feature/html-structure</td>
-        <td>2023-09-07</td>
+        <td>11d5e7c</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #1 from Web-Applications-SW53-Group-3/feature/html-structure</td>
+        <td>07/09/2023</td>
     </tr>
     <tr>
         <td>feature/html-structure</td>
-        <td>acdd544 </td>
-        <td>Ray del Carmen</td>
+        <td>56b258c</td>
+        <td>Ray Del Carmen</td>
         <td>feat: add footer</td>
-        <td>2023-09-07</td>
+        <td>07/09/2023</td>
     </tr>
     <tr>
         <td>feature/html-structure</td>
-        <td>95daf5f</td>
+        <td>b278468</td>
         <td>Steve Castillo</td>
         <td>feat: add main and header in html</td>
-        <td>2023-09-07</td>
+        <td>07/09/2023</td>
     </tr>
     <tr>
         <td>develop</td>
-        <td>87f1305</td>
+        <td>5a4f2eb</td>
         <td>Steve Castillo</td>
-        <td>add cover</td>
-        <td>2023-09-07</td>
+        <td>loaded workspace</td>
+        <td>07/09/2023</td>
     </tr>
     <tr>
         <td>main</td>
-        <td>849c677</td>
+        <td>74122ed</td>
         <td>Steve Castillo</td>
-        <td>first commit</td>
-        <td>2023-09-07</td>
+        <td>First Commit</td>
+        <td>07/09/2023</td>
     </tr>
 </table>
 
@@ -5341,7 +5289,6 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 - GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y facilitar la colaboración entre los desarrolladores. Con GitHub, podemos subir nuestro código a la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de las tareas y los problemas, y acceder a miles de proyectos de código abierto.
 
 - Github Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages es una forma sencilla de crear sitios web estáticos para nuestros proyectos, usando temas preconfigurados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin necesidad de contratar un servidor o un dominio.
-  
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 El landing page fue creado por el equipo usando el modelo de gitflow, que consiste en usar diferentes ramas para trabajar en cada parte, optimizarlo y ponerlo al día. El beneficio de emplear este modelo es que facilita actualizar y hacer cambios para después mostrarlos y verificar que no exista ningún problema al fusionarlos con la rama principal. Seguidamente, se muestra el conocimiento que obtuvo el equipo mediante la plataforma GitHub.
 
@@ -5970,62 +5917,6 @@ A continuación se repsentará la documentación de los servicios que se han des
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="chapter 5.2.2.8"  width="100%"> <img>
 
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="chapter 5.2.2.8"  width="100%"> <img>
-=======
-#### 5.2.2.5. Execution Evidence for Sprint Review
-
-En este apartado se verán los resultados de la implementación de la aplicación web.
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364185903566908/image.png" alt="APP-1"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156367408844525619/image.png" alt="APP-2"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364262667714610/image.png" alt="APP-3"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364390740803614/image.png" alt="APP-4"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364453227528222/image.png" alt="APP-5"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156364492410728539/image.png" alt="APP-6"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366389406355456/image.png" alt="APP-7"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366413779435540/image.png" alt="APP-8"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366438660055090/image.png" alt="APP-9"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366484503801866/image.png" alt="APP-10"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366510655275068/image.png" alt="APP-11"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366530192355489/image.png" alt="APP-12"  width="70%"/>
-</div>
-
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1145583761182965852/1156366904852750457/image.png" alt="APP-13"  width="70%"/>
-</div>
 
 # Conclusiones 
 
