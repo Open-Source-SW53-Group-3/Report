@@ -245,6 +245,7 @@ del ABET – EAC - Student Outcome 5.
 ### 1.1.1. Description de la StartUp
 DigitalDart emerge como un arquitecto digital, diseñando soluciones web para resolver la búsqueda de trabajos ocasionales. Este startup de software reimagina cómo se generan ingresos y se busca la libertad laboral. A través de su plataforma ingeniosa, DigitalDart brindará ayuda a jóvenes con diversas habilidades entre 18 y 30 años conectándolos con los demandantes de servicios, considerando ubicación y habilidades. Al redefinir las convenciones laborales, esta flexibilidad no solo cambia la narrativa laboral, sino que también da un nuevo matiz a la economía contemporánea.
 
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
@@ -274,7 +275,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145583761182965852/1145600038412750848/0540202124061.jpg?width=454&height=681" alt="Ray Del Carmen" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156371563462012988/SteveTerno.png?ex=6514ba71&is=651368f1&hm=d05c74182c340b15dac29465470e8796d438f002b90109fb6e85479f0562f471&=&width=932&height=1242" alt="Ray Del Carmen" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -298,7 +299,7 @@ DigitalDart emerge como un arquitecto digital, diseñando soluciones web para re
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://media.discordapp.net/attachments/1145421916413366426/1145446948808163449/Jenn-Foto.jpg" alt="Jennifer Espinoza" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://media.discordapp.net/attachments/1145421916413366426/1156374548732715008/2.jpg?ex=6514bd38&is=65136bb8&hm=2c7443d63324e61e3eb71f9a494db25cd313034c806db0bb24e35ce2da6acda1&=&width=934&height=1242" alt="Jennifer Espinoza" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -6035,6 +6036,14 @@ En este apartado se verán los resultados de la implementación de la aplicació
 - El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
 
 - Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
+
+- Las user stories se centraron en mejorar la experiencia del usuario, lo que es esencial para una plataforma como ChambeaPe. Se implementaron funciones de inicio de sesión exitoso y fallido, lo que brinda a los usuarios una experiencia más fluida y segura.
+
+- A pesar de los éxitos, hubo algunos problemas menores con las estimaciones de tiempo y la validación de formularios. Esto sugiere que existe margen para mejoras continuas en la gestión de proyectos y desarrollo de software. Se puede considerar implementar procesos más estructurados en futuros proyectos.
+  
+- Las estimaciones de tiempo se mantuvieron en su mayoría dentro del rango estimado, lo que indica una buena comprensión de los requerimientos y una gestión eficiente del tiempo. Sin embargo, hubo algunas desviaciones menores en las estimaciones de tiempo que podrían mejorarse en el futuro.
+  
+
 <br><br>
 # Bibliografía
 
