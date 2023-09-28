@@ -5319,7 +5319,7 @@ El landing page fue creado por el equipo usando el modelo de gitflow, que consis
 
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 1
+#### 5.2.2.1. Sprint Planning 2
 
 <table align="center"  border="1" width="80%" style="text-align:center;">
     <tr align="left">
@@ -5470,7 +5470,7 @@ A continuación se presentan los commits realizados en el respositorio de la apl
        <td>Implementar recuperación de contraseñas</td>
        <td>Desarrollar la funcionalidad para permitir a los usuarios recuperar su contraseña mediante un proceso de restablecimiento.</td>
        <td>2.5</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Alessandro</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -5859,8 +5859,8 @@ Repositorio Github: https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-
 En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplicación web de ChambeaPe como primera instancia. Por ello no se evidencia el Testing Suite en este sprint.
+
 <table align="left" border="1" width="100%">
   <tr>
     <th>Repository</th>
@@ -5881,6 +5881,7 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
 </table>
 
 <br><br>
+<br>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
@@ -5973,7 +5974,7 @@ A continuación se repsentará la documentación de los servicios que se han des
             <td>En este partado relizamos peticiones a nuestra API a través de nuestor servicio "worker-profile".</td>
         </tr>
     </table>
-    
+
 <br><br>
     
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
