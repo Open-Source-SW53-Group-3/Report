@@ -5511,7 +5511,7 @@ A continuación se presentan los commits realizados en el respositorio de la apl
     </tr>
      <tr>
        <td rowspan="4">US15</td>
-       <td rowspan="4">Visualizar perfiles de chambeadores</td>
+       <td rowspan="4">Manejar anuncios de trabajos</td>
        <td>T01</td>
        <td>Implementar creación de anuncios de trabajo</td>
        <td>Desarrollar la funcionalidad para que los empleadores puedan crear anuncios de trabajo en la aplicación web.</td>
