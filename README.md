@@ -4808,7 +4808,7 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
       </tr>
        <tr align="left">
         <td>
-            <b>Sprint n - 0</b>
+            <b>Sprint 1</b>
             <b>Review Summary</b>
         </td>
         <td>
@@ -4821,7 +4821,7 @@ La documentación se ha enriquecido con la expansión de la visión de negocio y
     </tr>
     <tr align="left">
         <td>
-            <b>Sprint n - 1</b>
+            <b>Sprint 1</b>
             <b>Retrospective Summary</b>
         </td>
         <td>
@@ -5880,6 +5880,8 @@ En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplic
   </tr>
 </table>
 
+<br><br>
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 A continuación de presentaran las capturas de las vistas más relevantes que se llebaron a cabo en este segundo sprint. También, se adjunta el enlace de la aplicación web desplegada en Firebase.
 - Web Application Deployment: https://chambea-pe.web.app/login
@@ -5972,7 +5974,20 @@ A continuación se repsentará la documentación de los servicios que se han des
         </tr>
     </table>
     
+
+<br><br>
+    
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Al igual que en el primer sprint, continuaremos utilizando el servicio de implementación automática de Firebase Hosting. Por lo tanto, seguiremos los mismos pasos mencionados en el sprint anterior, con la única diferencia de que seleccionaremos el nuevo repositorio de la aplicación web en Firebase para desplegarla.
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1156712917144698970/webstorm64_16ETD9HEvH.png" alt="evidence-sprint2_img1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1156713041824591992/webstorm64_sdmf3SZ4sl.png" alt="evidence-sprint2_img2"  width="70%"/>
+</div>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="chapter 5.2.2.8"  width="100%"> <img>
