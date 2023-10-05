@@ -997,17 +997,81 @@ Al momento de plantearle la propuesta de la app “ChambeaPe” nos dio a conoce
 El feedback que nos da para poder ejercer como startup conjuntamente con ChambeaPe es que la app no se parezca mucho a plataformas existentes como lo puede ser LinkedIn y nos centremos en ayudar a encontrar trabajo al que más lo necesite.
 
 ### 2.2.3. Análisis de entrevistas
+La aplicación "ChambeaPe" ha generado un gran interés en el mercado laboral peruano al ofrecer una plataforma para conectar empleadores y trabajadores temporales. Este informe resume los hallazgos de las entrevistas realizadas en dos segmentos de usuarios: Chambeadores de 18 a 30 años y Empleadores de 18 a 50 años. Las entrevistas se llevaron a cabo con el objetivo de comprender las perspectivas, las necesidades y las expectativas de los usuarios en relación con la aplicación "ChambeaPe". A continuación, se presentan los resultados y los datos estadísticos más relevantes para cada segmento.
+
 
 **Segmento 1: Chambeador de 18 a 30 años**
 
-Las entrevistas con los participantes reflejan diversas perspectivas sobre el empleo, la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados reconocen su capacidad para proporcionar oportunidades flexibles a jóvenes sin experiencia laboral. Se resaltan características como la evaluación de empleados y empleadores, la usabilidad y una comunicación eficiente entre las partes. Además, consideran la aplicación como una vía para adquirir experiencia temprana y diversificar ingresos. También se sugiere fortalecer la seguridad, ampliar las opciones de trabajo y establecer contratos claros entre empleados temporales y empleadores.
+Las entrevistas con los participantes reflejan diversas perspectivas sobre el empleo, la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados, en su mayoría, reconocen su capacidad para proporcionar oportunidades flexibles a jóvenes sin experiencia laboral. Se resaltan características esenciales como la evaluación de empleados y empleadores, la facilidad de uso y una comunicación eficiente entre las partes involucradas. 
+Además, consideran la aplicación como una herramienta valiosa para adquirir experiencia laboral temprana y diversificar ingresos. Las sugerencias comunes incluyen fortalecer la seguridad en la plataforma, ampliar las opciones de trabajos y establecer contratos claros entre empleados temporales y empleadores.
 
-En conjunto, estas entrevistas subrayan la importancia de la flexibilidad, la experiencia temprana y la comunicación efectiva en la búsqueda y realización de empleos temporales, mientras destacan tanto las ventajas como las áreas de mejora potencial de la aplicación "ChambeaPe".
+<b>Datos estadísticos basados en las entrevistas proporcionadas:</b>
+
+Dificultades en la Búsqueda de Empleo: El 100% de los entrevistados ha experimentado dificultades al encontrar trabajo. Esto resalta la prevalencia de obstáculos en la búsqueda de empleo entre los jóvenes entrevistados.
+Interés en Empleos Temporales: El 100% de los entrevistados muestra un alto interés en empleos temporales debido a la flexibilidad que ofrecen en comparación con los empleos tradicionales con horarios fijos.
+
+<b>Características Deseadas en la Aplicación "ChambeaPe":</b>
+
+- El 100% de los entrevistados enfatiza la importancia de la calificación de empleados y empleadores como un elemento esencial para construir confianza en la plataforma. Además, todos expresan su deseo de que la aplicación sea fácil de usar y facilite la comunicación eficaz entre empleadores y empleados temporales.
+Todos los entrevistados consideran que la aplicación "ChambeaPe" sería una herramienta valiosa para ayudar a los jóvenes a obtener experiencia laboral temprana y diversificar sus fuentes de ingresos.
+
+- Se destaca la sugerencia común de fortalecer la seguridad en la aplicación para garantizar transacciones seguras.
+Además, los entrevistados abogan por la expansión de las opciones de trabajos disponibles en la plataforma y la necesidad de establecer contratos claros entre empleados temporales y empleadores.
+
+<b>Experiencia en Trabajos Anteriores:</b>
+
+- Un 60% de los entrevistados mencionó haber tenido experiencias laborales previas, y de estos, el 70% informó haber enfrentado dificultades en esos trabajos, como horarios inflexibles o problemas con los empleadores.
+Importancia de la Experiencia Laboral: El 80% de los entrevistados expresó la creencia de que la experiencia laboral temprana es crucial para el desarrollo profesional y la construcción de habilidades.
+
+En conjunto, estas entrevistas subrayan la importancia de la flexibilidad, la adquisición de experiencia temprana y una comunicación efectiva en el contexto de empleos temporales. También destacan tanto las ventajas como las áreas de mejora potencial de la aplicación "ChambeaPe", lo que proporciona una base sólida para el desarrollo y la optimización futura de la plataforma.
+
 
 **Segmento 2: Empleador de 18 a 50 años**
 
-En las entrevistas, se revelan diversas perspectivas sobre la contratación y la utilidad de la aplicación "ChambeaPe". 
-En general, los participantes valoran la experiencia laboral, pero también reconocen la relevancia del compromiso y la disposición para aprender. Varios consideran la aplicación como una manera de mejorar la búsqueda de trabajadores temporales fiables y brindar oportunidades a individuos sin experiencia. Destacan la facilidad de uso, la retroalimentación y la adaptabilidad como características clave. Además, se subraya la importancia de encontrar personas confiables y cualificadas para los puestos. Algunos entrevistados también expresan la necesidad de características de filtrado y personalización en la aplicación para optimizar el proceso de selección de candidatos adecuados. En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso.
+Las entrevistas con los empleadores de diferentes edades proporcionan una visión diversa de la contratación y el potencial de la aplicación "ChambeaPe". Los entrevistados valoran tanto la experiencia laboral como el compromiso y la disposición para aprender en los candidatos que consideran. Además, consideran que la aplicación podría ser una forma efectiva de mejorar la búsqueda de trabajadores temporales confiables y ofrecer oportunidades a individuos sin experiencia. Se destacan elementos clave como la facilidad de uso, la retroalimentación y la adaptabilidad en la aplicación. También se resalta la importancia de encontrar candidatos cualificados y confiables para los puestos de trabajo.
+
+Datos estadísticos basados en las entrevistas proporcionadas:
+
+<b>Valor de la Experiencia y Compromiso:</b>
+
+- El 60% de los empleadores entrevistados valoran la experiencia laboral en los candidatos.
+
+- El 100% de los entrevistados destacó la importancia del compromiso y la disposición para aprender. Esto resalta la diversidad de enfoques en la contratación, donde algunos consideran crucial la experiencia, mientras que otros están dispuestos a dar oportunidades a aquellos sin experiencia.
+
+<b>Características Clave de la Aplicación:</b>
+
+- El 100% de los empleadores enfatiza la importancia de características como la facilidad de uso, la retroalimentación y la adaptabilidad en la aplicación. Esto sugiere una demanda común por una plataforma eficiente y amigable para facilitar la búsqueda y selección de trabajadores temporales.
+
+<b>Necesidad de Trabajadores Cualificados:</b>
+- El 100% de los empleadores destaca la necesidad de encontrar candidatos cualificados y confiables para los puestos de trabajo. Esto subraya la importancia de la selección de personal en la contratación de trabajadores temporales.
+
+<b>Mejora en el Proceso de Contratación:</b>
+- El 100% de los entrevistados ve el potencial de la aplicación "ChambeaPe" para mejorar el proceso de contratación de trabajadores temporales, lo que indica un interés general en esta herramienta.
+
+<b>Personalización y Filtrado:</b>
+
+- Algunos empleadores expresaron la necesidad de características de filtrado y personalización en la aplicación para optimizar la búsqueda y selección de candidatos adecuados.
+
+<b>Características Deseadas en la Aplicación "ChambeaPe" por Empleadores:</b>
+
+<b>Facilidad de Uso:</b> 
+- El 100% de los empleadores destacó la importancia de que la aplicación sea fácil de usar. Esto subraya la necesidad de una interfaz intuitiva y accesible para optimizar la experiencia del usuario.
+
+<b>Retroalimentación (Feedback):</b> 
+- El 100% de los empleadores expresó interés en la retroalimentación como una característica esencial. Valoraron la capacidad de proporcionar y recibir comentarios sobre los trabajadores temporales, lo que contribuiría a una mejor selección y mejora continua.
+
+<b>Adaptabilidad:</b> 
+- El 100% de los entrevistados considera importante que la aplicación sea adaptable a diferentes necesidades y tipos de trabajos temporales. Esto refleja la diversidad de empleadores y trabajos que podrían utilizar la plataforma.
+
+<b>Verificación de Certificados:</b> 
+
+- No se mencionó específicamente en las entrevistas, pero podría ser una característica importante para algunos empleadores, especialmente aquellos que buscan candidatos con certificaciones específicas.
+Información Detallada de los Trabajadores Temporales: Aunque no se mencionó en las entrevistas, es plausible que los empleadores deseen acceder a información detallada sobre los trabajadores temporales, como su experiencia laboral previa, habilidades, reseñas anteriores y disponibilidad.
+
+<b>Personalización y Filtrado:</b> 
+- Algunos empleadores expresaron la necesidad de características de filtrado y personalización en la aplicación. Esto podría incluir la capacidad de establecer criterios específicos para la búsqueda de candidatos y la personalización de las ofertas de trabajo.
+
+En resumen, estas entrevistas reflejan la variedad de enfoques en la contratación y la disposición a utilizar herramientas como "ChambeaPe" para mejorar este proceso. Mientras algunos valoran la experiencia, otros priorizan el compromiso y la disposición para aprender, lo que destaca la importancia de ofrecer oportunidades a individuos sin experiencia laboral. La facilidad de uso y la calidad de los candidatos son aspectos clave en la consideración de una aplicación de búsqueda de trabajadores temporales.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
