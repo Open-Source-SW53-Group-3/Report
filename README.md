@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
     <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TP1
+    <br>INFORME DE TRABAJO FINAL - TB2
 </p>
 
 <p align="center">
@@ -3176,7 +3176,7 @@ En resumen, estas entrevistas reflejan la variedad de enfoques en la contrataci�
             Como chambeador quiero manejar mis certificados para tener una mejor oportunidad laboral.
         </td>
         <td>
-            5
+            8
         </td>
     </tr>
     <tr>
@@ -3312,7 +3312,7 @@ En resumen, estas entrevistas reflejan la variedad de enfoques en la contrataci�
             Como usuario, quiero manejar la información de mi perfil para mantener mis datos personales actualizados.
         </td>
         <td>
-            2
+            3
         </td>
     </tr>
     <tr>
@@ -3363,7 +3363,7 @@ En resumen, estas entrevistas reflejan la variedad de enfoques en la contrataci�
             Como empleador quiero quiero dejar una reseña sobre la experiencia con el chambeador después de que el trabajo se haya completado para calificar su servicio.
         </td>
         <td>
-            3
+            5
         </td>
     </tr>
     <tr>
@@ -3517,6 +3517,23 @@ En resumen, estas entrevistas reflejan la variedad de enfoques en la contrataci�
         </td>
         <td>
             3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            28
+        </td>
+        <td>
+            28
+        </td>
+        <td>
+            Página no encontrada
+        </td>
+        <td>
+            Como usuario quiero visualizar un apartado especial cuando no sea la ruta correcta para saber que estoy ingresando un ruta erronea.
+        </td>
+        <td>
+            1
         </td>
     </tr>
 </table>
@@ -6057,6 +6074,301 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="chapter 5.2.2.8"  width="100%"> <img>
 
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="chapter 5.2.2.8"  width="100%"> <img>
+
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2, se logró desarrollar vistas de front-end y se implemntó un faso RESTful API con la ayuda de la aplicación MockAPI para simular el comportamiento de un servidor. Se logró implementar las funcionalidades de visualización de perfiles de chambeadores, creación de anuncios de trabajo, edición de anuncios de trabajo y eliminación de anuncios de trabajo. También se añadieron las funcionalidades de inicio de sesión, registro, visualización de perfiles de chambeadores, creación de anuncios de trabajo, cambio de contraseña y recuperación de contraseña. Cabe destacar que faltó la valicación en los formularios y la implementación responsive. Por último, desplegamos la aplicación web en google firebase.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el prsente sprint 3 se plantea avanzar con las vistas core faltantes en el front-end como el manejo de certificados, la implementación del chat con el usuario, el reseñar al chambeador, administrar tarjetas, entre otros. 
+        En este spring se planea comenzar a desarrollar el RESTful API con el framework de Spring Boot y la base de datos MySQL. Al finalizar este sprint se espera tener un prototipo funcional de la aplicación web y comenzar a trabajar en el despliegue de la aplicación en un servidor.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            33
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+
+#### 5.2.3.2. Sprint Backlog 3
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello]()
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="4">US-03</td>
+       <td rowspan="4">Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar informacion del perfil</td>
+       <td>Desarrollar funcionalidad del Carrusel de trabajos del chambeador </td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar espacio de información del usuario</td>
+       <td>Desarrollar funcionalidad que permite al empleador ver el apartado del perfil del usuario  </td>
+       <td>1.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Agregar apartado de certificados y comentarios</td>
+       <td>Desarrollar la funcionalidad para permitir a los empleadores ver solo el ultimo certificado y ultimo comentario del chambeador.</td>
+       <td>1,5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar API de perfil</td>
+       <td>Desarrollar la funcionalidad para permitir contruir un endpoint para el perfil de los chambeadores</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US12</td>
+       <td rowspan="3">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Implementar Chat empleador y chambeador</td>
+       <td>Desarrollar componentes visuales del chat para que los empleadores y los chambeadores interactuen durante el proyecto a desarrollar.</td>
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar CSS </td></td>
+       <td>Desarrollar la funcionalidad para hacer nuestro chat responsive e interactivo.</td>
+       <td>2</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar chat con Websocket</td>
+       <td>Desarrollar de un sistema de chat que permita la comunicación entre el usuario chambeador y empleador</td>
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>In progress</td>
+    </tr>
+    </tr>
+    <tr>
+       <td rowspan="2">US-5</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+        <td>T01</td>
+        <td>Implementar crear una reseña</td>
+        <td>Desarrollar la funcionalidad para que los empleadores puedan reseñar a los chambeadores con lo que ha trabajado.</td>
+        <td>3</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Implementar CSS</td>
+        <td>Agregar estilos en los componentes y hacelro responsive</td>
+        <td>0,5</td>
+        <td>Diego Esquivel</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="3">US-18</td>
+       <td rowspan="3">Personalizar interface de usuario</td>
+        <td>T01</td>
+        <td>Configurar apartado apariencia</td>
+        <td>Implementar componente de configuracion en el aplicativo.</td>
+        <td>1</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Adaptar Idioma</td>
+        <td>Implementar configuración para tener el idioma de ingles y español en nuestra web</td>
+        <td>4</td>
+        <td>Steve Castillo</td>
+        <td>To do</td>
+    </tr> 
+    <tr>
+        <td>T03</td>
+        <td>Implementar tema</td>
+        <td>Desarrollar funcionalidad para implementar tema de acuerdo al gusto del usuario, tanto claro como oscuro</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>In progress</td>
+    </tr> 
+    <tr>
+       <td rowspan="3">US-23</td>
+       <td rowspan="3">Manejar certificados</td>
+        <td>T01</td>
+        <td>Añadir y editar certificado</td>
+        <td>Desarrollar funcionalidad para editar y añadir un certificado con el mismo dialog para comodidad del usuario</td>
+        <td>4</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Visualizar certificado</td>
+        <td>Desarrollar funcionaliad para visualizar un dialog para ver los certificados</td>
+        <td>3</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+        <td>T03</td>
+        <td>Desarrollo de endpoint</td>
+        <td>Implementar endpoint para los certificados en nuestro backend con los servicios, repositorios, entre otros</td></td>
+        <td>4</td>
+        <td>Jennifer Espinoza</td>
+        <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="1">US-24</td>
+       <td rowspan="1">Página no encontrada</td>
+        <td>T01</td>
+        <td>Apartado de "Page not found"</td>
+        <td>Implementar vista de página no encuntrada para rutas no existentes. </td>
+        <td>0,5</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+    </tr>
+   </table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+<br>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3 Validation Interview
+### 5.3.1 Diseño de Entrevistas
+### 5.3.2 Registro de Entrevistas
+### 5.3.3 Evaluación según heurísticas
+
+## 5.4 Video About the Product
+
+
 
 # Conclusiones 
 
