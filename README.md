@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW53</strong><br>
     <strong>Profesor: Elio Jefferrson Navarrete Vilca</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TP1
+    <br>INFORME DE TRABAJO FINAL - TB2
 </p>
 
 <p align="center">
@@ -6057,6 +6057,112 @@ Al igual que en el primer sprint, continuaremos utilizando el servicio de implem
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362888328519730/image.png?ex=6514b25c&is=651360dc&hm=4328db214492e6ffc3942fd8960bdcfb7eb5c264156d3fdd7933d13de01e8ea8&=&width=2782&height=1242" alt="chapter 5.2.2.8"  width="100%"> <img>
 
 <img src="https://media.discordapp.net/attachments/1142626132357828689/1156362975242899536/image.png?ex=6514b271&is=651360f1&hm=d22dc9560d7e6e5bef2209fafa9c650c7acd4358b45b585ce755f2efb11025a8&=&width=2880&height=1172" alt="chapter 5.2.2.8"  width="100%"> <img>
+
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 2, se logró desarrollar vistas de front-end y se implemntó un faso RESTful API con la ayuda de la aplicación MockAPI para simular el comportamiento de un servidor. Se logró implementar las funcionalidades de visualización de perfiles de chambeadores, creación de anuncios de trabajo, edición de anuncios de trabajo y eliminación de anuncios de trabajo. También se añadieron las funcionalidades de inicio de sesión, registro, visualización de perfiles de chambeadores, creación de anuncios de trabajo, cambio de contraseña y recuperación de contraseña. Cabe destacar que faltó la valicación en los formularios y la implementación responsive. Por último, desplegamos la aplicación web en google firebase.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el prsente sprint 3 se plantea avanzar con las vistas core faltantes en el front-end como el manejo de certificados, la implementación del chat con el usuario, el reseñar al chambeador, administrar tarjetas, entre otros. 
+        En este spring se planea comenzar a desarrollar el RESTful API con el framework de Spring Boot y la base de datos MySQL. Al finalizar este sprint se espera tener un prototipo funcional de la aplicación web y comenzar a trabajar en el despliegue de la aplicación en un servidor.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+</table>
+</br>
+<br>
 
 # Conclusiones 
 
