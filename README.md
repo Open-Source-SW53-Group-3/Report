@@ -6357,6 +6357,32 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+- API ChambeaPe: https://chambeapeapi.azurewebsites.net/api/v1/
+
+A continuación se muestra la implementación del método responsable de la creación y actualización del post de un empleador.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131783644364821/idea64_wYuMXPh8RT.png?ex=6557ed25&is=65457825&hm=3583e837ba2dfe8ce0348a45c7ee02173503aeaafe5ae0f9f9370495aa5aa215&=&width=658&height=897" alt="Create Post"  width="100%"> <img>
+
+Aquí se muestra la implementación de los métodos de creación, actualización y obtención de los certificados de un chambeador, los cuales aparecerán en su perfil.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131784151863377/idea64_3iXoLJrf0c.png?ex=6557ed25&is=65457825&hm=1f8f7e247de7454ff1e1d4d8160865ee69de778daf9e7bc38e3a2cc0d05e3de8&=&width=956&height=897" alt="Certificate"  width="100%"> <img>
+
+Métodos para validación, actualización y eliminación de un chambeador.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131782897766430/idea64_gotkoTzEl1.png?ex=6557ed25&is=65457825&hm=1a52147fbb1e42b5cf243ac3fedf453a0e170efc9dc21a5cc4817847658e7ce8&=&width=766&height=897" alt="Worker Domain"  width="100%"> <img>
+
+JSON de respuesta de un post
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131784940404829/opera_unuDOs82kV.png?ex=6557ed25&is=65457825&hm=195ba80624d55d4f22f8230731cf49e23f5a4dfcf26b5245133ba0ba6557aa07&=&width=1852&height=896" alt="JSON Post"  width="100%"> <img>
+
+JSON de respuesta de un certificate
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131782352515164/opera_YRdknFkZD1.png?ex=6557ed24&is=65457824&hm=21f049ee12b5bf89a371093a837fe691c1afe5da5f432afeae7fe2a4172f0070&=&width=1597&height=523" alt="JSON Certificate"  width="100%"> <img>
+
+JSON de respuesta de un chambeador
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170131784541941820/opera_WGmJ5bXdGI.png?ex=6557ed25&is=65457825&hm=67e60abbb0ca936143622b6a834beb61a5cc26b61b6a38c5ba9425a335fb6c13&=&width=1142&height=897" alt="JSON Chambeador"  width="100%"> <img>
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
