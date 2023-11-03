@@ -6384,6 +6384,61 @@ JSON de respuesta de un chambeador
 <img src="https://media.discordapp.net/attachments/1088250517282640072/1170131784541941820/opera_WGmJ5bXdGI.png?ex=6557ed25&is=65457825&hm=67e60abbb0ca936143622b6a834beb61a5cc26b61b6a38c5ba9425a335fb6c13&=&width=1142&height=897" alt="JSON Chambeador"  width="100%"> <img>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+A continuación se muestra el Swagger de los servicios que se han desarrollado para este sprint backlog. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure
+
+A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
+
+<img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="ChambeapePe API"  width="100%"> <img>
+
+
+<table align="left" border="1" width="100%">
+        <tr>
+            <th>Services</th>
+            <th>Evidencia</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <th>Url Base</th>
+            <td>
+            <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="API"  width="100%"> <img>
+            </td>
+            <td>Este es nuestro Swagger del API de ChambeaPe que maneja todos los controladores</td>
+        </tr>
+        <tr>
+            <th>Employer</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477546266804/opera_bFiYUUqv9F.png?ex=6557f272&is=65457d72&hm=49258443a0d205caf7bc59a31d63d1df67b713947a967a847ad2fed5a90655e7&=&width=583&height=438" alt="Endpoint Employer"  width="100%"></td>
+            <td>Endpoint Employer </td>
+        </tr>
+        <tr>
+            <th>Worker</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478724861963/opera_0Upoe9YZKf.png?ex=6557f273&is=65457d73&hm=a53539fdde5d9c18e4e62f74b690ffcefef8c98b5395d4a89b339748fa5a6d78&=&width=543&height=426" alt="Endpoint Worker"  width="100%"></td>
+            <td>Endpoint Worker.</td>
+        </tr>
+        <tr>
+            <th>Certificate</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478473191454/opera_X5gexOJJak.png?ex=6557f272&is=65457d72&hm=7d57e36d0b3a77bc032c5de1176804ad69fa835ac6dfad6f4a246748ccf6b4f4&=&width=885&height=516" alt="Endpoint Certificate"  width="100%"></td>
+            <td>Endpoint Certificate</td>
+        </tr>
+        <tr>
+            <th>Postulation</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478246715452/opera_E6zeYQ4OY7.png?ex=6557f272&is=65457d72&hm=d4978819427433454005fe19c5fd4ac37f83a7b6212c8339f7eeb3336c3b5c8e&=&width=878&height=418" alt="Endpoint Postulation"  width="100%"></td>
+            <td>Endpoint Postulation</td>
+        </tr>
+        <tr>
+            <th>Post</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477999247511/opera_r5JkdZQIS1.png?ex=6557f272&is=65457d72&hm=f20ff5860b9d8bfcfc2c056823a6b36056ef1b72e5188791b9c829cd300b46d0&=&width=746&height=601" alt="Endpoint Post"  width="100%"></td>
+            <td>Endpoint Post</td>
+        </tr>
+        <tr>
+            <th>User</th>
+            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477768548524/opera_1zgCzSmwDz.png?ex=6557f272&is=65457d72&hm=9e488962a8c770c04533375d2de317b0feb386eadafdd40f2defb9232f72974e&=&width=548&height=427" alt="Endpoint User"  width="100%"></td>
+            <td>Endpoint User</td>
+        </tr>
+    </table>
+
+<br><br>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
