@@ -6466,6 +6466,14 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170144574832914543/opera_FO2Ue4EazF.png?ex=6557f90e&is=6545840e&hm=7e699f876ff3038df6d3d6e574303ebd4f6dc36e0fea2f86789e14438785b559&=&width=1395&height=497" alt="Insights 1"  width="70%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170144574556086332/opera_TLB72jsvKE.png?ex=6557f90e&is=6545840e&hm=1ff5118b174e8ffcaa9b330a988845a6730f0c36ef24dc74f539f0262f4d41e3&=&width=1408&height=570" alt="Insights 2"  width="70%"/>
+</div>
+
 ## 5.3 Validation Interview
 ### 5.3.1 Diseño de Entrevistas
 ### 5.3.2 Registro de Entrevistas
