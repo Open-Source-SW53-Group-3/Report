@@ -55,7 +55,7 @@
 <br><br>
 
 # Project Report Collaboration Insights
-<br><br>
+<br>
 
 # Contenido
 ## Tabla de Contenidos
@@ -6250,7 +6250,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Implementar Chat empleador y chambeador</td>
        <td>Desarrollar componentes visuales del chat para que los empleadores y los chambeadores interactuen durante el proyecto a desarrollar.</td>
        <td>4</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Del Carmen</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -6258,7 +6258,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Implementar CSS </td></td>
        <td>Desarrollar la funcionalidad para hacer nuestro chat responsive e interactivo.</td>
        <td>2</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Del Carmen</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -6277,7 +6277,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>Implementar crear una reseña</td>
         <td>Desarrollar la funcionalidad para que los empleadores puedan reseñar a los chambeadores con lo que ha trabajado.</td>
         <td>3</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -6285,7 +6285,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>Implementar CSS</td>
         <td>Agregar estilos en los componentes y hacelro responsive</td>
         <td>0,5</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>Done</td>
     </tr> 
     <tr>
@@ -6475,11 +6475,420 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 </div>
 
 ## 5.3 Validation Interview
+A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
+
 ### 5.3.1 Diseño de Entrevistas
+Para la entrevista se realizaron las siguientes preguntas:
+
+- Preguntas generales:
+    - ¿Cómo te llamas?
+    - ¿Cuántos años tienes?
+    - ¿Dónde vives actualmente?
+    - ¿A qué te dedicas?
+
+Segmento: Chambeador
+- Después de ver nuestra presentación, ¿crees que la aplicación abordará de manera efectiva los desafíos que enfrentas al buscar trabajos temporales o proyectos?
+- ¿Crees que ChambeaPe te ayudará a encontrar trabajos temporales de manera más eficiente?
+- ¿Encuentras que la aplicación es didáctica y fácil de entender, o tienes sugerencias para mejorarla?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia usarías la aplicación para buscar trabajos temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros trabajadores por tus redes sociales?
+
+Segmento: Empleador
+- Después de ver nuestra presentación del prototipo, ¿crees que la aplicación te ayudará a encontrar candidatos para trabajos temporales o proyectos de manera efectiva?
+- ¿Crees que ChambeaPe facilita la contratación de trabajadores temporales según tus necesidades?
+- ¿Encuentras que la aplicación te proporciona candidatos con las cualidades y habilidades que buscas?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia utilizarías la aplicación para buscar y contratar trabajadores temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del empleador?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros empleadores por tus redes sociales?
+
 ### 5.3.2 Registro de Entrevistas
+
+### Segmento 01: (Chambeadores)
+
+**Entrevista 01**
+
+Nombres: Viviana
+
+Apellidos: Huamán Pinedo
+
+Edad: 23 años
+
+Distrito: San Miguel
+
+Evidencia de la reunión:
+<div align=center>
+<img src="https://media.discordapp.net/attachments/698313102587985970/1169484012318896198/vlc_UImKhahxUv.png?ex=655591dc&is=65431cdc&hm=84ab0df9638c08ebe0db4036db1991e8d56b052d6d4ee0c4b25e2124fb190053&=&width=1678&height=897" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 00:17
+
+Fin: 03:50
+
+Enlace de entrevista: [Entrevista a Viviana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=nsg6eP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuODJ9fQ%3D%3D)
+
+Resumen de la entrevista:
+
+La entrevista se llevó a cabo con Viviana, una joven de 23 años que reside en el distrito de San Miguel. Actualmente se encuentra estudiando administración de negocios globales en la Universidad Ricardo Palma y trabajando a tiempo parcial. Viviana compartió sus perspectivas sobre la aplicación y expresó que cree que esta podría abordar los desafíos que enfrenta al buscar trabajos temporales, brindando flexibilidad en horarios. Por ello, menciona que se encuentra sumamente interesada en la página presentada.
+
+Ella considera que la página es didáctica y fácil de entender, aunque sugiere algunas mejoras en cuanto a la ubicación de elementos, particularmente en la función de chat, pues indica que debería estar en un lugar más visible. También indicó que tiene la intención de usar la aplicación cuando necesite buscar trabajos temporales o esté a punto de cambiar de trabajo.
+
+Entre los aspectos que más le agradaron de la página se encuentra la plantilla de diseño y la capacidad de copiar imágenes de Internet. Sin embargo, también señaló que sería beneficioso agregar una opción para agregar más imágenes.
+
+Un aspecto destacado de la entrevista es que Viviana está dispuesta a recomendar la aplicación a otros trabajadores interesados en trabajos temporales, ya que considera que esto podría contribuir a la creación de una comunidad más amplia de usuarios.
+
+En síntesis, la entrevistada proporcionó una visión generalmente positiva de la aplicación, destacando su utilidad potencial, facilidad de uso y el valor de una comunidad de usuarios en crecimiento.
+
+
+**Entrevista 02**
+
+Nombres:  Alanis Gabriela
+
+Apellidos:  Tellez Caceres
+
+Edad: 21 años
+
+Distrito:  Rímac, Lima
+
+Evidencia de la reunión: [Entrevista a Alanis](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=LMCV6i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIzMy4xMn19)
+
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1157361311060066345/1167629636742688798/image.png?ex=654ed2d6&is=653c5dd6&hm=9aee625b673963b3dda093dc24a786a7e95296632480fce878583d58c9891545&=&width=1482&height=1118" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 03:51
+
+Fin: 08:50
+
+Enlace de entrevista: 
+
+Resumen de la entrevista:
+
+En la entrevista, Alanis, una estudiante de turismo con interés en repostería, compartió su visión sobre la aplicación ChambeaPe. Si bien reconoció el potencial de la plataforma para la búsqueda de trabajos temporales, destacó la necesidad de mejoras en la interfaz y la experiencia del usuario. Alanis valoró positivamente la presencia de un chat de soporte y el atractivo diseño de la aplicación, aunque sugirió que la interactividad podría ser una adición valiosa. Planea utilizar ChambeaPe con regularidad durante su búsqueda de empleo temporal y expresó su disposición a recomendar la aplicación a otros trabajadores en busca de oportunidades temporales, subrayando la importancia de las mejoras continuas en la plataforma para satisfacer las necesidades de los usuarios.
+
+En resumen, la entrevista con Alanis revela sus observaciones y sugerencias para mejorar ChambeaPe, destacando su disposición a utilizar la aplicación y promocionarla entre sus colegas si se implementan mejoras que hagan que la experiencia sea aún más efectiva y amigable para los usuarios.
+
+**Entrevista 03**
+
+Nombres: Agustin Alejandro
+
+Apellidos: Aguilar Lindo
+
+Edad: 22 años
+
+Distrito:  Breña, Lima
+
+Evidencia de la reunión: [Entrevista a Agustín](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=UbX6Zi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjUzMC44N319)
+
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1145583761182965852/1170143640312610907/image.png?ex=6557f830&is=65458330&hm=00e6bff3eb5f4a4cd4bde7d9e64f44a2ebbb25f5e5c88dcb07e65196ec0ca4f4&=&width=1560&height=814" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 08:50
+
+Fin: 12:37
+
+Enlace de entrevista: 
+
+Resumen de la entrevista:
+
+En la entrevista, Agustín Aguilar elogió la aplicación "ChambeaPe" por su interfaz bien organizada y las funcionalidades ideales para la búsqueda de trabajos temporales. Como usuario activo en la búsqueda de empleo ocasional, destacó que le resulta fácil encontrar y acceder a los anuncios publicados por los empleadores en la plataforma.
+
+Sin embargo, Agustín también identificó algunas áreas de mejora. Mencionó que la legibilidad de ciertos textos era un problema debido al tamaño de fuente reducido, lo que dificultaba su experiencia de uso. Además, expresó su deseo de contar con una mayor variedad de colores en la interfaz para mejorar la distinción entre elementos y señaló que los tamaños de los botones necesitaban una revisión.
+
+A pesar de estas sugerencias, Agustín enfatizó su disposición a utilizar constantemente la aplicación "ChambeaPe" si ve resultados satisfactorios. También expresó su voluntad de recomendar la aplicación a sus amigos, considerándola una herramienta valiosa para personas que buscan trabajos temporales.
+
+Finalmente, Agustín aportó la idea de implementar un modo oscuro en la aplicación. Esto se debe a su preferencia por esta configuración en sus aplicaciones de uso diario, ya que le ayuda a reducir la fatiga visual, especialmente debido a su uso de lentes.
+
+En resumen, Agustín Aguilar elogió la funcionalidad y utilidad de la aplicación "ChambeaPe" para la búsqueda de empleos temporales, pero sugirió mejoras en la legibilidad, la paleta de colores y el tamaño de los botones. Además, destacó su disposición a utilizarla activamente y recomendarla a otros, resaltando su potencial para ayudar a personas en búsqueda de trabajos temporales. También propuso la implementación de un modo oscuro como una futura funcionalidad.
+
+### SEGMENTO 02: (Empleadores)
+
+**Entrevista 01**
+
+Nombres: Claudia 
+
+Apellidos:  Rios Piña
+
+Edad: 22 años
+
+Distrito:  Jesus María
+
+Evidencia de la reunión: [Entrevista a Claudia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=QHT0Jc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc5OC41fX0%3D)
+
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1157361311060066345/1167619317475573830/image.png?ex=654ec93a&is=653c543a&hm=9e16d4aa2d41a4ca68abd8e26c9253322ec3abd694a58a726450fa16cbcc5947&=&width=2298&height=1242" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 13:18
+
+Fin: 17:37
+
+Enlace de entrevista: 
+
+Resumen de la entrevista:
+
+En esta entrevista, inicié la conversación presentándome y explorando la opinión de Claudia Ríos acerca de la aplicación ChambeaPe. Claudia, una profesional en repostería, elogió la plataforma por su eficacia en la búsqueda de candidatos para trabajos temporales y proyectos. Destacó la amplitud de la base de datos de chambeadores y las herramientas útiles para la contratación. Aunque Claudia encontró la aplicación útil, ofreció sugerencias para mejorarla. Propuso ajustes en la búsqueda y en los filtros de candidatos, así como una mayor interactividad en el diseño.
+
+Claudia compartió que planea utilizar la aplicación regularmente en su negocio de repostería, especialmente durante los períodos de alta demanda, como festividades. También expresó su disposición a recomendar ChambeaPe a otros empleadores, especialmente si la aplicación continúa evolucionando y mejorando. Al final de la entrevista, expresé mi agradecimiento a Claudia por sus valiosas opiniones y sugerencias, reconociendo su contribución al desarrollo de la aplicación ChambeaPe.
+
+En esta entrevista,  tuve la oportunidad de conversar con Claudia Ríos sobre su experiencia y opiniones con respecto a la aplicación ChambeaPe. Comenzamos con una introducción, en la que me presenté y expliqué el propósito de la entrevista, que era evaluar la aplicación.
+
+Claudia, una profesional de la repostería, compartió su visión positiva de Chambeap, destacando su efectividad en la búsqueda de candidatos para trabajos temporales y proyectos. Mencionó que la plataforma ofrecía una amplia base de datos de chambeadores y herramientas útiles para la contratación, lo que facilitaba su proceso de selección de personal.
+
+Sin embargo, también ofreció valiosas sugerencias de mejora. Señaló la necesidad de ajustes en la búsqueda y los filtros de candidatos, así como la posibilidad de hacer el diseño de la aplicación más interactivo para una experiencia aún más atractiva. Claudia expresó su intención de utilizar la aplicación de manera regular, especialmente durante los períodos de alta demanda en su negocio de repostería, como festividades.
+
+Finalmente, se mostró dispuesta a recomendar ChambeaPe a otros empleadores, subrayando su disposición a hacerlo a medida que la aplicación continúe evolucionando y mejorando. Al concluir la entrevista, agradecí a Claudia por su tiempo y valiosas contribuciones para el desarrollo de la aplicación ChambeaPe.
+
+**Entrevista 02**
+
+Nombres: José Carlos Isaac
+
+Apellidos: Ampudia Flores
+
+Edad: 19
+
+Distrito: Surco
+
+Evidencia de la reunión: [Entrevista a José](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=2WANqy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEwNTQuNTJ9fQ%3D%3D)
+
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1169796230306603058/image.png?ex=6556b4a3&is=65443fa3&hm=7f7848b10df69afd426090f36a8f201e2e0687080f39f70b21278d4b5981d13e&=&width=1074&height=389" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 17:34
+
+Fin: 21:12
+
+Enlace de entrevista: 
+
+Resumen de la entrevista:
+
+En la entrevista con Isaac, se exploraron sus impresiones sobre la aplicación Chambeap. Isaac expresó su confianza en la versatilidad de la aplicación, considerándola una herramienta eficaz para encontrar candidatos para trabajos temporales o proyectos. Destacó la clasificación de los trabajadores según las necesidades del empleador como un punto fuerte de la plataforma. Isaac elogió el atractivo diseño y la usabilidad de la aplicación, destacando su comodidad durante la navegación. Además, indicó que la aplicación sería de uso frecuente para él, lo que podría facilitar la gestión de tareas en su hogar. Finalmente, se mostró dispuesto a recomendar Chambeap debido a su capacidad para conectar a personas en busca de trabajo con empleadores de manera eficiente y conveniente.
+
+**Entrevista 03**
+
+Nombres: Bruce Andres 
+
+Apellidos: Cipriano Chumbes
+
+Edad: 23 años
+
+Distrito:  San Juan de Lurigancho
+
+Evidencia de la reunión: [Entrevista a Bruce](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=2WANqy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEwNTQuNTJ9fQ%3D%3D)
+
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1145583761182965852/1170144173505126461/image.png?ex=6557f8af&is=654583af&hm=51ed504926bfecb0c620cac4b79a1dd00e0682baf6edaf7880134586e810a329&=&width=1447&height=814" alt="Entrevista 2"  width="90%"/>
+</div>
+
+Inicio: 21:12
+
+Fin: 26: 52
+
+Resumen de la entrevista:
+
+En la entrevista, Bruce Cipriano expresó su satisfacción con la aplicación "ChambeaPe", destacando que es una herramienta ideal para solicitar y encontrar trabajadores temporales calificados. Mencionó que esta aplicación cuenta con características que le permiten lograr este propósito de manera efectiva.
+
+Bruce elogió la aplicación por su intuición y facilidad de uso, lo que la hace perfecta para sus necesidades. Como usuario activo que busca trabajadores temporales con regularidad, indicó que "ChambeaPe" se ajusta perfectamente a sus requerimientos.
+
+Sin embargo, señaló un área de mejora, que es el tamaño de las letras en la aplicación. Bruce experimenta dificultades para leer algunos textos debido a su tamaño reducido. Esta es una consideración importante para mejorar la experiencia del usuario.
+
+Bruce utilizará la aplicación con frecuencia, especialmente porque, como estudiante, a menudo carece de tiempo para realizar tareas como el riego de sus plantas. "ChambeaPe" le brinda la posibilidad de encontrar a alguien que le ayude con el cuidado de sus plantas y otras tareas similares.
+
+Además, Bruce expresó su disposición para recomendar la aplicación a sus amigos, ya que cree que puede ser de gran ayuda para otros obstáculos que buscan personal calificado.
+
+Finalmente, le entusiasmó la idea de tener un modo oscuro en la aplicación, ya que le ayudaría a reducir la fatiga visual, especialmente cuando la usa durante largos periodos de tiempo.
+
+En resumen, Bruce Cipriano elogió la idoneidad de la aplicación "ChambeaPe" para encontrar trabajadores temporales calificados, así como su facilidad de uso. Destacó la importancia de mejorar el tamaño de las letras en la aplicación y expresó su disposición a utilizarla con regularidad, recomendándola a sus amigos. Además, apoyó la idea de implementar un modo oscuro en la aplicación para reducir la fatiga visual.
+
 ### 5.3.3 Evaluación según heurísticas
+#### <div align="center">UX Heuristics & Principles Evaluation</div>
+
+##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
+
+<b> Carrera: </b> Ingeniería de Software
+<b> Curso: </b> Aplicaciones Web
+<b> Sección: </b> SW53
+<b> Profesores: </b> TODOS
+<b> Auditor: </b> Digital Dart
+
+<b> <em> SITE O APP A EVALUAR: </em> </b> <br>
+ChambeaPe
+
+<b> <em> TAREAS A EVALUAR: </em> </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Crear cuenta
+- Crear petición de trabajo
+- Buscar trabajos
+- Ver perfil de Chambeador
+- Ver perfil de Empleador
+- Ver petición de trabajo
+- Ver trabajos
+
+No están incluídas en esta versión de la evaluación las siguientes tareas:
+
+- Ver mensajes (chat entre Chambeadores y Empleadores)
+- Ayuda, términos y condiciones, política de privacidad, información de soporte
+
+<b> <em> ESCALA DE SEVERIDAD: </em> </b> <br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>
+            <b>Nivel</b>
+        </th>
+        <th>
+            Descripción
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <b>1</b>
+        </td>
+        <td align="left">
+            Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>2</b>
+        </td>
+        <td align="left">
+            Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>3</b>
+        </td>
+        <td align="left">
+            Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>4</b>
+        </td>
+        <td align="left">
+            Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+        </td>
+    </tr>
+</table>
+
+<b> <em> TABLA DE RESUMEN: </em> </b> <br>
+La siguiente tabla resume los resultados de la evaluación:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">El usuario no puede crear un perfil de Chambeador con su cuenta de Google</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">No hay un filtro especializado para encontrar el tipo de trabajo que se requiere</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">El perfil de otros Empleadores o Chambeadores no está completamente habilitado</td>
+        <td>2</td>
+        <td align="left">Usability: Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">Los trabajos no tienen una categorización específica</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">La lista de trabajos no tiene un filtro</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+</table>
+
+<b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
+
+**PROBLEMA #1:** El usuario no puede crear un perfil de Chambeador con su cuenta de Google.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+El usuario no puede crear un perfil de Chambeador con su cuenta de Google. A pesar de que la opción de registro con Google está presente, no funciona correctamente, lo que puede causar frustración en los usuarios que prefieren este método de registro.
+<b>Recomedación:</b>
+Se recomienda que se corrija este error para que los usuarios puedan registrarse con su cuenta de Google. <br>
+
+**PROBLEMA #2:** Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares.
+<b>Problema:</b>
+Crear una petición de trabajo es tedioso debido a la cantidad de campos requeridos. Este proceso puede ser abrumador y desalentar a los usuarios a completar la tarea.
+<b>Recomedación:</b>
+Se recomienda que se reduzca la cantidad de campos requeridos para crear una petición de trabajo. <br>
+
+**PROBLEMA #3:** No hay un filtro especializado para encontrar el tipo de trabajo que se requiere.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+No hay un filtro especializado para encontrar el tipo de trabajo que se requiere. Esto puede hacer que la búsqueda de trabajos sea ineficiente y frustrante para los usuarios.
+<b>Recomedación:</b>
+Se recomienda que se agregue un filtro especializado para encontrar el tipo de trabajo que se requiere. <br>
+
+**PROBLEMA #4:** El perfil de otros Empleadores o Chambeadores no está completamente habilitado
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Visibilidad del estado del sistema.
+<b>Problema:</b>
+El perfil de otros Empleadores o Chambeadores no está completamente habilitado. Esto puede limitar la capacidad de los usuarios para obtener información relevante sobre otros usuarios.
+<b>Recomedación:</b>
+Se recomienda que se habilite la mayor cantidad de información posible en los perfiles de los usuarios. <br>
+
+**PROBLEMA #5:** Los trabajos no tienen una categorización específica
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares
+<b>Problema:</b>
+Los trabajos no tienen una categorización. Esto puede dificultar la búsqueda y el filtrado de trabajos, lo que puede resultar en una experiencia de usuario subóptima.
+
+<b>Recomedación:</b>
+Se recomienda que se agregue una categorización a los trabajos. para que así los usuarios puedan filtrarlos y encontrarlos más fácilmente. <br>
+
+**PROBLEMA #6:** La lista de trabajos no tiene un filtro
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+La lista de trabajos no tiene un filtro habilitado. Esto puede hacer que sea difícil para los usuarios encontrar trabajos específicos, lo que puede resultar en una experiencia de usuario frustrante.
+
+<b>Recomedación:</b>
+Se recomienda que se habilite un filtro en la lista de trabajos para que los usuarios puedan encontrar trabajos específicos más fácilmente.
+
 
 ## 5.4 Video About the Product
+
+
+El video que se muestra a continuación es un resumen de las funcionalidades de la aplicación ChambeaPe.
+
+<div align=center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VxcCWuWJsR4?si=TDuM-t3K52Sz7UBS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+</div>
 
 
 
