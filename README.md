@@ -55,7 +55,7 @@
 <br><br>
 
 # Project Report Collaboration Insights
-<br><br>
+<br>
 
 # Contenido
 ## Tabla de Contenidos
@@ -6388,7 +6388,35 @@ JSON de respuesta de un chambeador
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3 Validation Interview
+A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
+
 ### 5.3.1 Diseño de Entrevistas
+Para la entrevista se realizaron las siguientes preguntas:
+
+- Preguntas generales:
+    - ¿Cómo te llamas?
+    - ¿Cuántos años tienes?
+    - ¿Dónde vives actualmente?
+    - ¿A qué te dedicas?
+
+Segmento: Chambeador
+- Después de ver nuestra presentación, ¿crees que la aplicación abordará de manera efectiva los desafíos que enfrentas al buscar trabajos temporales o proyectos?
+- ¿Crees que ChambeaPe te ayudará a encontrar trabajos temporales de manera más eficiente?
+- ¿Encuentras que la aplicación es didáctica y fácil de entender, o tienes sugerencias para mejorarla?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia usarías la aplicación para buscar trabajos temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros trabajadores por tus redes sociales?
+
+Segmento: Empleador
+- Después de ver nuestra presentación del prototipo, ¿crees que la aplicación te ayudará a encontrar candidatos para trabajos temporales o proyectos de manera efectiva?
+- ¿Crees que ChambeaPe facilita la contratación de trabajadores temporales según tus necesidades?
+- ¿Encuentras que la aplicación te proporciona candidatos con las cualidades y habilidades que buscas?
+- ¿Qué opinas sobre la plantilla de diseño y la usabilidad de la aplicación?
+- ¿Con qué frecuencia utilizarías la aplicación para buscar y contratar trabajadores temporales?
+- ¿Qué aspectos te gustan más de ChambeaPe, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del empleador?
+- ¿Estarías dispuesto a recomendar ChambeaPe a otros empleadores por tus redes sociales?
+
 ### 5.3.2 Registro de Entrevistas
 ### 5.3.3 Evaluación según heurísticas
 
