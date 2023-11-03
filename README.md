@@ -6250,7 +6250,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Implementar Chat empleador y chambeador</td>
        <td>Desarrollar componentes visuales del chat para que los empleadores y los chambeadores interactuen durante el proyecto a desarrollar.</td>
        <td>4</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Del Carmen</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -6258,7 +6258,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>Implementar CSS </td></td>
        <td>Desarrollar la funcionalidad para hacer nuestro chat responsive e interactivo.</td>
        <td>2</td>
-       <td>Diego Esquivel</td>
+       <td>Ray Del Carmen</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -6277,7 +6277,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>Implementar crear una reseña</td>
         <td>Desarrollar la funcionalidad para que los empleadores puedan reseñar a los chambeadores con lo que ha trabajado.</td>
         <td>3</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>Done</td>
     </tr>
     <tr>
@@ -6285,7 +6285,7 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>Implementar CSS</td>
         <td>Agregar estilos en los componentes y hacelro responsive</td>
         <td>0,5</td>
-        <td>Diego Esquivel</td>
+        <td>Ray Del Carmen</td>
         <td>Done</td>
     </tr> 
     <tr>
@@ -6440,7 +6440,7 @@ Inicio: 00:17
 
 Fin: 03:50
 
-Enlace de entrevista: [Entrevista a Viviana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EZEjER7IOvBJr6aBI3Tu4lkBOsksgcCnLUcc8gWWDTvxwQ?e=YTlLSx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjUuMDN9fQ%3D%3D)
+Enlace de entrevista: [Entrevista a Viviana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=nsg6eP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuODJ9fQ%3D%3D)
 
 Resumen de la entrevista:
 
@@ -6454,6 +6454,7 @@ Un aspecto destacado de la entrevista es que Viviana está dispuesta a recomenda
 
 En síntesis, la entrevistada proporcionó una visión generalmente positiva de la aplicación, destacando su utilidad potencial, facilidad de uso y el valor de una comunidad de usuarios en crecimiento.
 
+
 **Entrevista 02**
 
 Nombres:  Alanis Gabriela
@@ -6464,7 +6465,7 @@ Edad: 21 años
 
 Distrito:  Rímac, Lima
 
-Evidencia de la reunión: [Entrevista a Alanis](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EZEjER7IOvBJr6aBI3Tu4lkBOsksgcCnLUcc8gWWDTvxwQ?e=Ya0fuU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIzMS44M319)
+Evidencia de la reunión: [Entrevista a Alanis](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=LMCV6i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIzMy4xMn19)
 
 <div align=center>
 <img src="https://media.discordapp.net/attachments/1157361311060066345/1167629636742688798/image.png?ex=654ed2d6&is=653c5dd6&hm=9aee625b673963b3dda093dc24a786a7e95296632480fce878583d58c9891545&=&width=1482&height=1118" alt="Entrevista 2"  width="90%"/>
@@ -6484,18 +6485,18 @@ En resumen, la entrevista con Alanis revela sus observaciones y sugerencias para
 
 **Entrevista 03**
 
-Nombres: Piero Alessandro
+Nombres: Agustin Alejandro
 
-Apellidos: Descalzi Saenz
+Apellidos: Aguilar Lindo
 
-Edad: 21 años
+Edad: 22 años
 
-Distrito:  Cercado, Lima
+Distrito:  Breña, Lima
 
-Evidencia de la reunión: [Entrevista a Piero](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EZEjER7IOvBJr6aBI3Tu4lkBOsksgcCnLUcc8gWWDTvxwQ?e=VfOfwe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjUzMC41Nn19)
+Evidencia de la reunión: [Entrevista a Agustín](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=UbX6Zi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjUzMC44N319)
 
 <div align=center>
-<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1169728181696217139/image.png?ex=65567543&is=65440043&hm=95a002fcee5c198d5b5812729f768e71def374cc3dc18737de259374a97d278e&" alt="Entrevista 2"  width="90%"/>
+<img src="https://media.discordapp.net/attachments/1145583761182965852/1170143640312610907/image.png?ex=6557f830&is=65458330&hm=00e6bff3eb5f4a4cd4bde7d9e64f44a2ebbb25f5e5c88dcb07e65196ec0ca4f4&=&width=1560&height=814" alt="Entrevista 2"  width="90%"/>
 </div>
 
 Inicio: 08:50
@@ -6506,7 +6507,15 @@ Enlace de entrevista:
 
 Resumen de la entrevista:
 
-En la entrevista, Piero expresó su confianza en que la aplicación le será de gran ayuda al buscar empleos temporales, destacando su potencial. Consideró que la aplicación es de fácil comprensión, aunque mencionó que le gustaría la capacidad de enviar imágenes a través del chat. Piero afirmó que utilizaría la aplicación con regularidad y apreció la posibilidad de negociar los costos de los trabajos. Además, indicó que recomendaría la aplicación a personas que están ingresando al mundo laboral, ya que la considera una herramienta valiosa.
+En la entrevista, Agustín Aguilar elogió la aplicación "ChambeaPe" por su interfaz bien organizada y las funcionalidades ideales para la búsqueda de trabajos temporales. Como usuario activo en la búsqueda de empleo ocasional, destacó que le resulta fácil encontrar y acceder a los anuncios publicados por los empleadores en la plataforma.
+
+Sin embargo, Agustín también identificó algunas áreas de mejora. Mencionó que la legibilidad de ciertos textos era un problema debido al tamaño de fuente reducido, lo que dificultaba su experiencia de uso. Además, expresó su deseo de contar con una mayor variedad de colores en la interfaz para mejorar la distinción entre elementos y señaló que los tamaños de los botones necesitaban una revisión.
+
+A pesar de estas sugerencias, Agustín enfatizó su disposición a utilizar constantemente la aplicación "ChambeaPe" si ve resultados satisfactorios. También expresó su voluntad de recomendar la aplicación a sus amigos, considerándola una herramienta valiosa para personas que buscan trabajos temporales.
+
+Finalmente, Agustín aportó la idea de implementar un modo oscuro en la aplicación. Esto se debe a su preferencia por esta configuración en sus aplicaciones de uso diario, ya que le ayuda a reducir la fatiga visual, especialmente debido a su uso de lentes.
+
+En resumen, Agustín Aguilar elogió la funcionalidad y utilidad de la aplicación "ChambeaPe" para la búsqueda de empleos temporales, pero sugirió mejoras en la legibilidad, la paleta de colores y el tamaño de los botones. Además, destacó su disposición a utilizarla activamente y recomendarla a otros, resaltando su potencial para ayudar a personas en búsqueda de trabajos temporales. También propuso la implementación de un modo oscuro como una futura funcionalidad.
 
 ### SEGMENTO 02: (Empleadores)
 
@@ -6520,15 +6529,15 @@ Edad: 22 años
 
 Distrito:  Jesus María
 
-Evidencia de la reunión: [Entrevista a Claudia](https://upcedupe-my.sharepoint.com/personal/u202120911_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202120911%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Web%20TB2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc1Ny4xMX19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+Evidencia de la reunión: [Entrevista a Claudia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=QHT0Jc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc5OC41fX0%3D)
 
 <div align=center>
 <img src="https://media.discordapp.net/attachments/1157361311060066345/1167619317475573830/image.png?ex=654ec93a&is=653c543a&hm=9e16d4aa2d41a4ca68abd8e26c9253322ec3abd694a58a726450fa16cbcc5947&=&width=2298&height=1242" alt="Entrevista 2"  width="90%"/>
 </div>
 
-Inicio: 12:37
+Inicio: 13:18
 
-Fin: 16:48
+Fin: 17:37
 
 Enlace de entrevista: 
 
@@ -6556,15 +6565,15 @@ Edad: 19
 
 Distrito: Surco
 
-Evidencia de la reunión: [Entrevista a José](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EZEjER7IOvBJr6aBI3Tu4lkBOsksgcCnLUcc8gWWDTvxwQ?e=bqZKqz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEwMDguNjN9fQ%3D%3D)
+Evidencia de la reunión: [Entrevista a José](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=2WANqy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEwNTQuNTJ9fQ%3D%3D)
 
 <div align=center>
 <img src="https://media.discordapp.net/attachments/1145421916413366426/1169796230306603058/image.png?ex=6556b4a3&is=65443fa3&hm=7f7848b10df69afd426090f36a8f201e2e0687080f39f70b21278d4b5981d13e&=&width=1074&height=389" alt="Entrevista 2"  width="90%"/>
 </div>
 
-Inicio: 16:48
+Inicio: 17:34
 
-Fin: 17:
+Fin: 21:12
 
 Enlace de entrevista: 
 
@@ -6574,27 +6583,39 @@ En la entrevista con Isaac, se exploraron sus impresiones sobre la aplicación C
 
 **Entrevista 03**
 
-Nombres: Cristian Andrés
+Nombres: Bruce Andres 
 
-Apellidos: Quito Igreda
+Apellidos: Cipriano Chumbes
 
-Edad: 22 años
+Edad: 23 años
 
-Distrito:  Los Olivos
+Distrito:  San Juan de Lurigancho
 
-Evidencia de la reunión: [Entrevista a Cristian](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EZEjER7IOvBJr6aBI3Tu4lkBOsksgcCnLUcc8gWWDTvxwQ?e=FZWOaz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEyMTguNTh9fQ%3D%3D)
+Evidencia de la reunión: [Entrevista a Bruce](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120911_upc_edu_pe/EbokJVDRyW1HtMbYCqkhIo0BLFGgdBjfus3hFcAf7bnoXg?e=2WANqy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjEwNTQuNTJ9fQ%3D%3D)
 
 <div align=center>
-<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1169729220495286283/image.png?ex=6556763a&is=6544013a&hm=1364917fc65c7890fa2d692c7c4e8a1ed18bf92c40034e7e4f7037c3751afd39&" alt="Entrevista 2"  width="90%"/>
+<img src="https://media.discordapp.net/attachments/1145583761182965852/1170144173505126461/image.png?ex=6557f8af&is=654583af&hm=51ed504926bfecb0c620cac4b79a1dd00e0682baf6edaf7880134586e810a329&=&width=1447&height=814" alt="Entrevista 2"  width="90%"/>
 </div>
 
-Inicio: 21:48
+Inicio: 21:12
 
-Fin: 25: 19
+Fin: 26: 52
 
 Resumen de la entrevista:
 
-En la entrevista con Cristian Quito, se exploraron sus opiniones sobre la aplicación Chambeap. Cristian Quito manifestó su confianza en la versatilidad de la aplicación, considerándola una herramienta eficaz para identificar candidatos para trabajos temporales o proyectos. Resaltó la capacidad de la plataforma para clasificar a los trabajadores según las necesidades del empleador como uno de sus puntos fuertes. Elogió el atractivo diseño y la facilidad de uso de la aplicación, destacando su comodidad durante la navegación. Además, señaló que planeaba utilizar la aplicación de forma frecuente, lo que podría simplificar la gestión de tareas en su hogar. Por último, expresó su disposición a recomendar Chambeap debido a su eficacia y conveniencia en la conexión de personas en busca de empleo con empleadores.
+En la entrevista, Bruce Cipriano expresó su satisfacción con la aplicación "ChambeaPe", destacando que es una herramienta ideal para solicitar y encontrar trabajadores temporales calificados. Mencionó que esta aplicación cuenta con características que le permiten lograr este propósito de manera efectiva.
+
+Bruce elogió la aplicación por su intuición y facilidad de uso, lo que la hace perfecta para sus necesidades. Como usuario activo que busca trabajadores temporales con regularidad, indicó que "ChambeaPe" se ajusta perfectamente a sus requerimientos.
+
+Sin embargo, señaló un área de mejora, que es el tamaño de las letras en la aplicación. Bruce experimenta dificultades para leer algunos textos debido a su tamaño reducido. Esta es una consideración importante para mejorar la experiencia del usuario.
+
+Bruce utilizará la aplicación con frecuencia, especialmente porque, como estudiante, a menudo carece de tiempo para realizar tareas como el riego de sus plantas. "ChambeaPe" le brinda la posibilidad de encontrar a alguien que le ayude con el cuidado de sus plantas y otras tareas similares.
+
+Además, Bruce expresó su disposición para recomendar la aplicación a sus amigos, ya que cree que puede ser de gran ayuda para otros obstáculos que buscan personal calificado.
+
+Finalmente, le entusiasmó la idea de tener un modo oscuro en la aplicación, ya que le ayudaría a reducir la fatiga visual, especialmente cuando la usa durante largos periodos de tiempo.
+
+En resumen, Bruce Cipriano elogió la idoneidad de la aplicación "ChambeaPe" para encontrar trabajadores temporales calificados, así como su facilidad de uso. Destacó la importancia de mejorar el tamaño de las letras en la aplicación y expresó su disposición a utilizarla con regularidad, recomendándola a sus amigos. Además, apoyó la idea de implementar un modo oscuro en la aplicación para reducir la fatiga visual.
 
 ### 5.3.3 Evaluación según heurísticas
 #### <div align="center">UX Heuristics & Principles Evaluation</div>
