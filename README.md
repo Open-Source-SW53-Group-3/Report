@@ -6440,6 +6440,30 @@ A continuación se repsentará la documentación de los servicios que se han des
 <br><br>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Nuestro equipo usó Azure para implementar la integración continua y desplegar nuestro backend en Azure Web Apps. este nos da la facilidad de usar nuestro Github para hacer deploy de este.
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137833378418849/2.jpg?ex=6557f2c7&is=65457dc7&hm=deba474f3215263a1a701c8ca02c1346df7e25675cba187b7a66ccc9e258996a&=&width=1658&height=897" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137833051275356/3.jpg?ex=6557f2c7&is=65457dc7&hm=010626e4ada55a3b2a08e83a2dd6eb349fd79be3db1b4e26fbe97454a12a6adb&=&width=1658&height=897" alt="APP-BACKEND-1"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137834255028244/4.jpg?ex=6557f2c7&is=65457dc7&hm=de1f97c9e4dd18e2d7afea4d4ef2b9857d3feca7831bbc9f5d8b11bdce242694&=&width=1658&height=897" alt="APP-BACKEND-2"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137833923690506/5.jpg?ex=6557f2c7&is=65457dc7&hm=73008102af54a7f32d145a8d78c96b59680edcb68efc9bc78e7d6e1f1fda73f8&=&width=1658&height=897" alt="APP-BACKEND-3"  width="90%"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137833646870548/6.jpg?ex=6557f2c7&is=65457dc7&hm=202954930cd3879054b0eecccbc2a8656ddfc34bf2b8cce3031f334c8f6230c6&=&width=1658&height=897" alt="APP-BACKEND-4"  width="90%"/>
+</div>
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ## 5.3 Validation Interview
