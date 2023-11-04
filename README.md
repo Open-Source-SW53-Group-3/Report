@@ -6353,9 +6353,600 @@ En esta sección se especifican los detalles del Sprint Backlog.
    </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
-<br>
+
+Ingresaremos nuestros commits del sprint 3.
+
+**Backend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Api</td>
+        <td>develop</td>
+        <td>Código</td>
+        <td>Autor</td>
+        <td>Descripción</td>
+        <td>Fecha</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>db67ef8</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #9 from Open-Source-SW53-Group-3/feature/worker-data-entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>223a91d</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: update certificate controller</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>75c8ce8</td>
+        <td>Jenn Espinoza</td>
+        <td>Merge branch 'feature/worker-data-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/worker-data-entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>6ec2cb0</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add skill entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>2112355</td>
+        <td>Diego Castro</td>
+        <td>Merge branch 'feature/worker-data-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/worker-data-entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>6e3fb09</td>
+        <td>Diego Castro</td>
+        <td>feat: add portfolio entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>d996232</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #8 from Open-Source-SW53-Group-3/feature/worker-data-entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>a15f6bd</td>
+        <td>steve</td>
+        <td>feat: add advertisement entity</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>e03c6b7</td>
+        <td>Ray Alessandro</td>
+        <td>Add or update the Azure App Service build and deployment workflow config</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>cc2d284</td>
+        <td>Ray Alessandro</td>
+        <td>Add or update the Azure App Service build and deployment workflow config</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>e80e266</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #7 from Open-Source-SW53-Group-3/feature/postulation-entity</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>1cd723d</td>
+        <td>Diego Castro</td>
+        <td>feat: add postulation entity</td>
+        <td>2023-11-02</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>3c6640e</td>
+        <td>Ray</td>
+        <td>feat: files added</td>
+        <td>2023-11-01</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>526bdac</td>
+        <td>Steve Castillo</td>
+        <td>Merge pull request #6 from Open-Source-SW53-Group-3/feature/post-entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/post-entity</td>
+        <td>92d4449</td>
+        <td>steve</td>
+        <td>feat: add post entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>bb30392</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #5 from Open-Source-SW53-Group-3/feature/worker-data-entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>dff7590</td>
+        <td>Ray</td>
+        <td>feat: packages configured</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>bd75494</td>
+        <td>Ray</td>
+        <td>Merge branch 'feature/worker-data-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/worker-data-entity</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>81c20fe</td>
+        <td>Ray</td>
+        <td>feat: infrastructure added</td>
+        <td>2023-10-31</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>142f792</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #4 from Open-Source-SW53-Group-3/feature/worker-data-entity</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>38dea90</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add methods on certificates entity</td>
+        <td>2023-10-30</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>95dc497</td>
+        <td>Ray</td>
+        <td>feat: models configured</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>feature/worker-data-entity</td>
+        <td>9380d03</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement certificate entity</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>b37c6fc</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #3 from Open-Source-SW53-Group-3/feature/user-entity</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>feature/user-entity</td>
+        <td>0dad31a</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: change fk references</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>e44b9ee</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #2 from Open-Source-SW53-Group-3/feature/user-entity</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>feature/user-entity</td>
+        <td>57bc94f</td>
+        <td>Ray</td>
+        <td>feat: endpoints added</td>
+        <td>2023-10-29</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ff8a154</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #1 from Open-Source-SW53-Group-3/feature/user-entity</td>
+        <td>2023-10-28</td>
+    </tr>
+    <tr>
+        <td>feature/user-entity</td>
+        <td>55aa306</td>
+        <td>Ray</td>
+        <td>feat: user-entity added</td>
+        <td>2023-10-28</td>
+    </tr>
+    <tr>
+        <td>feature/user-entity</td>
+        <td>f0dbfb4</td>
+        <td>Ray</td>
+        <td>feat: models added</td>
+        <td>2023-10-27</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>d30dc06</td>
+        <td>Ray</td>
+        <td>first commit</td>
+        <td>2023-10-27</td>
+    </tr>
+</table>
+
+**Frontend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=46 >ChambeaPe-Api</td>
+        <td>develop</td>
+        <td>a08eca7</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #31 from Open-Source-SW53-Group-3/feature/us-01</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>feature/us-01</td>
+        <td>724676a</td>
+        <td>Jenn Espinoza</td>
+        <td>Merge branch 'develop' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App into feature/us-01</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>d6cb0cb</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #30 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>12bfcac</td>
+        <td>Ray</td>
+        <td>feat: models and services added:</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>180ccef</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add validation from register component</td>
+        <td>2023-11-03</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>30032a1</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #29 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-10-20</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>acff15f</td>
+        <td>Ray</td>
+        <td>feat: us-13 ts added</td>
+        <td>2023-10-20</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>f288c9f</td>
+        <td>Ray</td>
+        <td>feat: us-13 style added</td>
+        <td>2023-10-20</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>63d5b7d</td>
+        <td>Ray</td>
+        <td>feat: us-13 template added</td>
+        <td>2023-10-20</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>f6250ff</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #28 from Open-Source-SW53-Group-3/feature/us-12</td>
+        <td>2023-10-19</td>
+    </tr>
+    <tr>
+        <td>feature/us-12</td>
+        <td>2804a5c</td>
+        <td>Ray</td>
+        <td>Merge branch 'feature/us-12' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-App into feature/us-12</td>
+        <td>2023-10-19</td>
+    </tr>
+    <tr>
+        <td>feature/us-12</td>
+        <td>0d44fa5</td>
+        <td>Ray</td>
+        <td>feat: feature/us-12</td>
+        <td>2023-10-19</td>
+    </tr>
+    <tr>
+        <td>feature/us-12</td>
+        <td>c7f2410</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #27 from Open-Source-SW53-Group-3/feature/us-12</td>
+        <td>2023-10-19</td>
+    </tr>
+    <tr>
+        <td>feature/us-12</td>
+        <td>f7d1ff6</td>
+        <td>Ray Alessandro</td>
+        <td>Merge branch 'develop' into feature/us-12</td>
+        <td>2023-10-19</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ed8fb8d</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #26 from Open-Source-SW53-Group-3/feature/us-18</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-18</td>
+        <td>05f2a32</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add routes</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-18</td>
+        <td>d550d0c</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add appearance section</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-18</td>
+        <td>6854694</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add settings section</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1b467c3</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #25 from Open-Source-SW53-Group-3/feature/us-03</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>0402baf</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add view dialog certificate</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>c04c4fc</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #24 from Open-Source-SW53-Group-3/feature/us-23</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>d81867d</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add  routes of profile component</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>82bb350</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add material module</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>210bb5f</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add certificate dialog</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>51419ec</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add style of the certificate list</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>ef2c81b</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement styles of the card add and edit</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>0e34ec7</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement a card to add and edit a certificate</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>42a5b9e</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add cerfitificate service</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>0e82e16</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add component list of certificates</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>41c879e</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #23 from Open-Source-SW53-Group-3/feature/us-03</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>5de008f</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: modify certificate section</td>
+        <td>2023-10-18</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>94e3cc2</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #22 from Open-Source-SW53-Group-3/feature/us-21</td>
+        <td>2023-10-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>7f6d600</td>
+        <td>Diego Castro</td>
+        <td>feat: add jobs component (worker POV)</td>
+        <td>2023-10-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>50a09f7</td>
+        <td>Diego Castro</td>
+        <td>feat: add job offer creation button</td>
+        <td>2023-10-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>b6d30eb</td>
+        <td>Diego Castro</td>
+        <td>feat: get posts by employer id</td>
+        <td>2023-10-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>0909291</td>
+        <td>Diego Castro</td>
+        <td>feat: allow users to log in as workers or employers</td>
+        <td>2023-10-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>dc67166</td>
+        <td>Diego Castro</td>
+        <td>feat: add employer and worker roles</td>
+        <td>2023-10-16</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>f6ff305</td>
+        <td>Diego Castro</td>
+        <td>feat: add user service</td>
+        <td>2023-10-16</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>74dae55</td>
+        <td>Diego Castro</td>
+        <td>feat: add user roles enum</td>
+        <td>2023-10-16</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>c8a0a6b</td>
+        <td>Ray</td>
+        <td>feat: forms validated</td>
+        <td>2023-10-14</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>32dd2cb</td>
+        <td>Ray</td>
+        <td>feat: chat component added</td>
+        <td>2023-10-13</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>2337524</td>
+        <td>Diego Castro</td>
+        <td>feat: add worker profile edit (worker POV)</td>
+        <td>2023-10-09</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>5519934</td>
+        <td>Diego Castro</td>
+        <td>feat: add star rating review (employer POV)</td>
+        <td>2023-10-09</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>93fef53</td>
+        <td>Diego Castro</td>
+        <td>Merge pull request #20 from Open-Source-SW53-Group-3/feature/us-03</td>
+        <td>2023-10-09</td>
+    </tr>
+    <tr>
+        <td>feature/us-03</td>
+        <td>5e5ddaf</td>
+        <td>Diego Castro</td>
+        <td>feat: add worker profile (employer POV)</td>
+        <td>2023-10-09</td>
+    </tr>
+</table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplicación, por lo que **no** se ha realizado pruebas unitarias y de integración para cada uno de los componentes y servicios desarrollados. 
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+<br><br>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 - API ChambeaPe: https://chambeapeapi.azurewebsites.net/api/v1/
 
