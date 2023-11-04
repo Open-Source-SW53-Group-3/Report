@@ -6925,8 +6925,7 @@ Ingresaremos nuestros commits del sprint 3.
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
-En el alcance del sprint 2 se ha desarrollado solo nuestro front-end de la aplicación web de ChambeaPe como primera instancia. Por ello no se evidencia el Testing Suite en este sprint.
-
+En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplicación, por lo que NO se ha realizado pruebas unitarias y de integración para cada uno de los componentes y servicios desarrollados. 
 <table align="left" border="1" width="100%">
   <tr>
     <th>Repository</th>
