@@ -7530,6 +7530,18 @@ En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplica
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+**Insights Frontend**
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175931815761018995/image.png?ex=656d06d8&is=655a91d8&hm=a96954fd9d08865c6381f68e5a195ae1986f788da2eb208ec7b6cf1373a42b3f&=" alt="Insights Front"  width="90%"/>
+</div>
+
+**Insights Backend**
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175932303042687046/image.png?ex=656d074c&is=655a924c&hm=565cc01ce3e2d8a4abf34ed2aaafc016e6de3cc6b2ad13180a57e6e11a1a10e6&=" alt="Insights Backend"  width="90%"/>
+</div>
+
+
+
 ## 5.3 Validation Interview
 A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
 
