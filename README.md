@@ -7189,7 +7189,7 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
             <b>Sum of Story Points</b>
         </td>
         <td>
-            32
+            11
         </td>
     </tr>
 </table>
@@ -7314,6 +7314,189 @@ En esta sección se especifican los detalles del Sprint Backlog.
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
+**Backend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Api</td>
+        <td>develop</td>
+        <td>85bd170</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #11 from Open-Source-SW53-Group-3/feature/postulation-entity</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>15be340</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add annotation</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>c98eaa1</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add cors configuration</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>e72ad29</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: change methods</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>75642db</td>
+        <td>Jenn Espinoza</td>
+        <td>Merge branch 'feature/postulation-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/postulation-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>729ad68</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #10 from Open-Source-SW53-Group-3/feature/chat-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/chat-entity</td>
+        <td>3cd9411</td>
+        <td>Ray</td>
+        <td>Merge branch 'feature/chat-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/chat-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/chat-entity</td>
+        <td>0ee7e5d</td>
+        <td>Ray</td>
+        <td>feat: chat structure and implements added</td>
+        <td>2023-11-17</td>
+    </tr>
+</table>
+
+**Frontend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-App</td>
+        <td>develop</td>
+        <td>bd4f31e</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #37 from Open-Source-SW53-Group-3/feature/us-15</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>0baf07b</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: change url</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>df37b6a</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement delete a post</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>c7238db</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement create a post</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>67ecd1b</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: modify data from register</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1082512</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #36 from Open-Source-SW53-Group-3/feature/us-15</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>372c37c</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement delete method</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cecede6</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #34 from Open-Source-SW53-Group-3/feature/us-21</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>ed5fd77</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement worker postulation</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0c96a2a</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #33 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>0b81bac</td>
+        <td>Ray</td>
+        <td>feat: chat service implemented</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>a51a404</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #32 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-11-14</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>12352fd</td>
+        <td>Ray Alessandro</td>
+        <td>Merge branch 'develop' into feature/us-13</td>
+        <td>2023-11-14</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>4d385ca</td>
+        <td>Ray</td>
+        <td>fea: environment updated v1</td>
+        <td>2023-11-14</td>
+    </tr>
+</table>
+
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplicación, por lo que **no** se ha realizado pruebas unitarias y de integración para cada uno de los componentes y servicios desarrollados. 
@@ -7339,6 +7522,8 @@ En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplica
 <br><br>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
