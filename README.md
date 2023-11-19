@@ -7198,6 +7198,120 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 
 #### 5.2.4.2. Sprint Backlog 4
 
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello]()
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US-01</td>
+       <td rowspan="3">Inicio de Sesión</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de inicio de sesión</td>
+       <td>Crear un modelo de datos que almacene los datos de inicio de sesión de un usuario, como correo electrónico y contraseña.</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de inicio de sesión</td>
+       <td>mplementar una interfaz de usuario funcional que verifique y permita a los usuarios iniciar sesión en la aplicación.</td>
+       <td>3.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar autenticación de usuarios</td>
+       <td>Implementar la autenticación de usuarios utilizando Spring Security y JWT.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="4">US-02</td>
+       <td rowspan="4">Registrarse con correo</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de registro en el backend</td>
+       <td>Crear un modelo de datos que almacene los datos de registro de un usuario, como correo electrónico, nombre, apellido, contraseña y tipo de usuario. </td> 
+       <td>4</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de registro</td>
+       <td>Implementar una interfaz de usuario que permita a los usuarios registrarse en la aplicación con su correo electrónico, nombre, apellido, contraseña y tipo de usuario.</td>
+       <td>2</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td> Implementar creación de usuarios en el backend</td>
+       <td> Implementar la creación de usuarios en el backend utilizando Spring Security y JWT.</td>
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Implementar creación de usuarios en el frontend</td>
+       <td>Implementar la creación de usuarios en el frontend utilizando Angular.</td>
+       <td>4</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US-21</td>
+       <td rowspan="3">Postular a vacantes de trabajo</td>
+        <td>T01</td>
+        <td> Implementar restricción de acceso por roles</td>
+        <td> Implementar la restricción de acceso a la función de postulación de vacantes a usuarios autenticados con el rol de empleador.</td>
+        <td>3</td>
+        <td>Ray Del Carmen</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+        <td>Implementar la validación de campos</td>
+        <td> Implementar la validación de campos en la función de postulación de vacantes.</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>T03</td>
+        <td>Implementar la creación de postulaciones en el backend</td>
+        <td> Implementar la creación de postulaciones en el backend utilizando Spring Security y JWT.</td>
+        <td>2,5</td>
+        <td>Ray Del Carmen</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
