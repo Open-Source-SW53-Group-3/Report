@@ -7004,55 +7004,55 @@ JSON de respuesta de un chambeador
 
 A continuación se muestra el Swagger de los servicios que se han desarrollado para este sprint backlog. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure
 
-A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
+A continuación se presentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
 
 <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="ChambeapePe API"  width="100%"> <img>
 
 
 <table align="left" border="1" width="100%">
-        <tr>
-            <th>Services</th>
-            <th>Evidencia</th>
-            <th>Descripción</th>
-        </tr>
-        <tr>
-            <th>Url Base</th>
-            <td>
-            <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="API"  width="100%"> <img>
-            </td>
-            <td>Este es nuestro Swagger del API de ChambeaPe que maneja todos los controladores</td>
-        </tr>
-        <tr>
-            <th>Employer</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477546266804/opera_bFiYUUqv9F.png?ex=6557f272&is=65457d72&hm=49258443a0d205caf7bc59a31d63d1df67b713947a967a847ad2fed5a90655e7&=&width=583&height=438" alt="Endpoint Employer"  width="100%"></td>
-            <td>Endpoint Employer </td>
-        </tr>
-        <tr>
-            <th>Worker</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478724861963/opera_0Upoe9YZKf.png?ex=6557f273&is=65457d73&hm=a53539fdde5d9c18e4e62f74b690ffcefef8c98b5395d4a89b339748fa5a6d78&=&width=543&height=426" alt="Endpoint Worker"  width="100%"></td>
-            <td>Endpoint Worker.</td>
-        </tr>
-        <tr>
-            <th>Certificate</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478473191454/opera_X5gexOJJak.png?ex=6557f272&is=65457d72&hm=7d57e36d0b3a77bc032c5de1176804ad69fa835ac6dfad6f4a246748ccf6b4f4&=&width=885&height=516" alt="Endpoint Certificate"  width="100%"></td>
-            <td>Endpoint Certificate</td>
-        </tr>
-        <tr>
-            <th>Postulation</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478246715452/opera_E6zeYQ4OY7.png?ex=6557f272&is=65457d72&hm=d4978819427433454005fe19c5fd4ac37f83a7b6212c8339f7eeb3336c3b5c8e&=&width=878&height=418" alt="Endpoint Postulation"  width="100%"></td>
-            <td>Endpoint Postulation</td>
-        </tr>
-        <tr>
-            <th>Post</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477999247511/opera_r5JkdZQIS1.png?ex=6557f272&is=65457d72&hm=f20ff5860b9d8bfcfc2c056823a6b36056ef1b72e5188791b9c829cd300b46d0&=&width=746&height=601" alt="Endpoint Post"  width="100%"></td>
-            <td>Endpoint Post</td>
-        </tr>
-        <tr>
-            <th>User</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477768548524/opera_1zgCzSmwDz.png?ex=6557f272&is=65457d72&hm=9e488962a8c770c04533375d2de317b0feb386eadafdd40f2defb9232f72974e&=&width=548&height=427" alt="Endpoint User"  width="100%"></td>
-            <td>Endpoint User</td>
-        </tr>
-    </table>
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Url Base</th>
+        <td>
+        <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="API"  width="100%"> <img>
+        </td>
+        <td>Este es nuestro Swagger del API de ChambeaPe que maneja todos los controladores</td>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477546266804/opera_bFiYUUqv9F.png?ex=6557f272&is=65457d72&hm=49258443a0d205caf7bc59a31d63d1df67b713947a967a847ad2fed5a90655e7&=&width=583&height=438" alt="Endpoint Employer"  width="100%"></td>
+        <td>Endpoint Employer </td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478724861963/opera_0Upoe9YZKf.png?ex=6557f273&is=65457d73&hm=a53539fdde5d9c18e4e62f74b690ffcefef8c98b5395d4a89b339748fa5a6d78&=&width=543&height=426" alt="Endpoint Worker"  width="100%"></td>
+        <td>Endpoint Worker.</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478473191454/opera_X5gexOJJak.png?ex=6557f272&is=65457d72&hm=7d57e36d0b3a77bc032c5de1176804ad69fa835ac6dfad6f4a246748ccf6b4f4&=&width=885&height=516" alt="Endpoint Certificate"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Postulation</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478246715452/opera_E6zeYQ4OY7.png?ex=6557f272&is=65457d72&hm=d4978819427433454005fe19c5fd4ac37f83a7b6212c8339f7eeb3336c3b5c8e&=&width=878&height=418" alt="Endpoint Postulation"  width="100%"></td>
+        <td>Endpoint Postulation</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477999247511/opera_r5JkdZQIS1.png?ex=6557f272&is=65457d72&hm=f20ff5860b9d8bfcfc2c056823a6b36056ef1b72e5188791b9c829cd300b46d0&=&width=746&height=601" alt="Endpoint Post"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477768548524/opera_1zgCzSmwDz.png?ex=6557f272&is=65457d72&hm=9e488962a8c770c04533375d2de317b0feb386eadafdd40f2defb9232f72974e&=&width=548&height=427" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+</table>
 
 <br><br>
 
@@ -7168,7 +7168,7 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
             <b>Retrospective Summary</b>
         </td>
         <td>
-        Para el Sprint 4 se plantea terminar de conectar el frontend con el backend, además de implementar la seguridad de la aplicación web usando Spring Security.
+        Para el Sprint 4, se plantea finalizar la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web usando Spring Security. Spring Security proporciona funcionalidades como autenticación, autorización y protección contra ataques comunes.
         </td>
     </tr>
      <tr align="left">
@@ -7527,8 +7527,70 @@ En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplica
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+A continuación se muestra el Swagger Documentado de los servicios que se han desarrollado. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure.
+
+<img src="https://media.discordapp.net/attachments/1145753804864749568/1175954151839105044/image.png?ex=656d1ba5&is=655aa6a5&hm=c602682c5be7a41aca1a9a3f4064471be4aadcbd37e5e5132aff3bd098e5e57c&=&width=1127&height=681" alt="ChambeapePe API"  width="100%"> <img>
+
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954469868028056/image.png?ex=656d1bf1&is=655aa6f1&hm=49749df815357ba3a702c380504aa3d13e436c747b2aa2c07606cf196c67c145&=" alt="Endpoint Employer"  width="100%"></td>
+        <td>Endpoint Employer </td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954566890655764/image.png?ex=656d1c08&is=655aa708&hm=a7462257922e081851c38731cf44496f62cc2f214ab8f7219fe302246d2af7e8&=" alt="Endpoint Worker"  width="100%"></td>
+        <td>Endpoint Worker.</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954690463244399/image.png?ex=656d1c26&is=655aa726&hm=89f6aae1ff5435ab3b57968fd5aab56ade07df1c8718e10befc8f0bb2d64da87&=" alt="Endpoint Certificate"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Postulation</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954801578741810/image.png?ex=656d1c40&is=655aa740&hm=1be1743a4e14273ef5d39beab8d82b2f64d4e9cbd5a49d4c8030ec4a35c42a69&=" alt="Endpoint Postulation"  width="100%"></td>
+        <td>Endpoint Postulation</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954886790230106/image.png?ex=656d1c55&is=655aa755&hm=120d65dc43dbd145b78e8896ce0fecd8444f4c36dee35288fbb0b691844bf20b&=" alt="Endpoint Post"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954985775804426/image.png?ex=656d1c6c&is=655aa76c&hm=ba3484c3d838757278fdc435fcf5b5d6b836b4195014ae8b375f779ef0dfef69&=" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+    <tr>
+        <th>Advertisement</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955232790949938/image.png?ex=656d1ca7&is=655aa7a7&hm=e7c636ecb010a44eba381a6b0d86302beb6d0a16156aa5fed94b85cc633dc21c&=" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint Advertisement</td>
+    </tr>
+    <tr>
+        <th>Portfolio</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955392849776721/image.png?ex=656d1ccd&is=655aa7cd&hm=41f94d4a3524275cf757f7cf13a9eb3de59ed4c5cf5d351909445a99f731c586&="  width="100%"></td>
+        <td>Endpoint Portfolio</td>
+    </tr>
+    <tr>
+        <th>Skill</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955630671015997/image.png?ex=656d1d06&is=655aa806&hm=8b3076e4cde40d9380ce083f9e3d461ea952d599abb5d30e332daeb052039d06&="  width="100%"></td>
+        <td>Endpoint Skill</td>
+    </tr>
+</table>
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+
 
 **Insights Frontend**
 <div align=center>
