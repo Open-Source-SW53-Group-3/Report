@@ -194,13 +194,13 @@ del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
+    <th><b>Criterio específico</b></th>
+    <th><b>Acciones realizadas</b></th>
+    <th><b>Conclusiones</b></th>
   </tr>
   <tr>
-    <td rowspan="2"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> TB1<br><br>
+    <td rowspan="4"><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td>TB1<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Realizamos la planificación adecuada para formar de manera efectiva el plan de desarrollo de nuestra solución.
         <br><br> 
@@ -210,7 +210,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Hemos establecido una estructura para identificar todos los elementos del proceso Lean UX, con el objetivo de comprender la problemática y encontrar soluciones en la medida de lo posible.
         <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b><br>
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
    </td>
@@ -218,7 +218,7 @@ del ABET – EAC - Student Outcome 5.
     Seleccionamos crear una aplicación destinada a empleadores y trabajadores eventuales, en la cual desarrollamos enunciados del problema y declaraciones de hipótesis para evaluar el alcance del desarrollo y proporcionar una solución efectiva a las necesidades de ambos grupos.</td>
   </tr>
   <tr>
-    <td> TP<br><br>
+    <td>TP<br><br>
          <b>Steve Roger Castillo Robles </b><br>
         - Nuestra sólida organización y planificación nos permitieron establecer de manera efectiva todos los puntos clave para el desarrollo exitoso de nuestro primer avance en la Aplicación Web Frontend.
         <br><br> 
@@ -228,15 +228,52 @@ del ABET – EAC - Student Outcome 5.
         <b>Jennifer Mary Espinoza Quispe</b><br>
         - Gracias a nuestra meticulosa organización, logramos identificar y mejorar varios aspectos clave en la ejecución de nuestro plan de desarrollo, lo que contribuyó a un progreso más fluido y efectivo.
         <br><br> 
-        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        <b>Ray Alessandro Del Carmen Zorrilla</b><br>
         - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
         <br><br>
    </td>
     <td>TP<br><br>
     Se seleccionaron cuidadosamente las user stories que abordaríamos en nuestro nuevo sprint para el desarrollo del Frontend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
   </tr>
+    <td>TB2<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Nuestra organización nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos permitió cumplir con los objetivos establecidos para el tercer sprint.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración entre el equipo de trabajo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la tercera entrega.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - La organización de nuestro equipo de trabajo nos permitió realizar las US seleccionadas para el tercer sprint, lo que nos llevó a cumplir con los objetivos establecidos para la tercera entrega.
+        <br><br> 
+        <b>Ray Alessandro Del Carmen Zorrilla</b><br>
+        - Colaboramos con los miembros del equipo para acordar cómo sería la implementación de las US seleccionadas para el tercer sprint, por eso es que logramos cumplir con los objetivos establecidos para la tercera entrega.
+        <br><br>
+   </td>
+    <td>TB2<br><br>
+    - Seleccionamos las US que abordaríamos en nuestro nuevo sprint para el desarrollo del Backend Application Web, asegurando así un enfoque claro y efectivo en la implementación de las funcionalidades esenciales.</td>
+    </td>
+  </tr>
   <tr>
-    <td rowspan="2"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - La organización de nuestro equipo de trabajo nos permitió realizar las US seleccionadas para el tercer sprint, lo que nos llevó a cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La colaboración entre el equipo de trabajo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - El trabajo en equipo nos permitió avanzar de manera efectiva en el desarrollo de la aplicación, lo que nos facilitó cumplir con los objetivos establecidos para la última entrega.
+        <br><br> 
+        <b>Ray Alessandro Del Carmen Zorrilla</b><br>
+        - Por la colaboración entre los miembros del equipo, logramos cumplir con los objetivos establecidos para la última entrega.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    - En la última entrega nos enfocamos en la implementación de las conexiones entre el Frontend y el Backend, lo que nos permitió cumplir con los objetivos establecidos para la última entrega.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
     <td> TB1<br><br>
          <b>Steve Roger Castillo Robles</b><br>
         - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
@@ -270,7 +307,46 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
    </td>
     <td>TP<br><br>
-    Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.</td>
+    Hemos alcanzado un hito significativo en nuestro proyecto al lograr con éxito el primer avance de la Aplicación Web Frontend, implementando con destreza y eficacia la solución en Angular. Este logro demuestra nuestro compromiso con la excelencia en el desarrollo y nos impulsa hacia el cumplimiento de nuestros objetivos.
+    </td>
+    </tr>
+    <td>TB2<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Las implementaciones de las reglas de negocio en nuestra aplicación reflejaron nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - La implementación y el uso del patrón MVC en nuestra aplicación reflejaron nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - El uso de Spring Boot en nuestra aplicación reflejó nuestro compromiso en ofrecer una solución innovadora y visualmente efectiva para abordar las carencias del sector en cuestión.
+        <br><br> 
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        - Los endpoints implementados en nuestra aplicación reflejaron nuestro compromiso en ofrecer una solución innovadora de alta calidad para abordar las carencias del sector en cuestión.
+        <br><br>
+   </td>
+    <td>TB2<br><br>
+    - Se implementaron las reglas de negocio, el patrón MVC, Spring Boot y los endpoints en nuestra aplicación, lo que demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
+    </td>
+  </tr>
+  <>
+    <td>TF<br><br>
+         <b>Steve Roger Castillo Robles </b><br>
+        - Se modificó el diseño de la aplicación para que sea más atractivo y fácil de usar para los usuarios.
+        <br><br> 
+         <b>Diego Mauricio Castro Soto</b><br>
+        - Se conectó el Frontend con el Backend para que los usuarios puedan interactuar con la aplicación.
+        <br><br>
+        <b>Jennifer Mary Espinoza Quispe</b><br>
+        - Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend.
+        <br><br> 
+        <b>Ray Alessandro Del Carmen Zorrilla</b>
+        - Se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+        <br><br>
+   </td>
+    <td>TF<br><br>
+    <!-- Resumen -->
+    - Se implementó la funcionalidad de la aplicación para que los usuarios puedan interactuar con ella. Para eso usamos los endpoints que se conectan con el Backend. Adicionalmente se implementó parcialmente la seguridad usando JWT para que los usuarios puedan ingresar de acuerdo a los roles que tengan.
+    </td>
   </tr>
 </table>
 
@@ -7597,7 +7673,17 @@ En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplica
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175992938044604436/image.png?ex=656d3fc5&is=655acac5&hm=82788ca5c498648440e1803c963a442ab91d38c05e7f61f0c3d4680dfa346445&=&width=1223&height=608" alt="ChambeapePe API"  width="100%">
 
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175994475315724429/image.png?ex=656d4133&is=655acc33&hm=36c59b3300d70266e66e721daf31768deb1bd0ed90dd8dc4eaa27deaae94866e&=&width=1223&height=603" alt="ChambeapePe API"  width="100%">
+
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175994541778669618/image.png?ex=656d4143&is=655acc43&hm=a1370cb9bb04293f36bcdfccbcb5d65451dfd4ec481bbc9b9452029f7631ca3c&=&width=1223&height=604" alt="ChambeapePe API"  width="100%">
+
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175994612591112282/image.png?ex=656d4154&is=655acc54&hm=975e29ba1f823473c19d1684b85242f40f35bd96d4c1e8bee05101589de0d940&=&width=1223&height=604" alt="ChambeapePe API"  width="100%">
+
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175994878195412992/image.png?ex=656d4193&is=655acc93&hm=a171dbd77612d27f74a80e510be5554f88970ab5a5cd37d4c76fee9c00805d05&=&width=1223&height=616" alt="ChambeapePe API"  width="100%">
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175997394366767114/image.png?ex=656d43eb&is=655aceeb&hm=3783faa083cbf25ce4f579831b76b5f58a50a24bf8da3366af6db491bf8d49c6&=&width=1223&height=603" alt="ChambeapePe API"  width="100%">
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175997467687387208/image.png?ex=656d43fd&is=655acefd&hm=ef3702713917d78075b7439996cc2e3d27bec5a1500f564f3f2854580e153a99&=&width=1223&height=610" alt="ChambeapePe API"  width="100%">
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
