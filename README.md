@@ -159,6 +159,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interview](#53-validation-interview)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -6995,55 +7004,55 @@ JSON de respuesta de un chambeador
 
 A continuación se muestra el Swagger de los servicios que se han desarrollado para este sprint backlog. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure
 
-A continuación se repsentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
+A continuación se presentará la documentación de los servicios que se han desarrollado en este sprint backlog. Para este nuestro front end accedemos a la API de ChambeaPe que creamos atraves de azure, cabe destacar que trabajamos con nuestros endpoints.
 
 <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="ChambeapePe API"  width="100%"> <img>
 
 
 <table align="left" border="1" width="100%">
-        <tr>
-            <th>Services</th>
-            <th>Evidencia</th>
-            <th>Descripción</th>
-        </tr>
-        <tr>
-            <th>Url Base</th>
-            <td>
-            <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="API"  width="100%"> <img>
-            </td>
-            <td>Este es nuestro Swagger del API de ChambeaPe que maneja todos los controladores</td>
-        </tr>
-        <tr>
-            <th>Employer</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477546266804/opera_bFiYUUqv9F.png?ex=6557f272&is=65457d72&hm=49258443a0d205caf7bc59a31d63d1df67b713947a967a847ad2fed5a90655e7&=&width=583&height=438" alt="Endpoint Employer"  width="100%"></td>
-            <td>Endpoint Employer </td>
-        </tr>
-        <tr>
-            <th>Worker</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478724861963/opera_0Upoe9YZKf.png?ex=6557f273&is=65457d73&hm=a53539fdde5d9c18e4e62f74b690ffcefef8c98b5395d4a89b339748fa5a6d78&=&width=543&height=426" alt="Endpoint Worker"  width="100%"></td>
-            <td>Endpoint Worker.</td>
-        </tr>
-        <tr>
-            <th>Certificate</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478473191454/opera_X5gexOJJak.png?ex=6557f272&is=65457d72&hm=7d57e36d0b3a77bc032c5de1176804ad69fa835ac6dfad6f4a246748ccf6b4f4&=&width=885&height=516" alt="Endpoint Certificate"  width="100%"></td>
-            <td>Endpoint Certificate</td>
-        </tr>
-        <tr>
-            <th>Postulation</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478246715452/opera_E6zeYQ4OY7.png?ex=6557f272&is=65457d72&hm=d4978819427433454005fe19c5fd4ac37f83a7b6212c8339f7eeb3336c3b5c8e&=&width=878&height=418" alt="Endpoint Postulation"  width="100%"></td>
-            <td>Endpoint Postulation</td>
-        </tr>
-        <tr>
-            <th>Post</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477999247511/opera_r5JkdZQIS1.png?ex=6557f272&is=65457d72&hm=f20ff5860b9d8bfcfc2c056823a6b36056ef1b72e5188791b9c829cd300b46d0&=&width=746&height=601" alt="Endpoint Post"  width="100%"></td>
-            <td>Endpoint Post</td>
-        </tr>
-        <tr>
-            <th>User</th>
-            <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477768548524/opera_1zgCzSmwDz.png?ex=6557f272&is=65457d72&hm=9e488962a8c770c04533375d2de317b0feb386eadafdd40f2defb9232f72974e&=&width=548&height=427" alt="Endpoint User"  width="100%"></td>
-            <td>Endpoint User</td>
-        </tr>
-    </table>
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Url Base</th>
+        <td>
+        <img src="https://media.discordapp.net/attachments/1088250517282640072/1170137757608321155/opera_31d97maq2H.png?ex=6557f2b5&is=65457db5&hm=98951fdfbcb44ad730ce17228f54cc06c46777cec305b899d4d3b3af7c733b45&=&width=1740&height=896" alt="API"  width="100%"> <img>
+        </td>
+        <td>Este es nuestro Swagger del API de ChambeaPe que maneja todos los controladores</td>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477546266804/opera_bFiYUUqv9F.png?ex=6557f272&is=65457d72&hm=49258443a0d205caf7bc59a31d63d1df67b713947a967a847ad2fed5a90655e7&=&width=583&height=438" alt="Endpoint Employer"  width="100%"></td>
+        <td>Endpoint Employer </td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478724861963/opera_0Upoe9YZKf.png?ex=6557f273&is=65457d73&hm=a53539fdde5d9c18e4e62f74b690ffcefef8c98b5395d4a89b339748fa5a6d78&=&width=543&height=426" alt="Endpoint Worker"  width="100%"></td>
+        <td>Endpoint Worker.</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478473191454/opera_X5gexOJJak.png?ex=6557f272&is=65457d72&hm=7d57e36d0b3a77bc032c5de1176804ad69fa835ac6dfad6f4a246748ccf6b4f4&=&width=885&height=516" alt="Endpoint Certificate"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Postulation</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137478246715452/opera_E6zeYQ4OY7.png?ex=6557f272&is=65457d72&hm=d4978819427433454005fe19c5fd4ac37f83a7b6212c8339f7eeb3336c3b5c8e&=&width=878&height=418" alt="Endpoint Postulation"  width="100%"></td>
+        <td>Endpoint Postulation</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477999247511/opera_r5JkdZQIS1.png?ex=6557f272&is=65457d72&hm=f20ff5860b9d8bfcfc2c056823a6b36056ef1b72e5188791b9c829cd300b46d0&=&width=746&height=601" alt="Endpoint Post"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://media.discordapp.net/attachments/1088250517282640072/1170137477768548524/opera_1zgCzSmwDz.png?ex=6557f272&is=65457d72&hm=9e488962a8c770c04533375d2de317b0feb386eadafdd40f2defb9232f72974e&=&width=548&height=427" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+</table>
 
 <br><br>
 
@@ -7081,6 +7090,594 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
 <div align=center>
     <img src="https://media.discordapp.net/attachments/1088250517282640072/1170144574556086332/opera_TLB72jsvKE.png?ex=6557f90e&is=6545840e&hm=1ff5118b174e8ffcaa9b330a988845a6730f0c36ef24dc74f539f0262f4d41e3&=&width=1408&height=570" alt="Insights 2"  width="70%"/>
 </div>
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="80%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            24/10/23         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            15:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Digital Dart     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo Digital Dart     
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 3, se logró desarrollar e implementar el 
+            backend de la aplicación web, usando como base de datos MySQL y el framework de Spring Boot.
+            Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión del chat con el usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Para el Sprint 4, se plantea finalizar la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web usando Spring Security. Spring Security proporciona funcionalidades como autenticación, autorización y protección contra ataques comunes.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            11
+        </td>
+    </tr>
+</table>
+</br>
+<br>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Backlog.
+
+- [Click aqui para ver el Trello]()
+
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+   <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+   <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+   <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+   </tr>
+   <tr>
+       <td rowspan="3">US-01</td>
+       <td rowspan="3">Inicio de Sesión</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de inicio de sesión</td>
+       <td>Crear un modelo de datos que almacene los datos de inicio de sesión de un usuario, como correo electrónico y contraseña.</td>
+       <td>3</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de inicio de sesión</td>
+       <td>mplementar una interfaz de usuario funcional que verifique y permita a los usuarios iniciar sesión en la aplicación.</td>
+       <td>3.5</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td>Implementar autenticación de usuarios</td>
+       <td>Implementar la autenticación de usuarios utilizando Spring Security y JWT.</td>
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="4">US-02</td>
+       <td rowspan="4">Registrarse con correo</td>
+       <td>T01</td>
+       <td>Crear modelo de usuario de registro en el backend</td>
+       <td>Crear un modelo de datos que almacene los datos de registro de un usuario, como correo electrónico, nombre, apellido, contraseña y tipo de usuario. </td> 
+       <td>4</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Implementar interfaz de usuario de registro</td>
+       <td>Implementar una interfaz de usuario que permita a los usuarios registrarse en la aplicación con su correo electrónico, nombre, apellido, contraseña y tipo de usuario.</td>
+       <td>2</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T03</td>
+       <td> Implementar creación de usuarios en el backend</td>
+       <td> Implementar la creación de usuarios en el backend utilizando Spring Security y JWT.</td>
+       <td>3</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T04</td>
+       <td>Implementar creación de usuarios en el frontend</td>
+       <td>Implementar la creación de usuarios en el frontend utilizando Angular.</td>
+       <td>2</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-03</td>
+       <td rowspan="2">	Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar JWT para la autenticación del perfil de usuario</td>
+       <td>Implementar JSON Web Tokens (JWT) para manejar la autenticación y autorización del perfil de usuario. Esto permitirá a los usuarios mantener sus datos personales actualizados de manera segura.</td> 
+       <td>4</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la actualización del perfil de usuario</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-12</td>
+       <td rowspan="2">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Establecer comunicación segura entre empleador y chambeador</td>
+       <td>Implementar Spring Security para garantizar una comunicación segura entre el empleador y el chambeador. Esto permitirá a los empleadores definir las características del trabajo directamente con los chambeadores de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la comunicación entre empleador y chambeador</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-13</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+       <td>T01</td>
+       <td>Implementar JWT para la reseña del empleador al chambeador</td>
+       <td>Implementar JWT para asegurar la reseña del empleador al chambeador. Esto permitirá a los empleadores dejar una reseña sobre la experiencia con el chambeador de manera segura después de que el trabajo se haya completado.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para las reseñas del empleador al chambeador</td>
+       <td>Conectar endpoints en el backend que permitan al empleador dejar una reseña sobre la experiencia con el chambeador. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="3">US-21</td>
+       <td rowspan="3">Postular a vacantes de trabajo</td>
+        <td>T01</td>
+        <td> Implementar restricción de acceso por roles</td>
+        <td> Implementar la restricción de acceso a la función de postulación de vacantes a usuarios autenticados con el rol de empleador.</td>
+        <td>3</td>
+        <td>Ray Del Carmen</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T02</td>
+        <td>Implementar la validación de campos</td>
+        <td> Implementar la validación de campos en la función de postulación de vacantes.</td>
+        <td>2</td>
+        <td>Steve Castillo</td>
+        <td>Done</td>
+   </tr>
+   <tr>
+        <td>T03</td>
+        <td>Implementar la creación de postulaciones en el backend</td>
+        <td> Implementar la creación de postulaciones en el backend utilizando Spring Security y JWT.</td>
+        <td>2,5</td>
+        <td>Ray Del Carmen</td>
+        <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-23</td>
+       <td rowspan="2">Manejar certificados</td>
+       <td>T01</td>
+       <td>Implementar Spring Security para el manejo de certificados</td>
+       <td>Implementar Spring Security para manejar los certificados del chambeador. Esto permitirá a los chambeadores manejar sus certificados de manera segura, lo que les dará una mejor oportunidad laboral.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Crear endpoints para el manejo de certificados</td>
+       <td>Crear endpoints en el backend que permitan al chambeador manejar sus certificados. Estos endpoints deben estar protegidos con Spring Security.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+**Backend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-Api</td>
+        <td>develop</td>
+        <td>85bd170</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #11 from Open-Source-SW53-Group-3/feature/postulation-entity</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>15be340</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add annotation</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>c98eaa1</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: add cors configuration</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>e72ad29</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: change methods</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/postulation-entity</td>
+        <td>75642db</td>
+        <td>Jenn Espinoza</td>
+        <td>Merge branch 'feature/postulation-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/postulation-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>729ad68</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #10 from Open-Source-SW53-Group-3/feature/chat-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/chat-entity</td>
+        <td>3cd9411</td>
+        <td>Ray</td>
+        <td>Merge branch 'feature/chat-entity' of https://github.com/Open-Source-SW53-Group-3/ChambeaPe-Api into feature/chat-entity</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/chat-entity</td>
+        <td>0ee7e5d</td>
+        <td>Ray</td>
+        <td>feat: chat structure and implements added</td>
+        <td>2023-11-17</td>
+    </tr>
+</table>
+
+**Frontend**
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th >Repository</th>
+        <th >Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=42 >ChambeaPe-App</td>
+        <td>develop</td>
+        <td>bd4f31e</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #37 from Open-Source-SW53-Group-3/feature/us-15</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>0baf07b</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: change url</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>df37b6a</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement delete a post</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>c7238db</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement create a post</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>67ecd1b</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: modify data from register</td>
+        <td>2023-11-18</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1082512</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #36 from Open-Source-SW53-Group-3/feature/us-15</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-15</td>
+        <td>372c37c</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement delete method</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cecede6</td>
+        <td>Jennifer Espinoza</td>
+        <td>Merge pull request #34 from Open-Source-SW53-Group-3/feature/us-21</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-21</td>
+        <td>ed5fd77</td>
+        <td>Jenn Espinoza</td>
+        <td>feat: implement worker postulation</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>0c96a2a</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #33 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>0b81bac</td>
+        <td>Ray</td>
+        <td>feat: chat service implemented</td>
+        <td>2023-11-17</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>a51a404</td>
+        <td>Ray Alessandro</td>
+        <td>Merge pull request #32 from Open-Source-SW53-Group-3/feature/us-13</td>
+        <td>2023-11-14</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>12352fd</td>
+        <td>Ray Alessandro</td>
+        <td>Merge branch 'develop' into feature/us-13</td>
+        <td>2023-11-14</td>
+    </tr>
+    <tr>
+        <td>feature/us-13</td>
+        <td>4d385ca</td>
+        <td>Ray</td>
+        <td>fea: environment updated v1</td>
+        <td>2023-11-14</td>
+    </tr>
+</table>
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplicación, por lo que **no** se ha realizado pruebas unitarias y de integración para cada uno de los componentes y servicios desarrollados. 
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td rowspan=20></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+<br><br>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+A continuación se muestra el Swagger Documentado de los servicios que se han desarrollado. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure.
+
+<img src="https://media.discordapp.net/attachments/1145753804864749568/1175954151839105044/image.png?ex=656d1ba5&is=655aa6a5&hm=c602682c5be7a41aca1a9a3f4064471be4aadcbd37e5e5132aff3bd098e5e57c&=&width=1127&height=681" alt="ChambeapePe API"  width="100%">
+
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Services</th>
+        <th>Evidencia</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <th>Employer</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954469868028056/image.png?ex=656d1bf1&is=655aa6f1&hm=49749df815357ba3a702c380504aa3d13e436c747b2aa2c07606cf196c67c145&=" alt="Endpoint Employer"  width="100%"></td>
+        <td>Endpoint Employer </td>
+    </tr>
+    <tr>
+        <th>Worker</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954566890655764/image.png?ex=656d1c08&is=655aa708&hm=a7462257922e081851c38731cf44496f62cc2f214ab8f7219fe302246d2af7e8&=" alt="Endpoint Worker"  width="100%"></td>
+        <td>Endpoint Worker.</td>
+    </tr>
+    <tr>
+        <th>Certificate</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954690463244399/image.png?ex=656d1c26&is=655aa726&hm=89f6aae1ff5435ab3b57968fd5aab56ade07df1c8718e10befc8f0bb2d64da87&=" alt="Endpoint Certificate"  width="100%"></td>
+        <td>Endpoint Certificate</td>
+    </tr>
+    <tr>
+        <th>Postulation</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954801578741810/image.png?ex=656d1c40&is=655aa740&hm=1be1743a4e14273ef5d39beab8d82b2f64d4e9cbd5a49d4c8030ec4a35c42a69&=" alt="Endpoint Postulation"  width="100%"></td>
+        <td>Endpoint Postulation</td>
+    </tr>
+    <tr>
+        <th>Post</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954886790230106/image.png?ex=656d1c55&is=655aa755&hm=120d65dc43dbd145b78e8896ce0fecd8444f4c36dee35288fbb0b691844bf20b&=" alt="Endpoint Post"  width="100%"></td>
+        <td>Endpoint Post</td>
+    </tr>
+    <tr>
+        <th>User</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175954985775804426/image.png?ex=656d1c6c&is=655aa76c&hm=ba3484c3d838757278fdc435fcf5b5d6b836b4195014ae8b375f779ef0dfef69&=" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint User</td>
+    </tr>
+    <tr>
+        <th>Advertisement</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955232790949938/image.png?ex=656d1ca7&is=655aa7a7&hm=e7c636ecb010a44eba381a6b0d86302beb6d0a16156aa5fed94b85cc633dc21c&=" alt="Endpoint User"  width="100%"></td>
+        <td>Endpoint Advertisement</td>
+    </tr>
+    <tr>
+        <th>Portfolio</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955392849776721/image.png?ex=656d1ccd&is=655aa7cd&hm=41f94d4a3524275cf757f7cf13a9eb3de59ed4c5cf5d351909445a99f731c586&="  width="100%"></td>
+        <td>Endpoint Portfolio</td>
+    </tr>
+    <tr>
+        <th>Skill</th>
+        <td><img src="https://media.discordapp.net/attachments/1145753804864749568/1175955630671015997/image.png?ex=656d1d06&is=655aa806&hm=8b3076e4cde40d9380ce083f9e3d461ea952d599abb5d30e332daeb052039d06&="  width="100%"></td>
+        <td>Endpoint Skill</td>
+    </tr>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+El proyecto se encuentra desplegado en Azure, todo esto está documentado en el 3.2.3.7 Software Deployment Evidence for Sprint Review.
+Acá el link al documento: [3.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+**Insights Frontend**
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175931815761018995/image.png?ex=656d06d8&is=655a91d8&hm=a96954fd9d08865c6381f68e5a195ae1986f788da2eb208ec7b6cf1373a42b3f&=" alt="Insights Front"  width="90%"/>
+</div>
+
+**Insights Backend**
+<div align=center>
+<img src="https://media.discordapp.net/attachments/1142626084358193254/1175932303042687046/image.png?ex=656d074c&is=655a924c&hm=565cc01ce3e2d8a4abf34ed2aaafc016e6de3cc6b2ad13180a57e6e11a1a10e6&=" alt="Insights Backend"  width="90%"/>
+</div>
+
+
 
 ## 5.3 Validation Interview
 A continuación se presentan los resultados de la entrevista de validación realizada a los usuarios de la aplicación web.
