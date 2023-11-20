@@ -7529,7 +7529,7 @@ En el alcance del sprint 3 se ha desarrollado el frontend y backend de la aplica
 
 A continuación se muestra el Swagger Documentado de los servicios que se han desarrollado. Para conectar nuestro frontend en Angular con nuestro backend accedemos a la API de ChambeaPe que creamos a través de Azure.
 
-<img src="https://media.discordapp.net/attachments/1145753804864749568/1175954151839105044/image.png?ex=656d1ba5&is=655aa6a5&hm=c602682c5be7a41aca1a9a3f4064471be4aadcbd37e5e5132aff3bd098e5e57c&=&width=1127&height=681" alt="ChambeapePe API"  width="100%"> <img>
+<img src="https://media.discordapp.net/attachments/1145753804864749568/1175954151839105044/image.png?ex=656d1ba5&is=655aa6a5&hm=c602682c5be7a41aca1a9a3f4064471be4aadcbd37e5e5132aff3bd098e5e57c&=&width=1127&height=681" alt="ChambeapePe API"  width="100%">
 
 
 <table align="left" border="1" width="100%">
@@ -7587,7 +7587,8 @@ A continuación se muestra el Swagger Documentado de los servicios que se han de
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-
+El proyecto se encuentra desplegado en Azure, todo esto está documentado en el 3.2.3.7 Software Deployment Evidence for Sprint Review.
+Acá el link al documento: [3.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
