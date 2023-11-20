@@ -7205,15 +7205,15 @@ En esta sección se especifican los detalles del Sprint Backlog.
 <img src="https://media.discordapp.net/attachments/1145421916413366426/1156335087047155813/image.png?ex=65149878&is=651346f8&hm=5903a8e985f805a035c0a12178a047bf1b9ab708a844cc10908782023beee456&=&width=2626&height=1242" alt="Trello-Sprint-3"  width="90%"> <img>
 
 <table align="center" border="1" width="90%" style="text-align:center">
-    <tr>
+   <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 3</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
      </tr>
-     <tr>
+   <tr>
        <td colspan="2"><b>User Story</b></td>
        <td colspan="6"><b>Work-Item / Task</b></td>
      </tr>
-     <tr>
+   <tr>
        <td><b>Id</b></td>
        <td><b>Title</b></td>
        <td><b>Id</b></td>
@@ -7222,8 +7222,8 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td><b>Estimation(Hours)</b></td>
        <td><b>Assigned To</b></td>
        <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-     </tr>
-     <tr>
+   </tr>
+   <tr>
        <td rowspan="3">US-01</td>
        <td rowspan="3">Inicio de Sesión</td>
        <td>T01</td>
@@ -7240,16 +7240,16 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>3.5</td>
        <td>Diego Castro</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
        <td>T03</td>
        <td>Implementar autenticación de usuarios</td>
        <td>Implementar la autenticación de usuarios utilizando Spring Security y JWT.</td>
        <td>4</td>
        <td>Diego Castro</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
        <td rowspan="4">US-02</td>
        <td rowspan="4">Registrarse con correo</td>
        <td>T01</td>
@@ -7258,32 +7258,88 @@ En esta sección se especifican los detalles del Sprint Backlog.
        <td>4</td>
        <td>Ray Del Carmen</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
        <td>T02</td>
        <td>Implementar interfaz de usuario de registro</td>
        <td>Implementar una interfaz de usuario que permita a los usuarios registrarse en la aplicación con su correo electrónico, nombre, apellido, contraseña y tipo de usuario.</td>
        <td>2</td>
        <td>Ray Del Carmen</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
        <td>T03</td>
        <td> Implementar creación de usuarios en el backend</td>
        <td> Implementar la creación de usuarios en el backend utilizando Spring Security y JWT.</td>
-       <td>4</td>
+       <td>3</td>
        <td>Jennifer Espinoza</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
        <td>T04</td>
        <td>Implementar creación de usuarios en el frontend</td>
        <td>Implementar la creación de usuarios en el frontend utilizando Angular.</td>
-       <td>4</td>
+       <td>2</td>
        <td>Steve Castillo</td>
        <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
+       <td rowspan="2">US-03</td>
+       <td rowspan="2">	Manejar información del perfil</td>
+       <td>T01</td>
+       <td>Implementar JWT para la autenticación del perfil de usuario</td>
+       <td>Implementar JSON Web Tokens (JWT) para manejar la autenticación y autorización del perfil de usuario. Esto permitirá a los usuarios mantener sus datos personales actualizados de manera segura.</td> 
+       <td>4</td>
+       <td>Ray Del Carmen</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la actualización del perfil de usuario</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
+       <td rowspan="2">US-12</td>
+       <td rowspan="2">Comunicar entre empleado y chambeador</td>
+       <td>T01</td>
+       <td>Establecer comunicación segura entre empleador y chambeador</td>
+       <td>Implementar Spring Security para garantizar una comunicación segura entre el empleador y el chambeador. Esto permitirá a los empleadores definir las características del trabajo directamente con los chambeadores de manera segura.</td> 
+       <td>4</td>
+       <td>Diego Castro</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para la comunicación entre empleador y chambeador</td>
+       <td>Conectar endpoints del backend que permitan al usuario actualizar su información de perfil. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td rowspan="2">US-13</td>
+       <td rowspan="2">Reseñar empleador al chambeador</td>
+       <td>T01</td>
+       <td>Implementar JWT para la reseña del empleador al chambeador</td>
+       <td>Implementar JWT para asegurar la reseña del empleador al chambeador. Esto permitirá a los empleadores dejar una reseña sobre la experiencia con el chambeador de manera segura después de que el trabajo se haya completado.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Conectar endpoints para las reseñas del empleador al chambeador</td>
+       <td>Conectar endpoints en el backend que permitan al empleador dejar una reseña sobre la experiencia con el chambeador. Estos endpoints deben estar protegidos con JWT.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+
+   <tr>
        <td rowspan="3">US-21</td>
        <td rowspan="3">Postular a vacantes de trabajo</td>
         <td>T01</td>
@@ -7292,25 +7348,43 @@ En esta sección se especifican los detalles del Sprint Backlog.
         <td>3</td>
         <td>Ray Del Carmen</td>
         <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
         <td>T02</td>
         <td>Implementar la validación de campos</td>
         <td> Implementar la validación de campos en la función de postulación de vacantes.</td>
         <td>2</td>
         <td>Steve Castillo</td>
         <td>Done</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
         <td>T03</td>
         <td>Implementar la creación de postulaciones en el backend</td>
         <td> Implementar la creación de postulaciones en el backend utilizando Spring Security y JWT.</td>
         <td>2,5</td>
         <td>Ray Del Carmen</td>
         <td>Done</td>
-    </tr>
-</table>
+   </tr>
 
+   <tr>
+       <td rowspan="2">US-23</td>
+       <td rowspan="2">Manejar certificados</td>
+       <td>T01</td>
+       <td>Implementar Spring Security para el manejo de certificados</td>
+       <td>Implementar Spring Security para manejar los certificados del chambeador. Esto permitirá a los chambeadores manejar sus certificados de manera segura, lo que les dará una mejor oportunidad laboral.</td> 
+       <td>4</td>
+       <td>Jennifer Espinoza</td>
+       <td>Done</td>
+   </tr>
+   <tr>
+       <td>T02</td>
+       <td>Crear endpoints para el manejo de certificados</td>
+       <td>Crear endpoints en el backend que permitan al chambeador manejar sus certificados. Estos endpoints deben estar protegidos con Spring Security.</td>
+       <td>3</td>
+       <td>Steve Castillo</td>
+       <td>Done</td>
+   </tr>
+</table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
