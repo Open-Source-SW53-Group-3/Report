@@ -162,7 +162,7 @@
     - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
       - [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5244-testing-suite-evidence-for-sprint-review)
       - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
@@ -7265,7 +7265,7 @@ Nuestro equipo usó Azure para implementar la integración continua y desplegar 
             <b>Sum of Story Points</b>
         </td>
         <td>
-            11
+            35
         </td>
     </tr>
 </table>
